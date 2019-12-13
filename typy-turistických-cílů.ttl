@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů> a skos:ConceptScheme;
+  skos:prefLabel "Types of tourist destinations"@en, "Typy turistických cílů"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/1> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
+  skos:notation "1";
+  skos:prefLabel "Natural"@en, "Přírodní"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/2> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
+  skos:notation "2";
+  skos:prefLabel "Kulturní"@cs, "Manmade"@en .

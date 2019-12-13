@@ -1,0 +1,39 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu> a skos:ConceptScheme;
+  skos:prefLabel "Day of the week"@en, "Den v týdnu"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/1> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "1";
+  skos:prefLabel "Monday"@en, "Pondělí "@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/2> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "2";
+  skos:prefLabel "Tuesday"@en, "Úterý"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/3> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "3";
+  skos:prefLabel "Středa"@cs, "Wednesday"@en .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/4> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "4";
+  skos:prefLabel "Thursday"@en, "Čtvrtek"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/5> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "5";
+  skos:prefLabel "Friday"@en, "Pátek"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/6> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "6";
+  skos:prefLabel "Saturday"@en, "Sobota"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu/položky/7> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/den-v-týdnu>;
+  skos:notation "7";
+  skos:prefLabel "Neděle"@cs, "Sunday"@en .
