@@ -1,7 +1,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> a skos:ConceptScheme;
-  skos:prefLabel "Sport"@cs, "Sport"@en .
+  skos:prefLabel "Sports"@cs, "Sporty"@en .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/1> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;

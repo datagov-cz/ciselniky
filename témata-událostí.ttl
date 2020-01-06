@@ -1,109 +1,109 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/témata> a skos:ConceptScheme;
-  skos:prefLabel "Category"@en, "Téma"@cs .
+  skos:prefLabel "Event themes"@en, "Témata událostí"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/1> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/1> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "1";
   skos:prefLabel "Economy and Finance"@en, "Ekonomika a finance"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/2> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/2> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "2";
   skos:prefLabel "Health and Lifestyle"@en, "Zdraví a životní styl"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/3> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/3> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "3";
   skos:prefLabel "Doprava"@cs, "Traffic"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/4> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/4> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "4";
   skos:prefLabel "Science and Education"@en, "Věda a vzdělání"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/5> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/5> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "5";
   skos:prefLabel "Lidé a společnost"@cs, "People and Society"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/6> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/6> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "6";
   skos:prefLabel "Infrastructure"@en, "Infrastruktura"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/7> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/7> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "7";
   skos:prefLabel "Crime and Safety"@en, "Kriminalita a bezpečnost"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/8> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/8> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "8";
   skos:prefLabel "Emergency"@en, "Mimořádná nebo nebezpečná situace"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/9> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/9> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "9";
   skos:prefLabel "Sport"@cs, "Sport"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/10> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/10> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "10";
   skos:prefLabel "Arts and Culture"@en, "Umění a kultura"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/11> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/11> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "11";
   skos:prefLabel "Technologie"@cs, "Technology"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/12> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/12> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "12";
   skos:prefLabel "Food and Drinks"@en, "Jídlo a pití"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/13> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/13> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "13";
   skos:prefLabel "Environment"@en, "Životní prostředí"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/14> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/14> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "14";
   skos:prefLabel "Historie"@cs, "History"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/15> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/15> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "15";
   skos:prefLabel "Events"@en, "Nadcházející události"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/16> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/16> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "16";
   skos:prefLabel "Politics"@en, "Politika"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/17> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/17> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "17";
   skos:prefLabel "Počasí"@cs, "Weather"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/18> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/18> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "18";
   skos:prefLabel "Industry and Agriculture"@en, "Průmysl a zemědělství"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/19> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/19> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "19";
   skos:prefLabel "Cestování"@cs, "Travelling"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/20> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/20> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "20";
   skos:prefLabel "Bydlení"@cs, "Housing"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/témata/položky/21> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/21> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata>;
   skos:notation "21";
   skos:prefLabel "Jiné"@cs, "Other"@en .
