@@ -1,49 +1,31 @@
-@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
-@prefix schema: <http://schema.org/> .
-@prefix gr:     <http://purl.org/goodrelations/v1#> .
-@prefix owl:    <http://www.w3.org/2002/07/owl#> .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu> a skos:ConceptScheme;
-  skos:prefLabel "Days of the week"@en, "Dny v týdnu"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Days of the week"@en, "Dny v týdnu"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/1> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Monday, gr:Monday ;
-  skos:notation "1";
-  skos:prefLabel "Monday"@en, "Pondělí"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pondělí> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Monday"@en, "Pondělí"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/2> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Tuesday, gr:Tuesday ;
-  skos:notation "2";
-  skos:prefLabel "Tuesday"@en, "Úterý"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuesday"@en, "Úterý"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/3> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Wednesday, gr:Wednesday ;
-  skos:notation "3";
-  skos:prefLabel "Středa"@cs, "Wednesday"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Středa"@cs, "Wednesday"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/4> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Thursday, gr:Thursday ;
-  skos:notation "4";
-  skos:prefLabel "Thursday"@en, "Čtvrtek"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Thursday"@en, "Čtvrtek"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/5> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Friday, gr:Friday ;
-  skos:notation "5";
-  skos:prefLabel "Friday"@en, "Pátek"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pátek> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Friday"@en, "Pátek"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/6> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Saturday, gr:Saturday ;
-  skos:notation "6";
-  skos:prefLabel "Saturday"@en, "Sobota"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/sobota> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Saturday"@en, "Sobota"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/7> a skos:Concept;
-  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  owl:sameAs schema:Sunday, gr:Sunday ;
-  skos:notation "7";
-  skos:prefLabel "Neděle"@cs, "Sunday"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Neděle"@cs, "Sunday"@en .
