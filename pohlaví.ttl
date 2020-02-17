@@ -1,0 +1,12 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> a skos:ConceptScheme;
+  skos:prefLabel "Sex"@en, "Pohlaví"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
+  skos:prefLabel "Male"@en, "Mužské"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
+  skos:prefLabel "Female"@en, "Ženské"@cs .
