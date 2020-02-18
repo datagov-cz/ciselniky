@@ -5,8 +5,10 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
-  skos:prefLabel "Male"@en, "Mužské"@cs .
+  skos:prefLabel "Male"@en, "Mužské"@cs ;
+  skos:exactMatch <https://data.cssz.cz/resource/ciselniky/ciselnik-pohlavi/1/2009-01-01> .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
-  skos:prefLabel "Female"@en, "Ženské"@cs .
+  skos:prefLabel "Female"@en, "Ženské"@cs ;
+  skos:exactMatch <https://data.cssz.cz/resource/ciselniky/ciselnik-pohlavi/2/2009-01-01> .
