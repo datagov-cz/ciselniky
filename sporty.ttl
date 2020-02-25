@@ -95,9 +95,9 @@
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
   skos:prefLabel "Football"@en, "Fotbal"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/fresbee> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/frisbee> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Fresbee"@cs, "Fresbee"@en .
+  skos:prefLabel "Frisbee"@cs, "Frisbee"@en .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/futsal> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
@@ -119,9 +119,9 @@
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
   skos:prefLabel "Climbing"@en, "Horolezectví"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/in-line-bruselní> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/in-line-bruslení> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "In-line bruselní"@cs, "In-line skating"@en .
+  skos:prefLabel "In-line bruslení"@cs, "In-line skating"@en .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jachting> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
@@ -157,7 +157,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kolová> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Czcle polo"@en, "Kolová"@cs .
+  skos:prefLabel "Cycle ball"@en, "Kolová"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/korfbal> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
@@ -395,3 +395,11 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zumba> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
   skos:prefLabel "Zumba"@cs, "Zumba"@en .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/streetball> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
+  skos:prefLabel "Streetball"@cs, "Streetball"@en .
+
+  <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bruslení> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
+  skos:prefLabel "Bruslení"@cs, "Skating"@en .
