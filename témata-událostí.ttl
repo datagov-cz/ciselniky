@@ -95,6 +95,10 @@
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí>;
   skos:prefLabel "Bydlení"@cs, "Housing"@en .
 
+<https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/náboženství> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí>;
+  skos:prefLabel "Náboženství"@cs, "Religion"@en .
+
 <https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jiné> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí>;
   skos:prefLabel "Jiné"@cs, "Other"@en .
