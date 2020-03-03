@@ -106,7 +106,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
-  skos:prefLabel "Velodrome"@cs, "Velodrome"@en .
+  skos:prefLabel "Velodrom"@cs, "Velodrome"@en .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
