@@ -1,0 +1,43 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí> a skos:ConceptScheme;
+  skos:prefLabel "Events themes"@en, "Typy událostí"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/kino>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Cinema"@en, "Kino"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/divadlo>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Theatre"@en, "Divadlo"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Concert"@en, "Koncert"@cs . 
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/výstava>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Exhibition"@en, "Výstava"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/veletrh>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Fair"@en, "Veletrh"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/trh>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Market"@en, "Trh"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/přednáška>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Lecture"@en, "Přednáška"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/prohlídka>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Guiiding Tour"@en, "Prohlídka"@cs .
