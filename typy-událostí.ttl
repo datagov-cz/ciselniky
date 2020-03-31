@@ -13,7 +13,8 @@
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
   skos:prefLabel "Theatre"@en, "Divadlo"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert> 
+  a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
   skos:prefLabel "Concert"@en, "Koncert"@cs . 
 
@@ -41,3 +42,23 @@
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
   skos:prefLabel "Guiiding Tour"@en, "Prohlídka"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/pracovní-setkání>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Work meeting"@en, "Pracovní setkání"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/konferenční-hovor>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Conference call"@en, "Konferenční hovor"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/flashmob>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Flashmob"@en, "Flashmob"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/umělecká-produkce>
+  a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
+  skos:prefLabel "Art performance"@en, "Umělecká produkce"@cs .
