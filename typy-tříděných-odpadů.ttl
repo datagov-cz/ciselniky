@@ -178,3 +178,8 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/bioodpad> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
   skos:prefLabel "Biological waste"@en, "Bioodpad"@cs .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/re-use> a skos:Concept;
+  skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+  skos:prefLabel "Re-use"@en, "Re-use"@cs .
+
