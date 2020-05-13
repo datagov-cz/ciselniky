@@ -13,7 +13,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
-  skos:prefLabel "Středa"@cs, "Wednesday"@en .
+  skos:prefLabel "Wednesday"@enm "Středa"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu>;
