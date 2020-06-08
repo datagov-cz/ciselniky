@@ -9,4 +9,4 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/špatné-počasí> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace>;
-  skos:prefLabel "Bad weather"@en, "Špatené počasí"@cs .
+  skos:prefLabel "Bad weather"@en, "Špatné počasí"@cs .
