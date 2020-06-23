@@ -11,6 +11,6 @@
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
   skos:prefLabel "Partially accessible"@en, "Částečně přístupný"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/nepřístupný> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
   skos:prefLabel "Difficult to acces or inaccessible"@cs, "Obtížně přístupný nebo nepřístupný"@en .
