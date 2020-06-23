@@ -37,7 +37,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/beachvoleybal> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Beachvoleybal"@cs, "Plážový volejbal"@en .
+  skos:prefLabel "Beachvoleybal"@en, "Plážový volejbal"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
@@ -69,11 +69,11 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cricket> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Cricket"@cs, "Kriket"@en .
+  skos:prefLabel "Cricket"@en, "Kriket"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/croquet> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Croquet"@cs, "Kroket"@en .
+  skos:prefLabel "Croquet"@en, "Kroket"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/curling> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
@@ -201,7 +201,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/malá-kopaná> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Malá kopaná"@cs, "five-a-side football"@en .
+  skos:prefLabel "Malá kopaná"@cs, "Five-a-side football"@en .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/minigolf> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
