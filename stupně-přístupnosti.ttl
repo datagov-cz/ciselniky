@@ -1,7 +1,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> a skos:ConceptScheme;
-  skos:prefLabel "Accessibility assessment"@en, "Hodnocení přístupnosti"@cs .
+  skos:prefLabel "Accessibility assessment codelist"@en, "Číselník pro stupně přístupnosti"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
