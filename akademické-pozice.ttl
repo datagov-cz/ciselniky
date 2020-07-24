@@ -4,32 +4,32 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice> a skos:ConceptScheme;
   skos:prefLabel "Číselník akademických pozic"@cs, "Codelist of academic positions"@en .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/OA> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/OA> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "OA";
   skos:prefLabel "Assistant Professor"@en, "Odborný asistent, odborná asistentka"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/VP> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/VP> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "VP";
   skos:prefLabel "Academic Researcher"@en, "Vědecký pracovník, vědecká pracovnice"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/docent> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/docent> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "docent";
   skos:prefLabel "Associate Professor"@en, "Docent/ka"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/lektor> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/lektor> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "lektor";
   skos:prefLabel "Lecturer"@en, "Lektor/ka"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/profesor> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/profesor> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "profesor";
   skos:prefLabel "Full Professor"@en, "Profesor/ka"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/vedoucí-katedry> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice/položky/vedoucí-katedry> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice>;
   skos:notation "vedoucí-katedry";
   skos:prefLabel "Head of Department"@en, "Vedoucí katedry"@cs .
