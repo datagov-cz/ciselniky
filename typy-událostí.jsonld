@@ -1,0 +1,97 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Typy událostí",
+      "en":  "Events themes"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/divadlo",
+      "název": {
+          "cs":  "Divadlo",
+          "en":  "Theatre"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/flashmob",
+      "název": {
+          "cs":  "Flashmob",
+          "en":  "Flashmob"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/kino",
+      "název": {
+          "cs":  "Kino",
+          "en":  "Cinema"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert",
+      "název": {
+          "cs":  "Koncert",
+          "en":  "Concert"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/konferenční-hovor",
+      "název": {
+          "cs":  "Konferenční hovor",
+          "en":  "Conference call"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/pracovní-setkání",
+      "název": {
+          "cs":  "Pracovní setkání",
+          "en":  "Work meeting"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/prohlídka",
+      "název": {
+          "cs":  "Prohlídka",
+          "en":  "Guiiding Tour"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/přednáška",
+      "název": {
+          "cs":  "Přednáška",
+          "en":  "Lecture"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/trh",
+      "název": {
+          "cs":  "Trh",
+          "en":  "Market"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/umělecká-produkce",
+      "název": {
+          "cs":  "Umělecká produkce",
+          "en":  "Art performance"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/veletrh",
+      "název": {
+          "cs":  "Veletrh",
+          "en":  "Fair"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/výstava",
+      "název": {
+          "cs":  "Výstava",
+          "en":  "Exhibition"
+      }
+    }
+  ]
+}

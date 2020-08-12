@@ -1,0 +1,62 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Dny v týdnu",
+      "en":  "Days of the week"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle",
+      "název": {
+          "cs":  "Neděle",
+          "en":  "Sunday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pondělí",
+      "název": {
+          "cs":  "Pondělí",
+          "en":  "Monday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pátek",
+      "název": {
+          "cs":  "Pátek",
+          "en":  "Friday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/sobota",
+      "název": {
+          "cs":  "Sobota",
+          "en":  "Saturday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa",
+      "název": {
+          "cs":  "Středa",
+          "en":  "Wednesday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý",
+      "název": {
+          "cs":  "Úterý",
+          "en":  "Tuesday"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek",
+      "název": {
+          "cs":  "Čtvrtek",
+          "en":  "Thursday"
+      }
+    }
+  ]
+}

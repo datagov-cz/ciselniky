@@ -1,0 +1,56 @@
+
+{
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/kategorie-územní-ochrany.csv-metadata.json",
+	"@context": [
+		"http://www.w3.org/ns/csvw",
+		{
+			"@language": "cs"
+		}
+	],
+	"url": "kategorie-územní-ochrany.csv",
+	"tableSchema": {
+		"columns": [{
+			"name": "ciselnik",
+			"titles": "číselník",
+			"dc:description": "IRI číselníku",
+			"aboutUrl": "{+ciselnik}",
+			"propertyUrl": "rdf:type",
+			"valueUrl": "skos:ConceptScheme",
+			"required": true,
+			"datatype": "anyURI"
+		}, {
+			"name": "ciselnik_nazev_cs",
+			"titles": "číselník_název_cs",
+			"dc:description": "Název číselníku v češtině",
+			"aboutUrl": "{+ciselnik}",
+			"propertyUrl": "skos:prefLabel",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		}, {
+			"name": "polozka",
+			"titles": "položka",
+			"dc:description": "IRI položky",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "rdf:type",
+			"valueUrl": "skos:Concept",
+			"required": true,
+			"datatype": "anyURI"
+		}, {
+			"name": "polozka_nazev_cs",
+			"titles": "položka_název_cs",
+			"dc:description": "Název položky v češtině",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:prefLabel",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		}, {
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:inScheme",
+			"valueUrl": "{+ciselnik}",
+			"virtual": true
+		}],
+		"primaryKey": "polozka"
+	}
+}

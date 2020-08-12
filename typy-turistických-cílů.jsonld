@@ -1,0 +1,27 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Typy turistických cílů",
+      "en":  "Types of tourist destinations"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní",
+      "název": {
+          "cs":  "Kulturní",
+          "en":  "Manmade"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/přírodní",
+      "název": {
+          "cs":  "Přírodní",
+          "en":  "Natural"
+      }
+    }
+  ]
+}

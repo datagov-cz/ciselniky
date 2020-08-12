@@ -1,0 +1,93 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Pozice na vysokých školách",
+      "en":  "Positions at universities"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/OA",
+      "kód": "OA",
+      "název": {
+          "cs":  "Odborný asistent, odborná asistentka",
+          "en":  "Assistant Professor"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/VP",
+      "kód": "VP",
+      "název": {
+          "cs":  "Vědecký pracovník, věděcká pracovnice",
+          "en":  "Academic Researcher"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/docent",
+      "kód": "docent",
+      "název": {
+          "cs":  "Docent/ka",
+          "en":  "Associate Professor"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/děkan",
+      "kód": "děkan",
+      "název": {
+          "cs":  "Děkan",
+          "en":  "Dean"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/lektor",
+      "kód": "lektor",
+      "název": {
+          "cs":  "Lektor/ka",
+          "en":  "Lecturer"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/proděkan",
+      "kód": "proděkan",
+      "název": {
+          "cs":  "Proděkan",
+          "en":  "Vice-Dean"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/profesor",
+      "kód": "profesor",
+      "název": {
+          "cs":  "Profesor/ka",
+          "en":  "Full Professor"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/prorektor",
+      "kód": "prorektor",
+      "název": {
+          "cs":  "Prorektor",
+          "en":  "Prorector"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/rektor",
+      "kód": "rektor",
+      "název": {
+          "cs":  "Rektor",
+          "en":  "Rector"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/vedoucí-katedry",
+      "kód": "vedoucí-katedry",
+      "název": {
+          "cs":  "Vedoucí katedry",
+          "en":  "Head of Department"
+      }
+    }
+  ]
+}

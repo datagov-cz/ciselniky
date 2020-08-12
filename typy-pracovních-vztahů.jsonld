@@ -1,0 +1,42 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Typy pracovních vztahů"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp",
+      "název": {
+          "cs":  "Dohoda o provedení práce"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč",
+      "název": {
+          "cs":  "Dohoda o pracovní činnosti"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek",
+      "název": {
+          "cs":  "Pracovní poměr - plný úvazek"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr",
+      "název": {
+          "cs":  "Služební poměr"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek",
+      "název": {
+          "cs":  "Pracovní poměr - zkrácený úvazek"
+      }
+    }
+  ]
+}

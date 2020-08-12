@@ -1,0 +1,943 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Klasifikace oborů ISVaV"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A",
+      "kód": "A",
+      "název": {
+          "cs":  "Společenské vědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AA",
+      "kód": "AA",
+      "název": {
+          "cs":  "Filosofie a náboženství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AB",
+      "kód": "AB",
+      "název": {
+          "cs":  "Dějiny"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AC",
+      "kód": "AC",
+      "název": {
+          "cs":  "Archeologie, antropologie, etnologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AD",
+      "kód": "AD",
+      "název": {
+          "cs":  "Politologie a politické vědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AE",
+      "kód": "AE",
+      "název": {
+          "cs":  "Řízení, správa a administrativa"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AF",
+      "kód": "AF",
+      "název": {
+          "cs":  "Dokumentace, knihovnictví, práce s informacemi"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AG",
+      "kód": "AG",
+      "název": {
+          "cs":  "Právní vědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AH",
+      "kód": "AH",
+      "název": {
+          "cs":  "Ekonomie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AI",
+      "kód": "AI",
+      "název": {
+          "cs":  "Jazykověda"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AJ",
+      "kód": "AJ",
+      "název": {
+          "cs":  "Písemnictví, mas–media, audiovize"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AK",
+      "kód": "AK",
+      "název": {
+          "cs":  "Sport a aktivity volného času"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AL",
+      "kód": "AL",
+      "název": {
+          "cs":  "Umění, architektura, kulturní dědictví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AM",
+      "kód": "AM",
+      "název": {
+          "cs":  "Pedagogika a školství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AN",
+      "kód": "AN",
+      "název": {
+          "cs":  "Psychologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AO",
+      "kód": "AO",
+      "název": {
+          "cs":  "Sociologie, demografie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AP",
+      "kód": "AP",
+      "název": {
+          "cs":  "Městské, oblastní a dopravní plánování"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AQ",
+      "kód": "AQ",
+      "název": {
+          "cs":  "Bezpečnost a ochrana zdraví, člověk – stroj"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B",
+      "kód": "B",
+      "název": {
+          "cs":  "Fyzika a matematika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BA",
+      "kód": "BA",
+      "název": {
+          "cs":  "Obecná matematika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BB",
+      "kód": "BB",
+      "název": {
+          "cs":  "Aplikovaná statistika, operační výzkum"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BC",
+      "kód": "BC",
+      "název": {
+          "cs":  "Teorie a systémy řízení"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BD",
+      "kód": "BD",
+      "název": {
+          "cs":  "Teorie informace"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BE",
+      "kód": "BE",
+      "název": {
+          "cs":  "Teoretická fyzika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BF",
+      "kód": "BF",
+      "název": {
+          "cs":  "Elementární částice a fyzika vysokých energií"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BG",
+      "kód": "BG",
+      "název": {
+          "cs":  "Jaderná, atomová a molekulová fyzika, urychlovače"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BH",
+      "kód": "BH",
+      "název": {
+          "cs":  "Optika, masery a lasery"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BI",
+      "kód": "BI",
+      "název": {
+          "cs":  "Akustika a kmity"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BJ",
+      "kód": "BJ",
+      "název": {
+          "cs":  "Termodynamika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BK",
+      "kód": "BK",
+      "název": {
+          "cs":  "Mechanika tekutin"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BL",
+      "kód": "BL",
+      "název": {
+          "cs":  "Fyzika plasmatu a výboje v plynech"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BM",
+      "kód": "BM",
+      "název": {
+          "cs":  "Fyzika pevných látek a magnetismus"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BN",
+      "kód": "BN",
+      "název": {
+          "cs":  "Astronomie a nebeská mechanika, astrofyzika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BO",
+      "kód": "BO",
+      "název": {
+          "cs":  "Biofyzika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C",
+      "kód": "C",
+      "název": {
+          "cs":  "Chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CA",
+      "kód": "CA",
+      "název": {
+          "cs":  "Anorganická chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CB",
+      "kód": "CB",
+      "název": {
+          "cs":  "Analytická chemie, separace"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CC",
+      "kód": "CC",
+      "název": {
+          "cs":  "Organická chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CD",
+      "kód": "CD",
+      "název": {
+          "cs":  "Makromolekulární chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CE",
+      "kód": "CE",
+      "název": {
+          "cs":  "Biochemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CF",
+      "kód": "CF",
+      "název": {
+          "cs":  "Fyzikální chemie a teoretická chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CG",
+      "kód": "CG",
+      "název": {
+          "cs":  "Elektrochemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CH",
+      "kód": "CH",
+      "název": {
+          "cs":  "Jaderná a kvantová chemie, fotochemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CI",
+      "kód": "CI",
+      "název": {
+          "cs":  "Průmyslová chemie a chemické inženýrství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D",
+      "kód": "D",
+      "název": {
+          "cs":  "Vědy o zemi"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DA",
+      "kód": "DA",
+      "název": {
+          "cs":  "Hydrologie a limnologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DB",
+      "kód": "DB",
+      "název": {
+          "cs":  "Geologie a mineralogie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DC",
+      "kód": "DC",
+      "název": {
+          "cs":  "Seismologie, vulkanologie a struktura Země"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DD",
+      "kód": "DD",
+      "název": {
+          "cs":  "Geochemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DE",
+      "kód": "DE",
+      "název": {
+          "cs":  "Zemský magnetismus, geodesie, geografie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DF",
+      "kód": "DF",
+      "název": {
+          "cs":  "Pedologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DG",
+      "kód": "DG",
+      "název": {
+          "cs":  "Vědy o atmosféře, meteorologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DH",
+      "kód": "DH",
+      "název": {
+          "cs":  "Báňský průmysl včetně těžby a zpracování uhlí"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DI",
+      "kód": "DI",
+      "název": {
+          "cs":  "Znečištění a kontrola vzduchu"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DJ",
+      "kód": "DJ",
+      "název": {
+          "cs":  "Znečištění a kontrola vody"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DK",
+      "kód": "DK",
+      "název": {
+          "cs":  "Kontaminace a dekontaminace půdy včetně pesticidů"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DL",
+      "kód": "DL",
+      "název": {
+          "cs":  "Jaderné odpady, radioaktivní znečištění a kontrola"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DM",
+      "kód": "DM",
+      "název": {
+          "cs":  "Tuhý odpad a jeho kontrola, recyklace"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DN",
+      "kód": "DN",
+      "název": {
+          "cs":  "Vliv životního prostředí na zdraví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DO",
+      "kód": "DO",
+      "název": {
+          "cs":  "Ochrana krajinných území"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E",
+      "kód": "E",
+      "název": {
+          "cs":  "Biovědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EA",
+      "kód": "EA",
+      "název": {
+          "cs":  "Morfologické obory a cytologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EB",
+      "kód": "EB",
+      "název": {
+          "cs":  "Genetika a molekulární biologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EC",
+      "kód": "EC",
+      "název": {
+          "cs":  "Imunologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/ED",
+      "kód": "ED",
+      "název": {
+          "cs":  "Fyziologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EE",
+      "kód": "EE",
+      "název": {
+          "cs":  "Mikrobiologie, virologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EF",
+      "kód": "EF",
+      "název": {
+          "cs":  "Botanika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EG",
+      "kód": "EG",
+      "název": {
+          "cs":  "Zoologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EH",
+      "kód": "EH",
+      "název": {
+          "cs":  "Ekologie – společenstva"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EI",
+      "kód": "EI",
+      "název": {
+          "cs":  "Biotechnologie a bionika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F",
+      "kód": "F",
+      "název": {
+          "cs":  "Lékařské vědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FA",
+      "kód": "FA",
+      "název": {
+          "cs":  "Kardiovaskulární nemoci včetně kardiochirurgie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FB",
+      "kód": "FB",
+      "název": {
+          "cs":  "Endokrinologie, diabetologie, metabolismus, výživa"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FC",
+      "kód": "FC",
+      "název": {
+          "cs":  "Pneumologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FD",
+      "kód": "FD",
+      "název": {
+          "cs":  "Onkologie a hematologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FE",
+      "kód": "FE",
+      "název": {
+          "cs":  "Ostatní obory vnitřního lékařství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FF",
+      "kód": "FF",
+      "název": {
+          "cs":  "ORL, oftalmologie, stomatologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FG",
+      "kód": "FG",
+      "název": {
+          "cs":  "Pediatrie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FH",
+      "kód": "FH",
+      "název": {
+          "cs":  "Neurologie, neurochirurgie, neurovědy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FI",
+      "kód": "FI",
+      "název": {
+          "cs":  "Traumatologie a ortopedie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FJ",
+      "kód": "FJ",
+      "název": {
+          "cs":  "Chirurgie včetně transplantologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FK",
+      "kód": "FK",
+      "název": {
+          "cs":  "Gynekologie a porodnictví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FL",
+      "kód": "FL",
+      "název": {
+          "cs":  "Psychiatrie, sexuologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FM",
+      "kód": "FM",
+      "název": {
+          "cs":  "Hygiena"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FN",
+      "kód": "FN",
+      "název": {
+          "cs":  "Epidemiologie, infekční nemoci a klinická imunologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FO",
+      "kód": "FO",
+      "název": {
+          "cs":  "Dermatovenerologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FP",
+      "kód": "FP",
+      "název": {
+          "cs":  "Ostatní lékařské obory"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FQ",
+      "kód": "FQ",
+      "název": {
+          "cs":  "Veřejné zdravotnictví, sociální lékařství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FR",
+      "kód": "FR",
+      "název": {
+          "cs":  "Farmakologie a lékárnická chemie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FS",
+      "kód": "FS",
+      "název": {
+          "cs":  "Lékařská zařízení, přístroje a vybavení"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G",
+      "kód": "G",
+      "název": {
+          "cs":  "Zemědělství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GA",
+      "kód": "GA",
+      "název": {
+          "cs":  "Zemědělská ekonomie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GB",
+      "kód": "GB",
+      "název": {
+          "cs":  "Zemědělské stroje a stavby"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GC",
+      "kód": "GC",
+      "název": {
+          "cs":  "Pěstování rostlin, osevní postupy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GD",
+      "kód": "GD",
+      "název": {
+          "cs":  "Hnojení, závlahy, zpracování půdy"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GE",
+      "kód": "GE",
+      "název": {
+          "cs":  "Šlechtění rostlin"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GF",
+      "kód": "GF",
+      "název": {
+          "cs":  "Choroby, škůdci, plevely a ochrana rostlin"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GG",
+      "kód": "GG",
+      "název": {
+          "cs":  "Chov hospodářských zvířat"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GH",
+      "kód": "GH",
+      "název": {
+          "cs":  "Výživa hospodářských zvířat"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GI",
+      "kód": "GI",
+      "název": {
+          "cs":  "Šlechtění a plemenářství hospodářských zvířat"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GJ",
+      "kód": "GJ",
+      "název": {
+          "cs":  "Choroby a škůdci zvířat, veterinární medicina"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GK",
+      "kód": "GK",
+      "název": {
+          "cs":  "Lesnictví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GL",
+      "kód": "GL",
+      "název": {
+          "cs":  "Rybářství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GM",
+      "kód": "GM",
+      "název": {
+          "cs":  "Potravinářství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I",
+      "kód": "I",
+      "název": {
+          "cs":  "Informatika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/IN",
+      "kód": "IN",
+      "název": {
+          "cs":  "Informatika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J",
+      "kód": "J",
+      "název": {
+          "cs":  "Průmysl"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JA",
+      "kód": "JA",
+      "název": {
+          "cs":  "Elektronika a optoelektronika, elektrotechnika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JB",
+      "kód": "JB",
+      "název": {
+          "cs":  "Senzory, čidla, měření a regulace"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JC",
+      "kód": "JC",
+      "název": {
+          "cs":  "Počítačový hardware a software"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JD",
+      "kód": "JD",
+      "název": {
+          "cs":  "Využití počítačů, robotika a její aplikace"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JE",
+      "kód": "JE",
+      "název": {
+          "cs":  "Nejaderná energetika, spotřeba a užití energie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JF",
+      "kód": "JF",
+      "název": {
+          "cs":  "Jaderná energetika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JG",
+      "kód": "JG",
+      "název": {
+          "cs":  "Hutnictví, kovové materiály"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JH",
+      "kód": "JH",
+      "název": {
+          "cs":  "Keramika, žáruvzdorné materiály a skla"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JI",
+      "kód": "JI",
+      "název": {
+          "cs":  "Kompositní materiály"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JJ",
+      "kód": "JJ",
+      "název": {
+          "cs":  "Ostatní materiály"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JK",
+      "kód": "JK",
+      "název": {
+          "cs":  "Koroze a povrchové úpravy materiálu"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JL",
+      "kód": "JL",
+      "název": {
+          "cs":  "Únava materiálu a lomová mechanika"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JM",
+      "kód": "JM",
+      "název": {
+          "cs":  "Inženýrské stavitelství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JN",
+      "kód": "JN",
+      "název": {
+          "cs":  "Stavebnictví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JO",
+      "kód": "JO",
+      "název": {
+          "cs":  "Pozemní dopravní systémy a zařízení"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JP",
+      "kód": "JP",
+      "název": {
+          "cs":  "Průmyslové procesy a zpracování"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JQ",
+      "kód": "JQ",
+      "název": {
+          "cs":  "Strojní zařízení a nástroje"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JR",
+      "kód": "JR",
+      "název": {
+          "cs":  "Ostatní strojírenství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JS",
+      "kód": "JS",
+      "název": {
+          "cs":  "Řízení spolehlivosti a kvality, zkušebnictví"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JT",
+      "kód": "JT",
+      "název": {
+          "cs":  "Pohon, motory a paliva"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JU",
+      "kód": "JU",
+      "název": {
+          "cs":  "Aeronautika, aerodynamika, letadla"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JV",
+      "kód": "JV",
+      "název": {
+          "cs":  "Kosmické technologie"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JW",
+      "kód": "JW",
+      "název": {
+          "cs":  "Navigace, spojení, detekce a protiopatření"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JY",
+      "kód": "JY",
+      "název": {
+          "cs":  "Střelné zbraně, munice, výbušniny, bojová vozidla"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K",
+      "kód": "K",
+      "název": {
+          "cs":  "Vojenství"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/KA",
+      "kód": "KA",
+      "název": {
+          "cs":  "Vojenství"
+      }
+    }
+  ]
+}

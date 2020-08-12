@@ -1,0 +1,34 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Číselník pro stupně přístupnosti",
+      "en":  "Accessibility assessment codelist"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný",
+      "název": {
+          "cs":  "Obtížně přístupný nebo nepřístupný",
+          "en":  "Difficult to access or inaccessible"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný",
+      "název": {
+          "cs":  "Přístupný",
+          "en":  "Accessible"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný",
+      "název": {
+          "cs":  "Částečně přístupný",
+          "en":  "Partially accessible"
+      }
+    }
+  ]
+}
