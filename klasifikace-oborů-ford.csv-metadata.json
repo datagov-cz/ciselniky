@@ -53,6 +53,14 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "en"
+		},  {
+			"name": "polozka_tranzitivne_sirsi_polozka",
+			"titles": "položka_tranzitivně_širší_položka",
+			"dc:description": "Tranzitivně širší položka",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:broaderTransitive",
+			"required": false,
+			"datatype": "anyURI"
 		},{
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",

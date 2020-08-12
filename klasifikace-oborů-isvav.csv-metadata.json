@@ -53,6 +53,14 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "cs"
+		},  {
+			"name": "polozka_sirsi_polozka",
+			"titles": "položka_širší_položka",
+			"dc:description": "Širší položka",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:broader",
+			"required": false,
+			"datatype": "anyURI"
 		}, {
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",

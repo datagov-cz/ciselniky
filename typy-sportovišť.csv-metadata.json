@@ -63,7 +63,7 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "en"
-		},{
+		},  {
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",
 			"valueUrl": "{+ciselnik}",
