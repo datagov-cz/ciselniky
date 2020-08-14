@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Employment relation types</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
+	<skos:prefLabel xml:lang="cs">Dohoda o pracovní činnosti</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů">
+	<skos:prefLabel xml:lang="cs">Typy pracovních vztahů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
+	<skos:prefLabel xml:lang="cs">Dohoda o provedení práce</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
+	<skos:prefLabel xml:lang="cs">Pracovní poměr - plný úvazek</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
+	<skos:prefLabel xml:lang="cs">Pracovní poměr - zkrácený úvazek</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
+	<skos:prefLabel xml:lang="cs">Služební poměr</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

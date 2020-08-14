@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Klasifikace oborů ISVaV</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Společenské vědy</skos:prefLabel>
+	<skos:notation>A</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů">
+	<skos:prefLabel xml:lang="en">Research fields classification</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Fyzika a matematika</skos:prefLabel>
+	<skos:notation>B</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Chemie</skos:prefLabel>
+	<skos:notation>C</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Vědy o zemi</skos:prefLabel>
+	<skos:notation>D</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Biovědy</skos:prefLabel>
+	<skos:notation>E</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Lékařské vědy</skos:prefLabel>
+	<skos:notation>F</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Zemědělství</skos:prefLabel>
+	<skos:notation>G</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Informatika</skos:prefLabel>
+	<skos:notation>I</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Průmysl</skos:prefLabel>
+	<skos:notation>J</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Vojenství</skos:prefLabel>
+	<skos:notation>K</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Filosofie a náboženství</skos:prefLabel>
+	<skos:notation>AA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Dějiny</skos:prefLabel>
+	<skos:notation>AB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Archeologie, antropologie, etnologie</skos:prefLabel>
+	<skos:notation>AC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Politologie a politické vědy</skos:prefLabel>
+	<skos:notation>AD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Řízení, správa a administrativa</skos:prefLabel>
+	<skos:notation>AE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Dokumentace, knihovnictví, práce s informacemi</skos:prefLabel>
+	<skos:notation>AF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Právní vědy</skos:prefLabel>
+	<skos:notation>AG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ekonomie</skos:prefLabel>
+	<skos:notation>AH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Jazykověda</skos:prefLabel>
+	<skos:notation>AI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Písemnictví, mas–media, audiovize</skos:prefLabel>
+	<skos:notation>AJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Sport a aktivity volného času</skos:prefLabel>
+	<skos:notation>AK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Umění, architektura, kulturní dědictví</skos:prefLabel>
+	<skos:notation>AL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pedagogika a školství</skos:prefLabel>
+	<skos:notation>AM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Psychologie</skos:prefLabel>
+	<skos:notation>AN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Sociologie, demografie</skos:prefLabel>
+	<skos:notation>AO</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AP">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Městské, oblastní a dopravní plánování</skos:prefLabel>
+	<skos:notation>AP</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AQ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Bezpečnost a ochrana zdraví, člověk – stroj</skos:prefLabel>
+	<skos:notation>AQ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Obecná matematika</skos:prefLabel>
+	<skos:notation>BA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Aplikovaná statistika, operační výzkum</skos:prefLabel>
+	<skos:notation>BB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Teorie a systémy řízení</skos:prefLabel>
+	<skos:notation>BC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Teorie informace</skos:prefLabel>
+	<skos:notation>BD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Teoretická fyzika</skos:prefLabel>
+	<skos:notation>BE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Elementární částice a fyzika vysokých energií</skos:prefLabel>
+	<skos:notation>BF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Jaderná, atomová a molekulová fyzika, urychlovače</skos:prefLabel>
+	<skos:notation>BG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Optika, masery a lasery</skos:prefLabel>
+	<skos:notation>BH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Akustika a kmity</skos:prefLabel>
+	<skos:notation>BI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Termodynamika</skos:prefLabel>
+	<skos:notation>BJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Mechanika tekutin</skos:prefLabel>
+	<skos:notation>BK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Fyzika plasmatu a výboje v plynech</skos:prefLabel>
+	<skos:notation>BL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Fyzika pevných látek a magnetismus</skos:prefLabel>
+	<skos:notation>BM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Astronomie a nebeská mechanika, astrofyzika</skos:prefLabel>
+	<skos:notation>BN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Biofyzika</skos:prefLabel>
+	<skos:notation>BO</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Anorganická chemie</skos:prefLabel>
+	<skos:notation>CA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Analytická chemie, separace</skos:prefLabel>
+	<skos:notation>CB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Organická chemie</skos:prefLabel>
+	<skos:notation>CC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Makromolekulární chemie</skos:prefLabel>
+	<skos:notation>CD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Biochemie</skos:prefLabel>
+	<skos:notation>CE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Fyzikální chemie a teoretická chemie</skos:prefLabel>
+	<skos:notation>CF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Elektrochemie</skos:prefLabel>
+	<skos:notation>CG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Jaderná a kvantová chemie, fotochemie</skos:prefLabel>
+	<skos:notation>CH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Průmyslová chemie a chemické inženýrství</skos:prefLabel>
+	<skos:notation>CI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Hydrologie a limnologie</skos:prefLabel>
+	<skos:notation>DA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Geologie a mineralogie</skos:prefLabel>
+	<skos:notation>DB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Seismologie, vulkanologie a struktura Země</skos:prefLabel>
+	<skos:notation>DC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Geochemie</skos:prefLabel>
+	<skos:notation>DD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Zemský magnetismus, geodesie, geografie</skos:prefLabel>
+	<skos:notation>DE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pedologie</skos:prefLabel>
+	<skos:notation>DF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Vědy o atmosféře, meteorologie</skos:prefLabel>
+	<skos:notation>DG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Báňský průmysl včetně těžby a zpracování uhlí</skos:prefLabel>
+	<skos:notation>DH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Znečištění a kontrola vzduchu</skos:prefLabel>
+	<skos:notation>DI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Znečištění a kontrola vody</skos:prefLabel>
+	<skos:notation>DJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Kontaminace a dekontaminace půdy včetně pesticidů</skos:prefLabel>
+	<skos:notation>DK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Jaderné odpady, radioaktivní znečištění a kontrola</skos:prefLabel>
+	<skos:notation>DL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Tuhý odpad a jeho kontrola, recyklace</skos:prefLabel>
+	<skos:notation>DM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Vliv životního prostředí na zdraví</skos:prefLabel>
+	<skos:notation>DN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ochrana krajinných území</skos:prefLabel>
+	<skos:notation>DO</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Morfologické obory a cytologie</skos:prefLabel>
+	<skos:notation>EA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Genetika a molekulární biologie</skos:prefLabel>
+	<skos:notation>EB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Imunologie</skos:prefLabel>
+	<skos:notation>EC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/ED">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Fyziologie</skos:prefLabel>
+	<skos:notation>ED</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Mikrobiologie, virologie</skos:prefLabel>
+	<skos:notation>EE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Botanika</skos:prefLabel>
+	<skos:notation>EF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Zoologie</skos:prefLabel>
+	<skos:notation>EG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ekologie – společenstva</skos:prefLabel>
+	<skos:notation>EH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Biotechnologie a bionika</skos:prefLabel>
+	<skos:notation>EI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Kardiovaskulární nemoci včetně kardiochirurgie</skos:prefLabel>
+	<skos:notation>FA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Endokrinologie, diabetologie, metabolismus, výživa</skos:prefLabel>
+	<skos:notation>FB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pneumologie</skos:prefLabel>
+	<skos:notation>FC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Onkologie a hematologie</skos:prefLabel>
+	<skos:notation>FD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ostatní obory vnitřního lékařství</skos:prefLabel>
+	<skos:notation>FE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">ORL, oftalmologie, stomatologie</skos:prefLabel>
+	<skos:notation>FF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pediatrie</skos:prefLabel>
+	<skos:notation>FG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Neurologie, neurochirurgie, neurovědy</skos:prefLabel>
+	<skos:notation>FH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Traumatologie a ortopedie</skos:prefLabel>
+	<skos:notation>FI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Chirurgie včetně transplantologie</skos:prefLabel>
+	<skos:notation>FJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Gynekologie a porodnictví</skos:prefLabel>
+	<skos:notation>FK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Psychiatrie, sexuologie</skos:prefLabel>
+	<skos:notation>FL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Hygiena</skos:prefLabel>
+	<skos:notation>FM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Epidemiologie, infekční nemoci a klinická imunologie</skos:prefLabel>
+	<skos:notation>FN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Dermatovenerologie</skos:prefLabel>
+	<skos:notation>FO</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FP">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ostatní lékařské obory</skos:prefLabel>
+	<skos:notation>FP</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FQ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Veřejné zdravotnictví, sociální lékařství</skos:prefLabel>
+	<skos:notation>FQ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FR">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Farmakologie a lékárnická chemie</skos:prefLabel>
+	<skos:notation>FR</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FS">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Lékařská zařízení, přístroje a vybavení</skos:prefLabel>
+	<skos:notation>FS</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Zemědělská ekonomie</skos:prefLabel>
+	<skos:notation>GA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Zemědělské stroje a stavby</skos:prefLabel>
+	<skos:notation>GB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pěstování rostlin, osevní postupy</skos:prefLabel>
+	<skos:notation>GC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Hnojení, závlahy, zpracování půdy</skos:prefLabel>
+	<skos:notation>GD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Šlechtění rostlin</skos:prefLabel>
+	<skos:notation>GE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Choroby, škůdci, plevely a ochrana rostlin</skos:prefLabel>
+	<skos:notation>GF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Chov hospodářských zvířat</skos:prefLabel>
+	<skos:notation>GG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Výživa hospodářských zvířat</skos:prefLabel>
+	<skos:notation>GH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Šlechtění a plemenářství hospodářských zvířat</skos:prefLabel>
+	<skos:notation>GI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Choroby a škůdci zvířat, veterinární medicina</skos:prefLabel>
+	<skos:notation>GJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Lesnictví</skos:prefLabel>
+	<skos:notation>GK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Rybářství</skos:prefLabel>
+	<skos:notation>GL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Potravinářství</skos:prefLabel>
+	<skos:notation>GM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/IN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Informatika</skos:prefLabel>
+	<skos:notation>IN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Elektronika a optoelektronika, elektrotechnika</skos:prefLabel>
+	<skos:notation>JA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Senzory, čidla, měření a regulace</skos:prefLabel>
+	<skos:notation>JB</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JC">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Počítačový hardware a software</skos:prefLabel>
+	<skos:notation>JC</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JD">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Využití počítačů, robotika a její aplikace</skos:prefLabel>
+	<skos:notation>JD</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Nejaderná energetika, spotřeba a užití energie</skos:prefLabel>
+	<skos:notation>JE</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JF">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Jaderná energetika</skos:prefLabel>
+	<skos:notation>JF</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JG">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Hutnictví, kovové materiály</skos:prefLabel>
+	<skos:notation>JG</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Keramika, žáruvzdorné materiály a skla</skos:prefLabel>
+	<skos:notation>JH</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Kompositní materiály</skos:prefLabel>
+	<skos:notation>JI</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JJ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ostatní materiály</skos:prefLabel>
+	<skos:notation>JJ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Koroze a povrchové úpravy materiálu</skos:prefLabel>
+	<skos:notation>JK</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Únava materiálu a lomová mechanika</skos:prefLabel>
+	<skos:notation>JL</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JM">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Inženýrské stavitelství</skos:prefLabel>
+	<skos:notation>JM</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JN">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Stavebnictví</skos:prefLabel>
+	<skos:notation>JN</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pozemní dopravní systémy a zařízení</skos:prefLabel>
+	<skos:notation>JO</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JP">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Průmyslové procesy a zpracování</skos:prefLabel>
+	<skos:notation>JP</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JQ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Strojní zařízení a nástroje</skos:prefLabel>
+	<skos:notation>JQ</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JR">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Ostatní strojírenství</skos:prefLabel>
+	<skos:notation>JR</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JS">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Řízení spolehlivosti a kvality, zkušebnictví</skos:prefLabel>
+	<skos:notation>JS</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JT">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Pohon, motory a paliva</skos:prefLabel>
+	<skos:notation>JT</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JU">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Aeronautika, aerodynamika, letadla</skos:prefLabel>
+	<skos:notation>JU</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JV">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Kosmické technologie</skos:prefLabel>
+	<skos:notation>JV</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JW">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Navigace, spojení, detekce a protiopatření</skos:prefLabel>
+	<skos:notation>JW</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JY">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Střelné zbraně, munice, výbušniny, bojová vozidla</skos:prefLabel>
+	<skos:notation>JY</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/KA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů"/>
+	<skos:prefLabel xml:lang="cs">Vojenství</skos:prefLabel>
+	<skos:notation>KA</skos:notation>
+	<skos:broader rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K"/>
+</rdf:Description>
+
+</rdf:RDF>

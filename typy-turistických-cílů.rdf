@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Types of tourist destinations</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/přírodní">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů"/>
+	<skos:prefLabel xml:lang="en">Natural</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Přírodní</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů">
+	<skos:prefLabel xml:lang="cs">Typy turistických cílů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů"/>
+	<skos:prefLabel xml:lang="cs">Kulturní</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Manmade</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Academic positions at the Czech Academy of Sciences</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/odborný-pracovník-výzkumu-a-vývoje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="cs">Odborný pracovník výzkumu a vývoje</skos:prefLabel>
+	<skos:notation>1</skos:notation>
+	<skos:definition xml:lang="cs">Pracovník s dokončeným vysokoškolským studiem.</skos:definition>
+	<skos:prefLabel xml:lang="en">Research assistant</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd">
+	<skos:prefLabel xml:lang="cs">Akademické pozice na Akademii věd České republiky</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/doktorand">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="cs">Doktorand</skos:prefLabel>
+	<skos:notation>2</skos:notation>
+	<skos:definition xml:lang="cs">Pracovík, který se účastní doktorského studia.</skos:definition>
+	<skos:prefLabel xml:lang="en">Graduade student</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/postdoktorand">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="en">Postdoctoral fellow</skos:prefLabel>
+	<skos:notation>3a</skos:notation>
+	<skos:definition xml:lang="cs">Pracovník, který získal akademický titul Ph.D., Dr. nebo jejich ekvivalent (dále jen Ph.D.). Pracuje obvykle pod vedením zkušených vědeckých pracovníků a publikuje své výsledky samostatně i v rámci tvůrčího týmu. V této kategorii může být zařazen nejdéle po dobu pěti let po obhájení akademického titulu Ph.D.</skos:definition>
+	<skos:prefLabel xml:lang="cs">Postdoktorand</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/vědecký-asistent">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="en">Associated scientist/scholar</skos:prefLabel>
+	<skos:notation>3b</skos:notation>
+	<skos:definition xml:lang="cs">Pracovník, který po uplynutí doby pěti let od získání akademického titulu Ph.D. není zařazen jako věecký pracovník nebo vedoucí vědecký pracovník.</skos:definition>
+	<skos:prefLabel xml:lang="cs">Vědecký asistent</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/vědecký-pracovník">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="en">Scientist/scholar</skos:prefLabel>
+	<skos:notation>4</skos:notation>
+	<skos:definition xml:lang="cs">Pracovník, který získal ve svém oboru vědeckou hodnost CSc., akademický titul Ph.D., Dr. nebo jejich ekvivalent a pravidelně publikuje vědecké práce v domácích i zahraničních recenzovaných časopisech. Samostatně řeší závažné a složité výzkumné úkoly, provádí náročné a obtížné práce ve svém vědním oboru. Obvykle je řešitelem grantových nebo programových projektů a aktivně se účastní domácích a mezinárodních vědeckých konferencí.</skos:definition>
+	<skos:prefLabel xml:lang="cs">Vědecký pracovník</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd/položky/vedoucí-vědecký-pracovník">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pozice-na-akademii-věd"/>
+	<skos:prefLabel xml:lang="en">Senior scientist/scholar</skos:prefLabel>
+	<skos:notation>5</skos:notation>
+	<skos:definition xml:lang="cs">Pracovník splňující požadavky kladené na kvalifikační stupeň 4 (vědecký pracovník), který je vůdčí vědeckou osobností a zpravidla je nositelem vědecké hodnosti nebo vědeckého titulu "doktor věd" nebo vědecko-pedagogického titulu profesor. Významně se podílí na vývoji daného oboru v mezinárodním měřítku. Obvykle vede výzkumný tým, je členem vědeckých rad, redakčních rad a mezinárodních společností.</skos:definition>
+	<skos:prefLabel xml:lang="cs">Vedoucí vědecký pracovník</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

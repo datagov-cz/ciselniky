@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Sports</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aerobik">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Aerobic</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Aerobik</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty">
+	<skos:prefLabel xml:lang="cs">Sporty</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aikido">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Aikido</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Aikido</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/americký-fotbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">American football</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Americký fotbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/atletika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Athletics</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Atletika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/badminton">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Badminton</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Badminton</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/balet">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Balet</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Balet</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/baseball">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Baseball</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Baseball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/basketbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Basketbal</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Basketball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/beachvoleybal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Beachvoleybal</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Plážový volejbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Běh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Running</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh-na-lyžích">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Běh na lyžích</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Cross country skiing</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/biathlon">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Biathlon</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Biathlon</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/boby">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Bobsleigh</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Boby</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bowling">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Bowling</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bowling</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/box">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Box</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Box</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/breakdance">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Breakdance</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Breakdance</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cricket">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Cricket</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kriket</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/croquet">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Croquet</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kroket</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/curling">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Curling</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Curling</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cyklistika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Cycling</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Cyklistika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/e-sporty">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">E-sports</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">E-sporty</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/florbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Floorball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Florbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/fotbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Football</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Fotbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/frisbee">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Frisbee</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Frisbee</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/futsal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Futsal</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Futsal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/golf">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Golf</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Golf</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/házená">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Handball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Házená</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/hokejbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Hockeyball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Hokejbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/horolezectví">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Climbing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Horolezectví</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/in-line-bruslení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">In-line bruslení</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">In-line skating</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jachting">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Jachting</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Yachting</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jezdectví">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Horse riding</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Jezdectví</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jiné">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jóga">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Jóga</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Yoga</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/judo">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Judo</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Judo</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kanoistika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Canoeing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kanoistika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/karate">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Carate</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Karate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kickbox">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Kickbox</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Kickbox</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kolová">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Cycle ball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kolová</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/korfbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Korfbal</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Korfball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/krasobruselní">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Figure skating</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Krasobruselní</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulečník">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Kulečník</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Snooker</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulturistika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Body-building</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kulturistika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kuželky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Kuželky</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skittles</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lakros">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Lacros</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Lakros</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lední-hokej">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Ice hockey</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Lední hokej</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/letectví">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Aviation</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Letectví</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lukostřelba">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Archery</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Lukostřelba</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lyžování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Lyžování</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skiing</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/malá-kopaná">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Five-a-side football</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Malá kopaná</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/minigolf">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Minigolf</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Minigolf</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/moderní-gymnastika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Modern gymnastics</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Moderní gymnastika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motokros">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Motocross</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Motokros</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motorismus">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Motorism</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Motorismus</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/národní-házená">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">National handball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Národní házená</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/nohejbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Futnet</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Nohejbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/orientační-běh">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Orientační běh</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Orienteering</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/parkour">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Parkour</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Parkour</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/petanque">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Petanque</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Petanque</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pětiboj">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Pentathlon</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Pětiboj</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pilates">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Pilates</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pilates</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/plavání">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Plavání</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Swimming</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/poker">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Poker</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Poker</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Fittness</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Posilování</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Diving</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Potápění</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pozemní-hokej">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Field hockey</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Pozemní hokej</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rafting">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Rafting</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Rafting</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/ragby">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Ragby</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Rugby</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/raketbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Racquetball</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Raketbal</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rychlobruslení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Rychlobruslení</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Speedskating</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skateboarding">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Skateboarding</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skateboarding</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skeleton">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Skeleton</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skeleton</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sledge-hokej">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Sledge hokej</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sledge hokej</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snooker">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Snooker</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Snooker</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snowboarding">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Snowboarding</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Snowboarding</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/softbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Softbal</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Softball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/spinning">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Spinning</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Spinning</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-gymnastika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Sport gymnastics</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Sportovní gymnastika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-rybaření">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Fishing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Sportovní rybaření</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-střelba">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Sport shooting</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Sportovní střelba</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/squash">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Squash</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Squash</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/stolní-tenis">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Stolní tenis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Table tennis</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/surfování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Surfing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Surfování</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/synchronizované-plavání">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Synchronized swimming</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Synchronizované plavání</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šachy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Chess</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Šachy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šerm">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Fencing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Šerm</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taekwondo">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Taekwondo</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Taekwondo</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taneční-sport">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Dance sports</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Taneční sport</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/tenis">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Tenis</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Tennis</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/triatlon">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Triathlon</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Triatlon</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/turistika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Hiking</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Turistika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/veslování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Rowing</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Veslování</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vodní-pólo">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Vodní pólo</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Water polo</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/volejbal">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Volejbal</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Voleyball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vzpírání">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Vzpírání</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Weightlifting</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/workout">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Workout</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Workout</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zápas">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="en">Wrestling</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Zápas</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zumba">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Zumba</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Zumba</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/streetball">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Streetball</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Streetball</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bruslení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
+	<skos:prefLabel xml:lang="cs">Bruslení</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skating</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

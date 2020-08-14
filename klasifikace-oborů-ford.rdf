@@ -1,0 +1,2052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Fields of Research and Development classification (FORD) - Frascati manual</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.1 Mathematics</skos:prefLabel>
+	<skos:notation>10100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford">
+	<skos:prefLabel xml:lang="cs">Kódy oborů OECD FORD - Frascati manual</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.2 Computer and information sciences</skos:prefLabel>
+	<skos:notation>10200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.3 Physical sciences</skos:prefLabel>
+	<skos:notation>10300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.4 Chemical sciences</skos:prefLabel>
+	<skos:notation>10400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.5. Earth and related environmental sciences</skos:prefLabel>
+	<skos:notation>10500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.6 Biological sciences</skos:prefLabel>
+	<skos:notation>10600</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10700">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1.7 Other natural sciences</skos:prefLabel>
+	<skos:notation>10700</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.1 Civil engineering</skos:prefLabel>
+	<skos:notation>20100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.2 Electrical engineering, Electronic engineering, Information engineering</skos:prefLabel>
+	<skos:notation>20200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.3 Mechanical engineering</skos:prefLabel>
+	<skos:notation>20300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.4 Chemical engineering</skos:prefLabel>
+	<skos:notation>20400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.5 Materials engineering</skos:prefLabel>
+	<skos:notation>20500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20600">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.6 Medical engineering</skos:prefLabel>
+	<skos:notation>20600</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.7 Environmental engineering</skos:prefLabel>
+	<skos:notation>20700</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20800">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.8 Environmental biotechnology</skos:prefLabel>
+	<skos:notation>20800</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20900">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.9 Industrial biotechnology</skos:prefLabel>
+	<skos:notation>20900</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.10 Nano-technology</skos:prefLabel>
+	<skos:notation>21000</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2.11 Other engineering and technologies</skos:prefLabel>
+	<skos:notation>21100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3.1 Basic medicine</skos:prefLabel>
+	<skos:notation>30100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3.2 Clinical medicine</skos:prefLabel>
+	<skos:notation>30200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3.3 Health sciences</skos:prefLabel>
+	<skos:notation>30300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3.4 Medical biotechnology</skos:prefLabel>
+	<skos:notation>30400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3.5 Other medical sciences</skos:prefLabel>
+	<skos:notation>30500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4.1 Agriculture, Forestry, and Fisheries</skos:prefLabel>
+	<skos:notation>40100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4.2 Animal and Dairy science</skos:prefLabel>
+	<skos:notation>40200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4.3 Veterinary science</skos:prefLabel>
+	<skos:notation>40300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4.4 Agricultural biotechnology</skos:prefLabel>
+	<skos:notation>40400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4.5 Other agricultural sciences</skos:prefLabel>
+	<skos:notation>40500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.1 Psychology and cognitive sciences</skos:prefLabel>
+	<skos:notation>50100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.2 Economics and Business</skos:prefLabel>
+	<skos:notation>50200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.3 Education</skos:prefLabel>
+	<skos:notation>50300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.4 Sociology</skos:prefLabel>
+	<skos:notation>50400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.5 Law</skos:prefLabel>
+	<skos:notation>50500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50600">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.6 Political science</skos:prefLabel>
+	<skos:notation>50600</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50700">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.7 Social and economic geography</skos:prefLabel>
+	<skos:notation>50700</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50800">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.8 Media and communications</skos:prefLabel>
+	<skos:notation>50800</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50900">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5.9 Other social sciences</skos:prefLabel>
+	<skos:notation>50900</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6.1 History and Archaeology</skos:prefLabel>
+	<skos:notation>60100</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6.2 Languages and Literature</skos:prefLabel>
+	<skos:notation>60200</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6.3 Philosophy, Ethics and Religion</skos:prefLabel>
+	<skos:notation>60300</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6.4 Arts (arts, history of arts, performing arts, music)</skos:prefLabel>
+	<skos:notation>60400</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60500">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6.5 Other Humanities and the Arts</skos:prefLabel>
+	<skos:notation>60500</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Pure mathematics</skos:prefLabel>
+	<skos:notation>10101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Applied mathematics</skos:prefLabel>
+	<skos:notation>10102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Statistics and probability</skos:prefLabel>
+	<skos:notation>10103</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Computer sciences, information science, bioinformathics (hardware development to be 2.2, social aspect to be 5.8)</skos:prefLabel>
+	<skos:notation>10201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Atomic, molecular and chemical physics (physics of atoms and molecules including collision, interaction with radiation, magnetic resonances, Mössbauer effect)</skos:prefLabel>
+	<skos:notation>10301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10302">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Condensed matter physics (including formerly solid state physics, supercond.)</skos:prefLabel>
+	<skos:notation>10302</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10303">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Particles and field physics</skos:prefLabel>
+	<skos:notation>10303</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10304">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nuclear physics</skos:prefLabel>
+	<skos:notation>10304</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10305">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Fluids and plasma physics (including surface physics)</skos:prefLabel>
+	<skos:notation>10305</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10306">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Optics (including laser optics and
+quantum optics)</skos:prefLabel>
+	<skos:notation>10306</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10307">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Acoustics</skos:prefLabel>
+	<skos:notation>10307</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10308">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Astronomy (including astrophysics,
+space science)</skos:prefLabel>
+	<skos:notation>10308</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Organic chemistry</skos:prefLabel>
+	<skos:notation>10401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Inorganic and nuclear chemistry</skos:prefLabel>
+	<skos:notation>10402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10403">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Physical chemistry</skos:prefLabel>
+	<skos:notation>10403</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10404">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Polymer science</skos:prefLabel>
+	<skos:notation>10404</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10405">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis)</skos:prefLabel>
+	<skos:notation>10405</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10406">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Analytical chemistry</skos:prefLabel>
+	<skos:notation>10406</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10501">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Hydrology</skos:prefLabel>
+	<skos:notation>10501</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10502">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Oceanography</skos:prefLabel>
+	<skos:notation>10502</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10503">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Water resources</skos:prefLabel>
+	<skos:notation>10503</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10504">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Mineralogy</skos:prefLabel>
+	<skos:notation>10504</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10505">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Geology</skos:prefLabel>
+	<skos:notation>10505</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10506">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Paleontology</skos:prefLabel>
+	<skos:notation>10506</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10507">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Volcanology</skos:prefLabel>
+	<skos:notation>10507</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10508">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Physical geography</skos:prefLabel>
+	<skos:notation>10508</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10509">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Meteorology and atmospheric sciences</skos:prefLabel>
+	<skos:notation>10509</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10510">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Climatic research</skos:prefLabel>
+	<skos:notation>10510</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10511">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Environmental sciences (social aspects to be 5.7)</skos:prefLabel>
+	<skos:notation>10511</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10601">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Cell biology</skos:prefLabel>
+	<skos:notation>10601</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10602">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biology (theoretical, mathematical, thermal, cryobiology, biological rhythm), Evolutionary biology</skos:prefLabel>
+	<skos:notation>10602</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10603">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Genetics and heredity (medical genetics to be 3)</skos:prefLabel>
+	<skos:notation>10603</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10604">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Reproductive biology (medical aspects to be 3)</skos:prefLabel>
+	<skos:notation>10604</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10605">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Developmental biology</skos:prefLabel>
+	<skos:notation>10605</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10606">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Microbiology</skos:prefLabel>
+	<skos:notation>10606</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10607">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Virology</skos:prefLabel>
+	<skos:notation>10607</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10608">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biochemistry and molecular biology</skos:prefLabel>
+	<skos:notation>10608</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10609">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biochemical research methods</skos:prefLabel>
+	<skos:notation>10609</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10610">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biophysics</skos:prefLabel>
+	<skos:notation>10610</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10611">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Plant sciences, botany</skos:prefLabel>
+	<skos:notation>10611</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10612">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Mycology</skos:prefLabel>
+	<skos:notation>10612</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10613">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Zoology</skos:prefLabel>
+	<skos:notation>10613</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10614">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Behavioral sciences biology</skos:prefLabel>
+	<skos:notation>10614</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10615">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ornithology</skos:prefLabel>
+	<skos:notation>10615</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10616">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Entomology</skos:prefLabel>
+	<skos:notation>10616</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10617">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Marine biology, freshwater biology, limnology</skos:prefLabel>
+	<skos:notation>10617</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10618">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ecology</skos:prefLabel>
+	<skos:notation>10618</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10619">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biodiversity conservation</skos:prefLabel>
+	<skos:notation>10619</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10620">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Other biological topics</skos:prefLabel>
+	<skos:notation>10620</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Civil engineering</skos:prefLabel>
+	<skos:notation>20101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Construction engineering, Municipal and structural engineering</skos:prefLabel>
+	<skos:notation>20102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Architecture engineering</skos:prefLabel>
+	<skos:notation>20103</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20104">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Transport engineering</skos:prefLabel>
+	<skos:notation>20104</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Electrical and electronic engineering</skos:prefLabel>
+	<skos:notation>20201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20202">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Communication engineering and systems</skos:prefLabel>
+	<skos:notation>20202</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Telecommunications</skos:prefLabel>
+	<skos:notation>20203</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20204">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Robotics and automatic control</skos:prefLabel>
+	<skos:notation>20204</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20205">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Automation and control systems</skos:prefLabel>
+	<skos:notation>20205</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20206">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Computer hardware and architecture</skos:prefLabel>
+	<skos:notation>20206</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Mechanical engineering</skos:prefLabel>
+	<skos:notation>20301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20302">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Applied mechanics</skos:prefLabel>
+	<skos:notation>20302</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20303">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Thermodynamics</skos:prefLabel>
+	<skos:notation>20303</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20304">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Aerospace engineering</skos:prefLabel>
+	<skos:notation>20304</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20305">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nuclear related engineering; (nuclear physics to be 1.3);</skos:prefLabel>
+	<skos:notation>20305</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20306">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Audio engineering, reliability analysis</skos:prefLabel>
+	<skos:notation>20306</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Chemical engineering (plants, products)</skos:prefLabel>
+	<skos:notation>20401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Chemical process engineering</skos:prefLabel>
+	<skos:notation>20402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20501">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Materials engineering</skos:prefLabel>
+	<skos:notation>20501</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20502">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Paper and wood</skos:prefLabel>
+	<skos:notation>20502</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20503">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Textiles; including synthetic dyes, colours, fibres (nanoscale  materials  to  be  2.10; biomaterials to be 2.9)</skos:prefLabel>
+	<skos:notation>20503</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20504">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ceramics</skos:prefLabel>
+	<skos:notation>20504</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20505">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Composites (including laminates, reinforced plastics, cermets, combined natural and synthetic fibre fabrics; filled composites)</skos:prefLabel>
+	<skos:notation>20505</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20506">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Coating and films</skos:prefLabel>
+	<skos:notation>20506</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20601">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Medical engineering</skos:prefLabel>
+	<skos:notation>20601</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20602">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Medical laboratory technology (including laboratory samples analysis; diagnostic technologies) (Biomaterials to be 2.9 [physical characteristics of living material as related to medical implants, devices, sensors]);</skos:prefLabel>
+	<skos:notation>20602</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20701">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Environmental and geological engineering, geotechnics</skos:prefLabel>
+	<skos:notation>20701</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20702">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Petroleum engineering (fuel, oils)</skos:prefLabel>
+	<skos:notation>20702</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20703">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Mining and mineral processing</skos:prefLabel>
+	<skos:notation>20703</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20704">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Energy and fuels</skos:prefLabel>
+	<skos:notation>20704</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20705">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Remote sensing</skos:prefLabel>
+	<skos:notation>20705</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20706">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Marine engineering, sea vessels</skos:prefLabel>
+	<skos:notation>20706</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20707">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ocean engineering</skos:prefLabel>
+	<skos:notation>20707</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20801">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Environmental biotechnology</skos:prefLabel>
+	<skos:notation>20801</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20802">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Bioremediation, diagnostic biotechnologies (DNA chips and biosensing devices) in environmental management</skos:prefLabel>
+	<skos:notation>20802</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20803">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Environmental biotechnology related ethics</skos:prefLabel>
+	<skos:notation>20803</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20901">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Industrial biotechnology</skos:prefLabel>
+	<skos:notation>20901</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20900"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20902">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Bioprocessing technologies (industrial processes relying on biological agents to drive the process) biocatalysis, fermentation</skos:prefLabel>
+	<skos:notation>20902</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20900"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20903">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Bioproducts (products that are manufactured using biological material as feedstock) biomaterials, bioplastics, biofuels, bioderived bulk and fine chemicals, bio-derived novel materials</skos:prefLabel>
+	<skos:notation>20903</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20900"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21001">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nano-materials (production and properties)</skos:prefLabel>
+	<skos:notation>21001</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21002">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nano-processes (applications on nano-scale); (biomaterials to be 2.9)</skos:prefLabel>
+	<skos:notation>21002</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21000"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Food and beverages</skos:prefLabel>
+	<skos:notation>21101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/21100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Human genetics</skos:prefLabel>
+	<skos:notation>30101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Immunology</skos:prefLabel>
+	<skos:notation>30102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Neurosciences (including psychophysiology</skos:prefLabel>
+	<skos:notation>30103</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30104">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Pharmacology and pharmacy</skos:prefLabel>
+	<skos:notation>30104</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30105">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Physiology (including cytology)</skos:prefLabel>
+	<skos:notation>30105</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30106">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Anatomy and morphology (plant  science  to  be  1.6)</skos:prefLabel>
+	<skos:notation>30106</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30107">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Medicinal chemistry</skos:prefLabel>
+	<skos:notation>30107</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30108">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Toxicology</skos:prefLabel>
+	<skos:notation>30108</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30109">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Pathology</skos:prefLabel>
+	<skos:notation>30109</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Cardiac and Cardiovascular systems</skos:prefLabel>
+	<skos:notation>30201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30202">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Endocrinology and metabolism (including diabetes, hormones)</skos:prefLabel>
+	<skos:notation>30202</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Respiratory systems</skos:prefLabel>
+	<skos:notation>30203</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30204">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Oncology</skos:prefLabel>
+	<skos:notation>30204</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30205">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Hematology</skos:prefLabel>
+	<skos:notation>30205</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30206">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Otorhinolaryngology</skos:prefLabel>
+	<skos:notation>30206</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30207">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ophthalmology</skos:prefLabel>
+	<skos:notation>30207</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30208">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Dentistry, oral surgery and medicine</skos:prefLabel>
+	<skos:notation>30208</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30209">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Paediatrics</skos:prefLabel>
+	<skos:notation>30209</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30210">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Clinical neurology</skos:prefLabel>
+	<skos:notation>30210</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30211">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Orthopaedics</skos:prefLabel>
+	<skos:notation>30211</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30212">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Surgery</skos:prefLabel>
+	<skos:notation>30212</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30213">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Transplantation</skos:prefLabel>
+	<skos:notation>30213</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30214">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Obstetrics and gynaecology</skos:prefLabel>
+	<skos:notation>30214</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30215">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Psychiatry</skos:prefLabel>
+	<skos:notation>30215</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30216">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Dermatology and venereal diseases</skos:prefLabel>
+	<skos:notation>30216</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30217">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Urology and nephrology</skos:prefLabel>
+	<skos:notation>30217</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30218">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">General and internal medicine</skos:prefLabel>
+	<skos:notation>30218</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30219">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Gastroenterology and hepatology</skos:prefLabel>
+	<skos:notation>30219</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30220">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Andrology</skos:prefLabel>
+	<skos:notation>30220</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30221">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Critical care medicine and Emergency medicine</skos:prefLabel>
+	<skos:notation>30221</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30223">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Anaesthesiology</skos:prefLabel>
+	<skos:notation>30223</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30224">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Radiology, nuclear medicine and medical imaging</skos:prefLabel>
+	<skos:notation>30224</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30225">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Allergy</skos:prefLabel>
+	<skos:notation>30225</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30226">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Rheumatology</skos:prefLabel>
+	<skos:notation>30226</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30227">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Geriatrics and gerontology</skos:prefLabel>
+	<skos:notation>30227</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30229">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Integrative and complementary medicine (alternative practice systems)</skos:prefLabel>
+	<skos:notation>30229</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30230">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Other clinical medicine subjects</skos:prefLabel>
+	<skos:notation>30230</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Social biomedical sciences (includes family planning, sexual health, psycho-oncology, political and social effects of biomedical research)</skos:prefLabel>
+	<skos:notation>30301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30302">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Epidemiology</skos:prefLabel>
+	<skos:notation>30302</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30303">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Infectious Diseases</skos:prefLabel>
+	<skos:notation>30303</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30304">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Public and environmental health</skos:prefLabel>
+	<skos:notation>30304</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30305">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Occupational health</skos:prefLabel>
+	<skos:notation>30305</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30306">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Sport and fitness sciences</skos:prefLabel>
+	<skos:notation>30306</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30307">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nursing</skos:prefLabel>
+	<skos:notation>30307</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30308">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Nutrition, Dietetics</skos:prefLabel>
+	<skos:notation>30308</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30309">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Tropical medicine</skos:prefLabel>
+	<skos:notation>30309</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30310">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Parasitology</skos:prefLabel>
+	<skos:notation>30310</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30311">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Medical ethics</skos:prefLabel>
+	<skos:notation>30311</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30312">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Substance abuse</skos:prefLabel>
+	<skos:notation>30312</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Health-related biotechnology</skos:prefLabel>
+	<skos:notation>30401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Technologies involving the manipulation of cells, tissues, organs or the whole organism (assisted reproduction)</skos:prefLabel>
+	<skos:notation>30402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30403">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Technologies involving identifying the functioning of DNA, proteins and enzymes and how they influence the onset of disease and maintenance of well-being (gene-based diagnostics and therapeutic interventions
+(pharmacogenomics, gene-based therapeutics)</skos:prefLabel>
+	<skos:notation>30403</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30404">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Biomaterials (as related to medical implants, devices, sensors)</skos:prefLabel>
+	<skos:notation>30404</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30405">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Medical biotechnology related ethics</skos:prefLabel>
+	<skos:notation>30405</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30501">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Forensic science</skos:prefLabel>
+	<skos:notation>30501</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30502">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Other medical science</skos:prefLabel>
+	<skos:notation>30502</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Agriculture</skos:prefLabel>
+	<skos:notation>40101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Forestry</skos:prefLabel>
+	<skos:notation>40102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Fishery</skos:prefLabel>
+	<skos:notation>40103</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40104">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Soil science</skos:prefLabel>
+	<skos:notation>40104</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40105">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Horticulture, viticulture</skos:prefLabel>
+	<skos:notation>40105</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40106">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Agronomy, plant breeding and plant protection; (Agricultural biotechnology to be 4.4)</skos:prefLabel>
+	<skos:notation>40106</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Animal and dairy science; (Animal biotechnology to be 4.4)</skos:prefLabel>
+	<skos:notation>40201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40202">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Pets</skos:prefLabel>
+	<skos:notation>40202</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Husbandry</skos:prefLabel>
+	<skos:notation>40203</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Veterinary science</skos:prefLabel>
+	<skos:notation>40301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Agricultural biotechnology and food biotechnology</skos:prefLabel>
+	<skos:notation>40401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">GM technology (crops and livestock), livestock cloning, marker assisted selection, diagnostics (DNA chips and biosensing devices for the early/accurate detection of diseases) biomass feedstock production technologies, biopharming</skos:prefLabel>
+	<skos:notation>40402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40403">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Agricultural biotechnology related ethics</skos:prefLabel>
+	<skos:notation>40403</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Psychology (including human - machine relations)</skos:prefLabel>
+	<skos:notation>50101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Psychology, special (including therapy for learning, speech, hearing, visual and other physical and mental disabilities);</skos:prefLabel>
+	<skos:notation>50102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Cognitive sciences</skos:prefLabel>
+	<skos:notation>50103</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Economic Theory</skos:prefLabel>
+	<skos:notation>50201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50202">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Applied Economics, Econometrics</skos:prefLabel>
+	<skos:notation>50202</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Industrial relations</skos:prefLabel>
+	<skos:notation>50203</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50204">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Business and management</skos:prefLabel>
+	<skos:notation>50204</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50205">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Accounting</skos:prefLabel>
+	<skos:notation>50205</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50206">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Finance</skos:prefLabel>
+	<skos:notation>50206</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Education, general; including training, pedagogy, didactics [and education systems]</skos:prefLabel>
+	<skos:notation>50301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50302">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Education, special (to gifted persons, those with learning disabilities)</skos:prefLabel>
+	<skos:notation>50302</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Sociology</skos:prefLabel>
+	<skos:notation>50401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Demography</skos:prefLabel>
+	<skos:notation>50402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50403">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Social topics (Women´s and gender studies; Social issues; Family studies; Social work)</skos:prefLabel>
+	<skos:notation>50403</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50404">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Antropology, ethnology</skos:prefLabel>
+	<skos:notation>50404</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50501">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Law</skos:prefLabel>
+	<skos:notation>50501</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50502">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Criminology, penology</skos:prefLabel>
+	<skos:notation>50502</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50500"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50601">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Political science</skos:prefLabel>
+	<skos:notation>50601</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50602">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Public administration</skos:prefLabel>
+	<skos:notation>50602</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50603">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Organisation theory</skos:prefLabel>
+	<skos:notation>50603</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50600"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50701">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Cultural and economic geography</skos:prefLabel>
+	<skos:notation>50701</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50702">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Urban studies (planning and development)</skos:prefLabel>
+	<skos:notation>50702</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50703">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Transport planning and social aspects of transport (transport engineering to be 2.1)</skos:prefLabel>
+	<skos:notation>50703</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50704">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Environmental sciences (social aspects)</skos:prefLabel>
+	<skos:notation>50704</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50700"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50801">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Journalism</skos:prefLabel>
+	<skos:notation>50801</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50802">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Media and socio-cultural communication</skos:prefLabel>
+	<skos:notation>50802</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50803">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Information science (social aspects)</skos:prefLabel>
+	<skos:notation>50803</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50804">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Library science</skos:prefLabel>
+	<skos:notation>50804</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50901">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Other social sciences</skos:prefLabel>
+	<skos:notation>50901</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50900"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50902">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Social sciences, interdisciplinary</skos:prefLabel>
+	<skos:notation>50902</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50900"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">History (history of science and technology to be 6.3, history of specific sciences to be under the respective headings)</skos:prefLabel>
+	<skos:notation>60101</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Archaeology</skos:prefLabel>
+	<skos:notation>60102</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">General language studies</skos:prefLabel>
+	<skos:notation>60201</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60202">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Specific languages</skos:prefLabel>
+	<skos:notation>60202</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Linguistics</skos:prefLabel>
+	<skos:notation>60203</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60204">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">General literature studies</skos:prefLabel>
+	<skos:notation>60204</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60205">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Literary theory</skos:prefLabel>
+	<skos:notation>60205</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60206">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Specific literatures</skos:prefLabel>
+	<skos:notation>60206</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60200"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60301">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Philosophy, History and Philosophy of science and technology</skos:prefLabel>
+	<skos:notation>60301</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60302">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Ethics (except ethics related to specific subfields)</skos:prefLabel>
+	<skos:notation>60302</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60303">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Theology</skos:prefLabel>
+	<skos:notation>60303</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60304">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Religious studies</skos:prefLabel>
+	<skos:notation>60304</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60300"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60401">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Arts, Art history</skos:prefLabel>
+	<skos:notation>60401</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Architectural design</skos:prefLabel>
+	<skos:notation>60402</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60403">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Performing arts studies (Musicology, Theater science, Dramaturgy)</skos:prefLabel>
+	<skos:notation>60403</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60404">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Folklore studies</skos:prefLabel>
+	<skos:notation>60404</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60405">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">Studies on Film, Radio and Television</skos:prefLabel>
+	<skos:notation>60405</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60400"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/10000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">1. Natural Sciences</skos:prefLabel>
+	<skos:notation>10000</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/20000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">2. Engineering and Technology</skos:prefLabel>
+	<skos:notation>20000</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/30000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">3. Medical and Health Sciences</skos:prefLabel>
+	<skos:notation>30000</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/40000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">4. Agricultural and veterinary sciences</skos:prefLabel>
+	<skos:notation>40000</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/50000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">5. Social Sciences</skos:prefLabel>
+	<skos:notation>50000</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/ford/položky/60000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/ford"/>
+	<skos:prefLabel xml:lang="en">6. Humanities and the Arts</skos:prefLabel>
+	<skos:notation>60000</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

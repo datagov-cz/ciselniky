@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Level of specification of a topic of a thesis</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce"/>
+	<skos:prefLabel xml:lang="en">Topic</skos:prefLabel>
+	<skos:note xml:lang="en">Precisely specified topic</skos:note>
+	<skos:note xml:lang="cs">Přesně specifikované téma k zadání</skos:note>
+	<skos:prefLabel xml:lang="cs">Téma</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce">
+	<skos:prefLabel xml:lang="cs">Míra specifikace tématu práce</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma-ke-specifikaci">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce"/>
+	<skos:prefLabel xml:lang="en">Topic to be specified</skos:prefLabel>
+	<skos:note xml:lang="cs">Rámcově vymezené téma k bližší specifikaci na základě dohody s uchazečem</skos:note>
+	<skos:note xml:lang="en">Topic to be further specified based on a discussion with the applicant</skos:note>
+	<skos:prefLabel xml:lang="cs">Téma ke specifikaci</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce"/>
+	<skos:prefLabel xml:lang="en">Area</skos:prefLabel>
+	<skos:note xml:lang="en">Area from which topics can be selected</skos:note>
+	<skos:note xml:lang="cs">Okruh, ze kterého mohou být vybírána témata</skos:note>
+	<skos:prefLabel xml:lang="cs">Okruh</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

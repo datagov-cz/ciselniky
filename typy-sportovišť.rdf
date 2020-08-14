@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Types of sports venues</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Autodrom</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Autodromme</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť">
+	<skos:prefLabel xml:lang="cs">Typy sportovišť</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Bazén</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Swimming pool</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Běžecká dráha</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Track</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Bobová dráha</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Bobsled track</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Bowling track</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Bowlingová dráha</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Boxerský rink</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Boxing ring</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Cycling track</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Cyklistická dráha</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Golf course</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Golfové hřiště</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Hipodrom</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Hippodrome</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Field</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Hřiště</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Boules pitch</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Hřiště na petanque</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Jízdárna</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Riding arena</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Climbing wall</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Lezecká stěna</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Lyžařská aréna</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Ski arena</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Artificial whitewater</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Plavební kanál</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Fittness</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Posilovna</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Skatepark</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Skatepark</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Ski jumping hill</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Skokanský můstek</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Sportovní hala</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sports hall</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Stadion</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Stadium</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Shooting range</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Střelecká aréna</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="cs">Velodrom</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Velodrome</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
+	<skos:prefLabel xml:lang="en">Gym</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Tělocvična</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Kategorie územní ochrany</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/chráněná-krajinná-oblast">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Chráněná krajinná oblast</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-park">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Národní park </skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-památka">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Národní přírodní památka</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-rezervace">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Národní přírodní rezervace</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/památný-strom">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Památný strom</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přechodně-chráněná-plocha">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Přechodně chráněná plocha</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-památka">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Přírodní památka</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-rezervace">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany"/>
+	<skos:prefLabel xml:lang="cs">Přírodní rezervace</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

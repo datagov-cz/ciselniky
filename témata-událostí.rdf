@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Event themes</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/ekonomika-a-finance">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Economy and Finance</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Ekonomika a finance</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí">
+	<skos:prefLabel xml:lang="cs">Témata událostí</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/zdraví-a-životní-styl">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Health and Lifestyle</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Zdraví a životní styl</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/doprava">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Doprava</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Traffic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/věda-a-vzdělání">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Science and Education</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Věda a vzdělání</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/lidé-a-společnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Lidé a společnost</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">People and Society</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/infrastruktura">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Infrastructure</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Infrastruktura</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/kriminalita-a-bezpečnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Crime and Safety</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Kriminalita a bezpečnost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/mimořádná-nebo-nebezpečná-situace">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Emergency</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Mimořádná nebo nebezpečná situace</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/sport">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Sport</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sport</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/umění-a-kultura">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Arts and Culture</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Umění a kultura</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/technologie">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Technologie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Technology</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jídlo-a-pití">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Food and Drinks</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Jídlo a pití</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/životní-prostředí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Environment</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Životní prostředí</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Historie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">History</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/nadcházející-události">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Events</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Nadcházející události</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/politika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Politics</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Politika</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/počasí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Počasí</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Weather</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/průmysl-a-zemědělství">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="en">Industry and Agriculture</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Průmysl a zemědělství</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/cestování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Cestování</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Travelling</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/bydlení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Bydlení</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Housing</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/náboženství">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Náboženství</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Religion</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jiné">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
+	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>
