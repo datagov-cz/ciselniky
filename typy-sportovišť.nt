@@ -1,0 +1,99 @@
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> <http://www.w3.org/2004/02/skos/core#prefLabel> "Types of sports venues"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autodrom"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autodromme"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> <http://www.w3.org/2004/02/skos/core#prefLabel> "Typy sportovišť"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bazén"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén> <http://www.w3.org/2004/02/skos/core#prefLabel> "Swimming pool"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Běžecká dráha"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Track"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bobová dráha"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bobsled track"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bowling track"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bowlingová dráha"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boxerský rink"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boxing ring"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cycling track"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyklistická dráha"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště> <http://www.w3.org/2004/02/skos/core#prefLabel> "Golf course"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště> <http://www.w3.org/2004/02/skos/core#prefLabel> "Golfové hřiště"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hipodrom"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippodrome"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště> <http://www.w3.org/2004/02/skos/core#prefLabel> "Field"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hřiště"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boules pitch"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hřiště na petanque"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiné"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jízdárna"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riding arena"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Climbing wall"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lezecká stěna"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lyžařská aréna"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ski arena"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial whitewater"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plavební kanál"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fittness"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Posilovna"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skatepark"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skatepark"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ski jumping hill"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skokanský můstek"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sportovní hala"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sports hall"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stadion"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stadium"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shooting range"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Střelecká aréna"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> <http://www.w3.org/2004/02/skos/core#prefLabel> "Velodrom"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> <http://www.w3.org/2004/02/skos/core#prefLabel> "Velodrome"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gym"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tělocvična"@cs .

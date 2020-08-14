@@ -1,0 +1,46 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany> a skos:ConceptScheme;
+    skos:prefLabel "Kategorie územní ochrany"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/chráněná-krajinná-oblast>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Chráněná krajinná oblast"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-park>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Národní park "@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-památka>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Národní přírodní památka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-rezervace>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Národní přírodní rezervace"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/památný-strom>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Památný strom"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přechodně-chráněná-plocha>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Přechodně chráněná plocha"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-památka>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Přírodní památka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-rezervace>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany>;
+    skos:prefLabel "Přírodní rezervace"@cs .
+}

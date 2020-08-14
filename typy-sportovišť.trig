@@ -1,0 +1,117 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> a skos:ConceptScheme;
+    skos:prefLabel "Types of sports venues"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Autodrom"@cs, "Autodromme"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť> skos:prefLabel "Typy sportovišť"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Bazén"@cs, "Swimming pool"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Běžecká dráha"@cs, "Track"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Bobová dráha"@cs, "Bobsled track"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Bowling track"@en, "Bowlingová dráha"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Boxerský rink"@cs, "Boxing ring"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Cycling track"@en, "Cyklistická dráha"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Golf course"@en, "Golfové hřiště"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Hipodrom"@cs, "Hippodrome"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Field"@en, "Hřiště"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Boules pitch"@en, "Hřiště na petanque"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Jiné"@cs, "Other"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Jízdárna"@cs, "Riding arena"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Climbing wall"@en, "Lezecká stěna"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Lyžařská aréna"@cs, "Ski arena"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Artificial whitewater"@en, "Plavební kanál"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Fittness"@en, "Posilovna"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Skatepark"@cs, "Skatepark"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Ski jumping hill"@en, "Skokanský můstek"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Sportovní hala"@cs, "Sports hall"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Stadion"@cs, "Stadium"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Shooting range"@en, "Střelecká aréna"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Velodrom"@cs, "Velodrome"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť>;
+    skos:prefLabel "Gym"@en, "Tělocvična"@cs .
+}

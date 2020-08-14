@@ -1,0 +1,227 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů> a skos:ConceptScheme;
+    skos:prefLabel "Types of recycling waste"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/objemný> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Bulky waste"@en, "Objemný odpad"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů> skos:prefLabel "Typy tříděných odpadů"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/nebezpečný>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Dangerous waste"@en, "Nebezpečný odpad"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/léčiva> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Drugs"@en, "Objemný Léčiva"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Plast"@cs, "Plastic"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/papír> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Paper and cardboard"@en, "Papír a lepenka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-bílé>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Bílé (čiré) sklo"@cs, "White glass"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-barevné>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Barevné sklo"@cs, "Stained glass"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-ostatní>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Ostatní sklo"@cs, "Other glass"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/textil> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Clothes"@en, "textil"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kartony> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Beverage cartons"@en, "Nápojové kartony"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-jedlý>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Edible oil and fat"@en, "Jedlý olej a tuk"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-potraviny>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Food cans"@en, "Plechovky od potravin"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-nápoje>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Beverage cans"@en, "Nápojové plechovky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kov-ostatní-domácnost>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Ostatní kovy z domácnosti"@cs, "Other household metals"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/polystyren-drobný>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Crushed polystyrene"@en, "Výplňový, drobný polystyren"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Malá domácí elektrozařízení"@cs, "Small household appliances"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé-it>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Malá IT a komunikační zařízení"@cs, "Small ICT devices"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-velké>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Big household appliances"@en, "Velká elektrozařízení"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-malé>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Drobné baterie"@cs, "Small batteries"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-velké>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Big batteries, accumulators"@en, "Velké baterie, akumulátory"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/pneu> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Pneumatiky"@cs, "Tires"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-technický>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Technical oil"@en, "Technický olej"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/železo> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Iron"@en, "Železo"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kovy-barevné>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Barevné kovy"@cs, "Non-ferrous metal"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovky> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Bulbs"@en, "Klasické žárovky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-reflektorová>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Headlights"@en, "Reflektorové žárovky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-ledka>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "LED bulbs"@en, "LED žárovky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zářivka> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Compact fluorescent lamp"@en, "Kompaktní zářivky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zářivka-lineární>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Linear fluorescent lamp"@en, "Lineární zářivky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/výbojka> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Discharge lamp"@en, "Výbojky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/halogenka>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Halogen lamp"@en, "Halogenové žárovky"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/suť> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Rubble"@en, "Suť bez příměsí"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/cihly> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Bricks"@en, "Cihly"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/dřevo> a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Dřevo"@cs, "Wood"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zemina> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Soil and stones"@en, "Zemina a kamení"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směs-demolice>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Construction waste"@en, "Směsný stavební a demoliční odpad"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/obklady> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Obklady"@cs, "Tiles"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/azbest> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Asbestos"@en, "Azbest"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-stavební>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Building glass"@en, "Stavební sklo"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast-stavební>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Building plastic"@en, "Stavební plast"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/izolace> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Insulation"@en, "Stavební izolační materiály"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kabely> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Cables"@en, "kabely"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směsný-odpad>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Communal waste"@en, "Směsný odpad"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/bioodpad>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Biological waste"@en, "Bioodpad"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/re-use> a
+      skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů>;
+    skos:prefLabel "Re-use"@cs, "Re-use"@en .
+}

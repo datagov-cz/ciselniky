@@ -1,0 +1,80 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách> a
+      skos:ConceptScheme;
+    skos:prefLabel "Positions at universities"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/profesor>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Full Professor"@en;
+    skos:notation "profesor";
+    skos:prefLabel "Profesor/ka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách> skos:prefLabel
+      "Pozice na vysokých školách"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/docent>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Associate Professor"@en;
+    skos:notation "docent";
+    skos:prefLabel "Docent/ka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/OA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Assistant Professor"@en;
+    skos:notation "OA";
+    skos:prefLabel "Odborný asistent, odborná asistentka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/VP>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Academic Researcher"@en;
+    skos:notation "VP";
+    skos:prefLabel "Vědecký pracovník, věděcká pracovnice"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/lektor>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Lecturer"@en;
+    skos:notation "lektor";
+    skos:prefLabel "Lektor/ka"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/vedoucí-katedry>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Head of Department"@en;
+    skos:notation "vedoucí-katedry";
+    skos:prefLabel "Vedoucí katedry"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/proděkan>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Proděkan"@cs;
+    skos:notation "proděkan";
+    skos:prefLabel "Vice-Dean"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/děkan>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Dean"@en;
+    skos:notation "děkan";
+    skos:prefLabel "Děkan"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/prorektor>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Prorector"@en;
+    skos:notation "prorektor";
+    skos:prefLabel "Prorektor"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách/položky/rektor>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/akademické-pozice-na-vysokých-školách>;
+    skos:prefLabel "Rector"@en;
+    skos:notation "rektor";
+    skos:prefLabel "Rektor"@cs .
+}

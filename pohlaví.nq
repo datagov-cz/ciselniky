@@ -1,0 +1,11 @@
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pohlaví"@cs <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> <http://www.w3.org/2004/02/skos/core#prefLabel> "Male"@en <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mužské"@cs <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sex"@en <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> <http://www.w3.org/2004/02/skos/core#prefLabel> "Female"@en <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ženské"@cs <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> .

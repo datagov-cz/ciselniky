@@ -1,0 +1,930 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů> a skos:ConceptScheme;
+    skos:prefLabel "Klasifikace oborů ISVaV"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Společenské vědy"@cs;
+    skos:notation "A" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů> skos:prefLabel
+      "Research fields classification"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Fyzika a matematika"@cs;
+    skos:notation "B" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Chemie"@cs;
+    skos:notation "C" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Vědy o zemi"@cs;
+    skos:notation "D" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Biovědy"@cs;
+    skos:notation "E" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Lékařské vědy"@cs;
+    skos:notation "F" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Zemědělství"@cs;
+    skos:notation "G" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Informatika"@cs;
+    skos:notation "I" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Průmysl"@cs;
+    skos:notation "J" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Vojenství"@cs;
+    skos:notation "K" .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Filosofie a náboženství"@cs;
+    skos:notation "AA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Dějiny"@cs;
+    skos:notation "AB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Archeologie, antropologie, etnologie"@cs;
+    skos:notation "AC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Politologie a politické vědy"@cs;
+    skos:notation "AD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Řízení, správa a administrativa"@cs;
+    skos:notation "AE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Dokumentace, knihovnictví, práce s informacemi"@cs;
+    skos:notation "AF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Právní vědy"@cs;
+    skos:notation "AG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ekonomie"@cs;
+    skos:notation "AH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Jazykověda"@cs;
+    skos:notation "AI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Písemnictví, mas–media, audiovize"@cs;
+    skos:notation "AJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Sport a aktivity volného času"@cs;
+    skos:notation "AK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Umění, architektura, kulturní dědictví"@cs;
+    skos:notation "AL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pedagogika a školství"@cs;
+    skos:notation "AM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Psychologie"@cs;
+    skos:notation "AN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AO>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Sociologie, demografie"@cs;
+    skos:notation "AO";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AP>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Městské, oblastní a dopravní plánování"@cs;
+    skos:notation "AP";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AQ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Bezpečnost a ochrana zdraví, člověk – stroj"@cs;
+    skos:notation "AQ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Obecná matematika"@cs;
+    skos:notation "BA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Aplikovaná statistika, operační výzkum"@cs;
+    skos:notation "BB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Teorie a systémy řízení"@cs;
+    skos:notation "BC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Teorie informace"@cs;
+    skos:notation "BD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Teoretická fyzika"@cs;
+    skos:notation "BE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Elementární částice a fyzika vysokých energií"@cs;
+    skos:notation "BF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Jaderná, atomová a molekulová fyzika, urychlovače"@cs;
+    skos:notation "BG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Optika, masery a lasery"@cs;
+    skos:notation "BH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Akustika a kmity"@cs;
+    skos:notation "BI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Termodynamika"@cs;
+    skos:notation "BJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Mechanika tekutin"@cs;
+    skos:notation "BK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Fyzika plasmatu a výboje v plynech"@cs;
+    skos:notation "BL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Fyzika pevných látek a magnetismus"@cs;
+    skos:notation "BM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Astronomie a nebeská mechanika, astrofyzika"@cs;
+    skos:notation "BN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BO>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Biofyzika"@cs;
+    skos:notation "BO";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Anorganická chemie"@cs;
+    skos:notation "CA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Analytická chemie, separace"@cs;
+    skos:notation "CB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Organická chemie"@cs;
+    skos:notation "CC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Makromolekulární chemie"@cs;
+    skos:notation "CD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Biochemie"@cs;
+    skos:notation "CE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Fyzikální chemie a teoretická chemie"@cs;
+    skos:notation "CF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Elektrochemie"@cs;
+    skos:notation "CG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Jaderná a kvantová chemie, fotochemie"@cs;
+    skos:notation "CH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Průmyslová chemie a chemické inženýrství"@cs;
+    skos:notation "CI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Hydrologie a limnologie"@cs;
+    skos:notation "DA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Geologie a mineralogie"@cs;
+    skos:notation "DB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Seismologie, vulkanologie a struktura Země"@cs;
+    skos:notation "DC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Geochemie"@cs;
+    skos:notation "DD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Zemský magnetismus, geodesie, geografie"@cs;
+    skos:notation "DE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pedologie"@cs;
+    skos:notation "DF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Vědy o atmosféře, meteorologie"@cs;
+    skos:notation "DG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Báňský průmysl včetně těžby a zpracování uhlí"@cs;
+    skos:notation "DH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Znečištění a kontrola vzduchu"@cs;
+    skos:notation "DI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Znečištění a kontrola vody"@cs;
+    skos:notation "DJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Kontaminace a dekontaminace půdy včetně pesticidů"@cs;
+    skos:notation "DK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Jaderné odpady, radioaktivní znečištění a kontrola"@cs;
+    skos:notation "DL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Tuhý odpad a jeho kontrola, recyklace"@cs;
+    skos:notation "DM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Vliv životního prostředí na zdraví"@cs;
+    skos:notation "DN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DO>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ochrana krajinných území"@cs;
+    skos:notation "DO";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Morfologické obory a cytologie"@cs;
+    skos:notation "EA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Genetika a molekulární biologie"@cs;
+    skos:notation "EB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Imunologie"@cs;
+    skos:notation "EC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/ED>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Fyziologie"@cs;
+    skos:notation "ED";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Mikrobiologie, virologie"@cs;
+    skos:notation "EE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Botanika"@cs;
+    skos:notation "EF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Zoologie"@cs;
+    skos:notation "EG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ekologie – společenstva"@cs;
+    skos:notation "EH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Biotechnologie a bionika"@cs;
+    skos:notation "EI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Kardiovaskulární nemoci včetně kardiochirurgie"@cs;
+    skos:notation "FA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Endokrinologie, diabetologie, metabolismus, výživa"@cs;
+    skos:notation "FB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pneumologie"@cs;
+    skos:notation "FC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Onkologie a hematologie"@cs;
+    skos:notation "FD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ostatní obory vnitřního lékařství"@cs;
+    skos:notation "FE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "ORL, oftalmologie, stomatologie"@cs;
+    skos:notation "FF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pediatrie"@cs;
+    skos:notation "FG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Neurologie, neurochirurgie, neurovědy"@cs;
+    skos:notation "FH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Traumatologie a ortopedie"@cs;
+    skos:notation "FI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Chirurgie včetně transplantologie"@cs;
+    skos:notation "FJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Gynekologie a porodnictví"@cs;
+    skos:notation "FK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Psychiatrie, sexuologie"@cs;
+    skos:notation "FL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Hygiena"@cs;
+    skos:notation "FM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Epidemiologie, infekční nemoci a klinická imunologie"@cs;
+    skos:notation "FN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FO>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Dermatovenerologie"@cs;
+    skos:notation "FO";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FP>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ostatní lékařské obory"@cs;
+    skos:notation "FP";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FQ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Veřejné zdravotnictví, sociální lékařství"@cs;
+    skos:notation "FQ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FR>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Farmakologie a lékárnická chemie"@cs;
+    skos:notation "FR";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FS>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Lékařská zařízení, přístroje a vybavení"@cs;
+    skos:notation "FS";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Zemědělská ekonomie"@cs;
+    skos:notation "GA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Zemědělské stroje a stavby"@cs;
+    skos:notation "GB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pěstování rostlin, osevní postupy"@cs;
+    skos:notation "GC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Hnojení, závlahy, zpracování půdy"@cs;
+    skos:notation "GD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Šlechtění rostlin"@cs;
+    skos:notation "GE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Choroby, škůdci, plevely a ochrana rostlin"@cs;
+    skos:notation "GF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Chov hospodářských zvířat"@cs;
+    skos:notation "GG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Výživa hospodářských zvířat"@cs;
+    skos:notation "GH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Šlechtění a plemenářství hospodářských zvířat"@cs;
+    skos:notation "GI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Choroby a škůdci zvířat, veterinární medicina"@cs;
+    skos:notation "GJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Lesnictví"@cs;
+    skos:notation "GK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Rybářství"@cs;
+    skos:notation "GL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Potravinářství"@cs;
+    skos:notation "GM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/IN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Informatika"@cs;
+    skos:notation "IN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Elektronika a optoelektronika, elektrotechnika"@cs;
+    skos:notation "JA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JB>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Senzory, čidla, měření a regulace"@cs;
+    skos:notation "JB";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JC>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Počítačový hardware a software"@cs;
+    skos:notation "JC";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JD>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Využití počítačů, robotika a její aplikace"@cs;
+    skos:notation "JD";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JE>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Nejaderná energetika, spotřeba a užití energie"@cs;
+    skos:notation "JE";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JF>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Jaderná energetika"@cs;
+    skos:notation "JF";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JG>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Hutnictví, kovové materiály"@cs;
+    skos:notation "JG";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JH>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Keramika, žáruvzdorné materiály a skla"@cs;
+    skos:notation "JH";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JI>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Kompositní materiály"@cs;
+    skos:notation "JI";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JJ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ostatní materiály"@cs;
+    skos:notation "JJ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JK>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Koroze a povrchové úpravy materiálu"@cs;
+    skos:notation "JK";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JL>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Únava materiálu a lomová mechanika"@cs;
+    skos:notation "JL";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JM>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Inženýrské stavitelství"@cs;
+    skos:notation "JM";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JN>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Stavebnictví"@cs;
+    skos:notation "JN";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JO>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pozemní dopravní systémy a zařízení"@cs;
+    skos:notation "JO";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JP>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Průmyslové procesy a zpracování"@cs;
+    skos:notation "JP";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JQ>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Strojní zařízení a nástroje"@cs;
+    skos:notation "JQ";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JR>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Ostatní strojírenství"@cs;
+    skos:notation "JR";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JS>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Řízení spolehlivosti a kvality, zkušebnictví"@cs;
+    skos:notation "JS";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JT>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Pohon, motory a paliva"@cs;
+    skos:notation "JT";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JU>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Aeronautika, aerodynamika, letadla"@cs;
+    skos:notation "JU";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JV>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Kosmické technologie"@cs;
+    skos:notation "JV";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JW>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Navigace, spojení, detekce a protiopatření"@cs;
+    skos:notation "JW";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JY>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Střelné zbraně, munice, výbušniny, bojová vozidla"@cs;
+    skos:notation "JY";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/KA>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+    skos:prefLabel "Vojenství"@cs;
+    skos:notation "KA";
+    skos:broader <https://data.mvcr.gov.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K> .
+}

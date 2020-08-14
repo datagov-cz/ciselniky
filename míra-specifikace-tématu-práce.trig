@@ -1,0 +1,31 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce> {
+  <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce> a skos:ConceptScheme;
+    skos:prefLabel "Level of specification of a topic of a thesis"@en .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce>;
+    skos:prefLabel "Topic"@en;
+    skos:note "Precisely specified topic"@en, "Přesně specifikované téma k zadání"@cs;
+    skos:prefLabel "Téma"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce> skos:prefLabel
+      "Míra specifikace tématu práce"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma-ke-specifikaci>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce>;
+    skos:prefLabel "Topic to be specified"@en;
+    skos:note "Rámcově vymezené téma k bližší specifikaci na základě dohody s uchazečem"@cs,
+      "Topic to be further specified based on a discussion with the applicant"@en;
+    skos:prefLabel "Téma ke specifikaci"@cs .
+  
+  <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh>
+    a skos:Concept;
+    skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce>;
+    skos:prefLabel "Area"@en;
+    skos:note "Area from which topics can be selected"@en, "Okruh, ze kterého mohou být vybírána témata"@cs;
+    skos:prefLabel "Okruh"@cs .
+}
