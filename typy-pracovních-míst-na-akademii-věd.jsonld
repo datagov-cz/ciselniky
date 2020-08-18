@@ -1,0 +1,61 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd",
+  "typ": "číselník",
+  "název-číselníku": {
+      "cs":  "Typy pracovních míst na Akademii věd České republiky",
+      "en":  "Position types at the Czech Academy of Sciences"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/doktorand",
+      "kód": "2",
+      "název": {
+          "cs":  "Doktorand",
+          "en":  "Graduade student"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/odborný-pracovník-výzkumu-a-vývoje",
+      "kód": "1",
+      "název": {
+          "cs":  "Odborný pracovník výzkumu a vývoje",
+          "en":  "Research assistant"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/postdoktorand",
+      "kód": "3a",
+      "název": {
+          "cs":  "Postdoktorand",
+          "en":  "Postdoctoral fellow"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/vedoucí-vědecký-pracovník",
+      "kód": "5",
+      "název": {
+          "cs":  "Vedoucí vědecký pracovník",
+          "en":  "Senior scientist/scholar"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/vědecký-asistent",
+      "kód": "3b",
+      "název": {
+          "cs":  "Vědecký asistent",
+          "en":  "Associated scientist/scholar"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-míst-na-akademii-věd/položky/vědecký-pracovník",
+      "kód": "4",
+      "název": {
+          "cs":  "Vědecký pracovník",
+          "en":  "Scientist/scholar"
+      }
+    }
+  ]
+}
