@@ -7,9 +7,12 @@
 			"@language": "cs"
 		}
 	],
+	"@type": "Table",
 	"url": "klasifikace-oborů-isvav.csv",
 	"tableSchema": {
+		"@type": "Schema",
 		"columns": [{
+			"@type": "Column",
 			"name": "ciselnik",
 			"titles": "číselník",
 			"dc:description": "IRI číselníku",
@@ -19,6 +22,7 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
 			"name": "ciselnik_nazev_cs",
 			"titles": "číselník_název_cs",
 			"dc:description": "Název číselníku v češtině",
@@ -28,6 +32,7 @@
 			"datatype": "string",
 			"lang": "cs"
 		}, {
+			"@type": "Column",
 			"name": "polozka",
 			"titles": "položka",
 			"dc:description": "IRI položky",
@@ -37,6 +42,7 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
 			"name": "polozka_kod",
 			"titles": "položka_kód",
 			"dc:description": "Kód položky",
@@ -45,6 +51,7 @@
 			"required": true,
 			"datatype": "string"
 		},{
+			"@type": "Column",
 			"name": "polozka_nazev_cs",
 			"titles": "položka_název_cs",
 			"dc:description": "Název položky v češtině",
@@ -54,6 +61,7 @@
 			"datatype": "string",
 			"lang": "cs"
 		},  {
+			"@type": "Column",
 			"name": "polozka_sirsi_polozka",
 			"titles": "položka_širší_položka",
 			"dc:description": "Širší položka",
@@ -62,6 +70,7 @@
 			"required": false,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",
 			"valueUrl": "{+ciselnik}",

@@ -7,9 +7,12 @@
 			"@language": "cs"
 		}
 	],
+	"@type": "Table",
 	"url": "témata-událostí.csv",
 	"tableSchema": {
+		"@type": "Schema",
 		"columns": [{
+			"@type": "Column",
 			"name": "ciselnik",
 			"titles": "číselník",
 			"dc:description": "IRI číselníku",
@@ -19,6 +22,7 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
 			"name": "ciselnik_nazev_cs",
 			"titles": "číselník_název_cs",
 			"dc:description": "Název číselníku v češtině",
@@ -28,6 +32,7 @@
 			"datatype": "string",
 			"lang": "cs"
 		}, {
+			"@type": "Column",
 			"name": "ciselnik_nazev_en",
 			"titles": "číselník_název_en",
 			"dc:description": "Název číselníku v angličtině",
@@ -37,6 +42,7 @@
 			"datatype": "string",
 			"lang": "en"
 		},{
+			"@type": "Column",
 			"name": "polozka",
 			"titles": "položka",
 			"dc:description": "IRI položky",
@@ -46,6 +52,7 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
 			"name": "polozka_nazev_cs",
 			"titles": "položka_název_cs",
 			"dc:description": "Název položky v češtině",
@@ -55,6 +62,7 @@
 			"datatype": "string",
 			"lang": "cs"
 		}, {
+			"@type": "Column",
 			"name": "polozka_nazev_en",
 			"titles": "položka_název_en",
 			"dc:description": "Název položky v angličtině",
@@ -64,6 +72,7 @@
 			"datatype": "string",
 			"lang": "en"
 		},  {
+			"@type": "Column",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",
 			"valueUrl": "{+ciselnik}",
