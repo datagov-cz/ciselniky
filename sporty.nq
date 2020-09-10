@@ -255,7 +255,7 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/poker> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poker"@en <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
-<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fittness"@en <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
+<https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fitness"@en <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> <http://www.w3.org/2004/02/skos/core#prefLabel> "Posilování"@cs <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> .

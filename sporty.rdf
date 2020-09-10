@@ -456,7 +456,7 @@
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
-	<skos:prefLabel xml:lang="en">Fittness</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Fitness</skos:prefLabel>
 	<skos:prefLabel xml:lang="cs">Posilování</skos:prefLabel>
 </rdf:Description>
 

@@ -257,7 +257,7 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-  skos:prefLabel "Fittness"@en, "Posilování"@cs .
+  skos:prefLabel "Fitness"@en, "Posilování"@cs .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
