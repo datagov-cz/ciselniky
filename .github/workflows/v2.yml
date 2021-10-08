@@ -3,7 +3,9 @@ name: Validator2
 on:
   push:
   pull_request:
-    branches: [ master ]
+    branches:
+    - master
+    - develop
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -13,4 +15,4 @@ jobs:
     - name: Data validator
       uses: opendata-mvcr/data-validator/github@master
       with:
-        configuration: http://skoda.projekty.ms.mff.cuni.cz/www/temp/data-validator-configuration.ttl
+        configuration: file://./.github/workflows/validate-syntax.ttl
