@@ -1,177 +1,177 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť",
-  "typ": "číselník",
-  "název-číselníku": {
+  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť",
+  "typ": "Číselník",
+  "název": {
       "cs":  "Typy sportovišť",
       "en":  "Types of sports venues"
   },
   "položky": [
 {
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/autodrom",
       "název": {
           "cs":  "Autodrom",
           "en":  "Autodromme"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bazén",
       "název": {
           "cs":  "Bazén",
           "en":  "Swimming pool"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bobová-dráha",
       "název": {
           "cs":  "Bobová dráha",
           "en":  "Bobsled track"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/bowlingová-dráha",
       "název": {
           "cs":  "Bowlingová dráha",
           "en":  "Bowling track"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/boxerský-rink",
       "název": {
           "cs":  "Boxerský rink",
           "en":  "Boxing ring"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/běžecká-dráha",
       "název": {
           "cs":  "Běžecká dráha",
           "en":  "Track"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/cyklistická-dráha",
       "název": {
           "cs":  "Cyklistická dráha",
           "en":  "Cycling track"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/golfové-hřiště",
       "název": {
           "cs":  "Golfové hřiště",
           "en":  "Golf course"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hipodrom",
       "název": {
           "cs":  "Hipodrom",
           "en":  "Hippodrome"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště",
       "název": {
           "cs":  "Hřiště",
           "en":  "Field"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/hřiště-na-petanque",
       "název": {
           "cs":  "Hřiště na petanque",
           "en":  "Boules pitch"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jiné",
       "název": {
           "cs":  "Jiné",
           "en":  "Other"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/jízdárna",
       "název": {
           "cs":  "Jízdárna",
           "en":  "Riding arena"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lezecká-stěna",
       "název": {
           "cs":  "Lezecká stěna",
           "en":  "Climbing wall"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/lyžařská-aréna",
       "název": {
           "cs":  "Lyžařská aréna",
           "en":  "Ski arena"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/plavební-kanál",
       "název": {
           "cs":  "Plavební kanál",
           "en":  "Artificial whitewater"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/posilovna",
       "název": {
           "cs":  "Posilovna",
           "en":  "Fittness"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skatepark",
       "název": {
           "cs":  "Skatepark",
           "en":  "Skatepark"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/skokanský-můstek",
       "název": {
           "cs":  "Skokanský můstek",
           "en":  "Ski jumping hill"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/sportovní-hala",
       "název": {
           "cs":  "Sportovní hala",
           "en":  "Sports hall"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/stadion",
       "název": {
           "cs":  "Stadion",
           "en":  "Stadium"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/střelecká-aréna",
       "název": {
           "cs":  "Střelecká aréna",
           "en":  "Shooting range"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/tělocvična",
       "název": {
           "cs":  "Tělocvična",
           "en":  "Gym"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť/položky/velodrome",
       "název": {
           "cs":  "Velodrom",
           "en":  "Velodrome"

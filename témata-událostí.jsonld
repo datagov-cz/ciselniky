@@ -1,163 +1,163 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí",
-  "typ": "číselník",
-  "název-číselníku": {
+  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí",
+  "typ": "Číselník",
+  "název": {
       "cs":  "Témata událostí",
       "en":  "Event themes"
   },
   "položky": [
 {
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/bydlení",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/bydlení",
       "název": {
           "cs":  "Bydlení",
           "en":  "Housing"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/cestování",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/cestování",
       "název": {
           "cs":  "Cestování",
           "en":  "Travelling"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/doprava",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/doprava",
       "název": {
           "cs":  "Doprava",
           "en":  "Traffic"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/ekonomika-a-finance",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/ekonomika-a-finance",
       "název": {
           "cs":  "Ekonomika a finance",
           "en":  "Economy and Finance"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/historie",
       "název": {
           "cs":  "Historie",
           "en":  "History"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/infrastruktura",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/infrastruktura",
       "název": {
           "cs":  "Infrastruktura",
           "en":  "Infrastructure"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jiné",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jiné",
       "název": {
           "cs":  "Jiné",
           "en":  "Other"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jídlo-a-pití",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/jídlo-a-pití",
       "název": {
           "cs":  "Jídlo a pití",
           "en":  "Food and Drinks"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/kriminalita-a-bezpečnost",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/kriminalita-a-bezpečnost",
       "název": {
           "cs":  "Kriminalita a bezpečnost",
           "en":  "Crime and Safety"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/lidé-a-společnost",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/lidé-a-společnost",
       "název": {
           "cs":  "Lidé a společnost",
           "en":  "People and Society"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/mimořádná-nebo-nebezpečná-situace",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/mimořádná-nebo-nebezpečná-situace",
       "název": {
           "cs":  "Mimořádná nebo nebezpečná situace",
           "en":  "Emergency"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/nadcházející-události",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/nadcházející-události",
       "název": {
           "cs":  "Nadcházející události",
           "en":  "Events"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/náboženství",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/náboženství",
       "název": {
           "cs":  "Náboženství",
           "en":  "Religion"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/politika",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/politika",
       "název": {
           "cs":  "Politika",
           "en":  "Politics"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/počasí",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/počasí",
       "název": {
           "cs":  "Počasí",
           "en":  "Weather"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/průmysl-a-zemědělství",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/průmysl-a-zemědělství",
       "název": {
           "cs":  "Průmysl a zemědělství",
           "en":  "Industry and Agriculture"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/sport",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/sport",
       "název": {
           "cs":  "Sport",
           "en":  "Sport"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/technologie",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/technologie",
       "název": {
           "cs":  "Technologie",
           "en":  "Technology"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/umění-a-kultura",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/umění-a-kultura",
       "název": {
           "cs":  "Umění a kultura",
           "en":  "Arts and Culture"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/věda-a-vzdělání",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/věda-a-vzdělání",
       "název": {
           "cs":  "Věda a vzdělání",
           "en":  "Science and Education"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/zdraví-a-životní-styl",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/zdraví-a-životní-styl",
       "název": {
           "cs":  "Zdraví a životní styl",
           "en":  "Health and Lifestyle"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/životní-prostředí",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí/položky/životní-prostředí",
       "název": {
           "cs":  "Životní prostředí",
           "en":  "Environment"

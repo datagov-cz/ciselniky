@@ -1,30 +1,30 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-  "id": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce",
-  "typ": "číselník",
-  "název-číselníku": {
+  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce",
+  "typ": "Číselník",
+  "název": {
       "cs":  "Míra specifikace tématu práce",
       "en":  "Level of specification of a topic of a thesis"
   },
   "položky": [
 {
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh",
       "název": {
           "cs":  "Okruh",
           "en":  "Area"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma",
       "název": {
           "cs":  "Téma",
           "en":  "Topic"
       }
     },{
-      "typ": "položka",
-      "id": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma-ke-specifikaci",
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma-ke-specifikaci",
       "název": {
           "cs":  "Téma ke specifikaci",
           "en":  "Topic to be specified"
