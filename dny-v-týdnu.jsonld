@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu",
   "typ": "Číselník",
   "název": {
@@ -10,21 +10,40 @@
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle",
-      "název": {
-          "cs":  "Neděle",
-          "en":  "Sunday"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pondělí",
+      "kód": "pondělí",
       "název": {
           "cs":  "Pondělí",
           "en":  "Monday"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý",
+      "kód": "úterý",
+      "název": {
+          "cs":  "Úterý",
+          "en":  "Tuesday"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa",
+      "kód": "středa",
+      "název": {
+          "cs":  "Středa",
+          "en":  "Wednesday"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek",
+      "kód": "čtvrtek",
+      "název": {
+          "cs":  "Čtvrtek",
+          "en":  "Thursday"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pátek",
+      "kód": "pátek",
       "název": {
           "cs":  "Pátek",
           "en":  "Friday"
@@ -32,30 +51,18 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/sobota",
+      "kód": "sobota",
       "název": {
           "cs":  "Sobota",
           "en":  "Saturday"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle",
+      "kód": "neděle",
       "název": {
-          "cs":  "Středa",
-          "en":  "Wednesday"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý",
-      "název": {
-          "cs":  "Úterý",
-          "en":  "Tuesday"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek",
-      "název": {
-          "cs":  "Čtvrtek",
-          "en":  "Thursday"
+          "cs":  "Neděle",
+          "en":  "Sunday"
       }
     }
   ]

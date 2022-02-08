@@ -2,17 +2,17 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů> {
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů> a skos:ConceptScheme;
-    skos:prefLabel "Types of tourist destinations"@en .
+    skos:prefLabel "Types of tourist destinations"@en, "Typy turistických cílů"@cs .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/přírodní>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
-    skos:prefLabel "Natural"@en, "Přírodní"@cs .
-  
-  <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů> skos:prefLabel "Typy turistických cílů"@cs .
+    skos:prefLabel "Natural"@en, "Přírodní"@cs;
+    skos:notation "přírodní" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
-    skos:prefLabel "Kulturní"@cs, "Manmade"@en .
+    skos:prefLabel "Kulturní"@cs, "Manmade"@en;
+    skos:notation "kulturní" .
 }

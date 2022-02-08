@@ -3,10 +3,14 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace> a skos:ConceptScheme;
   skos:prefLabel "Other time specification"@en, "Jiná časová specifikace"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/dobré-počasí> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/dobré-počasí>
+  a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace>;
-  skos:prefLabel "Good weather"@en, "Dobré počasí"@cs .
+  skos:prefLabel "Good weather"@en, "Dobré počasí"@cs;
+  skos:notation "dobré-počasí" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/špatné-počasí> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/špatné-počasí>
+  a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace>;
-  skos:prefLabel "Bad weather"@en, "Špatné počasí"@cs .
+  skos:prefLabel "Bad weather"@en, "Špatné počasí"@cs;
+  skos:notation "špatné-počasí" .

@@ -12,72 +12,84 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Jehličnatý les</skos:prefLabel>
+	<skos:notation>jehličnatý-les</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-strom">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Jehličnatý strom</skos:prefLabel>
+	<skos:notation>jehličnatý-strom</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/keř">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Keř</skos:prefLabel>
+	<skos:notation>keř</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-les">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Listnatý les</skos:prefLabel>
+	<skos:notation>listnatý-les</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-strom">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Listantý strom</skos:prefLabel>
+	<skos:notation>listnatý-strom</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/oblast-dřevin">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Oblast dřevin</skos:prefLabel>
+	<skos:notation>oblast-dřevin</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/park">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Park</skos:prefLabel>
+	<skos:notation>park</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-jehličnatých-stromů">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Skupina jehličnatých stromů</skos:prefLabel>
+	<skos:notation>skupina-jehličnatých-stromů</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-listnatých-stromů">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Skupina listnatých stromů</skos:prefLabel>
+	<skos:notation>skupina-listnatých-stromů</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Skupina stromů</skos:prefLabel>
+	<skos:notation>skupina-stromů</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/smíšený-les">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Smíšený les</skos:prefLabel>
+	<skos:notation>smíšený-les</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin"/>
 	<skos:prefLabel xml:lang="cs">Strom</skos:prefLabel>
+	<skos:notation>strom</skos:notation>
 </rdf:Description>
 
 </rdf:RDF>

@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce",
   "typ": "Číselník",
   "název": {
@@ -10,14 +10,8 @@
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh",
-      "název": {
-          "cs":  "Okruh",
-          "en":  "Area"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma",
+      "kód": "téma",
       "název": {
           "cs":  "Téma",
           "en":  "Topic"
@@ -25,9 +19,18 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/téma-ke-specifikaci",
+      "kód": "téma-ke-specifikaci",
       "název": {
           "cs":  "Téma ke specifikaci",
           "en":  "Topic to be specified"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/míra-specifikace-tématu-práce/položky/okruh",
+      "kód": "okruh",
+      "název": {
+          "cs":  "Okruh",
+          "en":  "Area"
       }
     }
   ]

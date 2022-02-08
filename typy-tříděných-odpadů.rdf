@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Bulky waste</skos:prefLabel>
+	<skos:notation>objemný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Objemný odpad</skos:prefLabel>
 </rdf:Description>
 
@@ -23,6 +24,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Dangerous waste</skos:prefLabel>
+	<skos:notation>nebezpečný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Nebezpečný odpad</skos:prefLabel>
 </rdf:Description>
 
@@ -30,48 +32,55 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Drugs</skos:prefLabel>
+	<skos:notation>léčiva</skos:notation>
 	<skos:prefLabel xml:lang="cs">Objemný Léčiva</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Plast</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Plastic</skos:prefLabel>
+	<skos:notation>plast</skos:notation>
+	<skos:prefLabel xml:lang="cs">Plast</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/papír">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Paper and cardboard</skos:prefLabel>
+	<skos:notation>papír</skos:notation>
 	<skos:prefLabel xml:lang="cs">Papír a lepenka</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-bílé">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Bílé (čiré) sklo</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">White glass</skos:prefLabel>
+	<skos:notation>sklo-bílé</skos:notation>
+	<skos:prefLabel xml:lang="cs">Bílé (čiré) sklo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-barevné">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Barevné sklo</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Stained glass</skos:prefLabel>
+	<skos:notation>sklo-barevné</skos:notation>
+	<skos:prefLabel xml:lang="cs">Barevné sklo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-ostatní">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Ostatní sklo</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Other glass</skos:prefLabel>
+	<skos:notation>sklo-ostatní</skos:notation>
+	<skos:prefLabel xml:lang="cs">Ostatní sklo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/textil">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Clothes</skos:prefLabel>
+	<skos:notation>textil</skos:notation>
 	<skos:prefLabel xml:lang="cs">textil</skos:prefLabel>
 </rdf:Description>
 
@@ -79,6 +88,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Beverage cartons</skos:prefLabel>
+	<skos:notation>kartony</skos:notation>
 	<skos:prefLabel xml:lang="cs">Nápojové kartony</skos:prefLabel>
 </rdf:Description>
 
@@ -86,6 +96,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Edible oil and fat</skos:prefLabel>
+	<skos:notation>olej-jedlý</skos:notation>
 	<skos:prefLabel xml:lang="cs">Jedlý olej a tuk</skos:prefLabel>
 </rdf:Description>
 
@@ -93,6 +104,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Food cans</skos:prefLabel>
+	<skos:notation>plech-potraviny</skos:notation>
 	<skos:prefLabel xml:lang="cs">Plechovky od potravin</skos:prefLabel>
 </rdf:Description>
 
@@ -100,69 +112,79 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Beverage cans</skos:prefLabel>
+	<skos:notation>plech-nápoje</skos:notation>
 	<skos:prefLabel xml:lang="cs">Nápojové plechovky</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kov-ostatní-domácnost">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Ostatní kovy z domácnosti</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Other household metals</skos:prefLabel>
+	<skos:notation>kov-ostatní-domácnost</skos:notation>
+	<skos:prefLabel xml:lang="cs">Ostatní kovy z domácnosti</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/polystyren-drobný">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Crushed polystyrene</skos:prefLabel>
+	<skos:notation>polystyren-drobný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Výplňový, drobný polystyren</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Malá domácí elektrozařízení</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Small household appliances</skos:prefLabel>
+	<skos:notation>elektro-malé</skos:notation>
+	<skos:prefLabel xml:lang="cs">Malá domácí elektrozařízení</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé-it">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Malá IT a komunikační zařízení</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Small ICT devices</skos:prefLabel>
+	<skos:notation>elektro-malé-it</skos:notation>
+	<skos:prefLabel xml:lang="cs">Malá IT a komunikační zařízení</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-velké">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Big household appliances</skos:prefLabel>
+	<skos:notation>elektro-velké</skos:notation>
 	<skos:prefLabel xml:lang="cs">Velká elektrozařízení</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-malé">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Drobné baterie</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Small batteries</skos:prefLabel>
+	<skos:notation>baterie-malé</skos:notation>
+	<skos:prefLabel xml:lang="cs">Drobné baterie</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-velké">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Big batteries, accumulators</skos:prefLabel>
+	<skos:notation>baterie-velké</skos:notation>
 	<skos:prefLabel xml:lang="cs">Velké baterie, akumulátory</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/pneu">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Pneumatiky</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Tires</skos:prefLabel>
+	<skos:notation>pneu</skos:notation>
+	<skos:prefLabel xml:lang="cs">Pneumatiky</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-technický">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Technical oil</skos:prefLabel>
+	<skos:notation>olej-technický</skos:notation>
 	<skos:prefLabel xml:lang="cs">Technický olej</skos:prefLabel>
 </rdf:Description>
 
@@ -170,20 +192,23 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Iron</skos:prefLabel>
+	<skos:notation>železo</skos:notation>
 	<skos:prefLabel xml:lang="cs">Železo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kovy-barevné">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Barevné kovy</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Non-ferrous metal</skos:prefLabel>
+	<skos:notation>kovy-barevné</skos:notation>
+	<skos:prefLabel xml:lang="cs">Barevné kovy</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovky">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Bulbs</skos:prefLabel>
+	<skos:notation>žárovky</skos:notation>
 	<skos:prefLabel xml:lang="cs">Klasické žárovky</skos:prefLabel>
 </rdf:Description>
 
@@ -191,6 +216,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Headlights</skos:prefLabel>
+	<skos:notation>žárovka-reflektorová</skos:notation>
 	<skos:prefLabel xml:lang="cs">Reflektorové žárovky</skos:prefLabel>
 </rdf:Description>
 
@@ -198,6 +224,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">LED bulbs</skos:prefLabel>
+	<skos:notation>žárovka-ledka</skos:notation>
 	<skos:prefLabel xml:lang="cs">LED žárovky</skos:prefLabel>
 </rdf:Description>
 
@@ -205,6 +232,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Compact fluorescent lamp</skos:prefLabel>
+	<skos:notation>zářivka</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kompaktní zářivky</skos:prefLabel>
 </rdf:Description>
 
@@ -212,6 +240,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Linear fluorescent lamp</skos:prefLabel>
+	<skos:notation>zářivka-lineární</skos:notation>
 	<skos:prefLabel xml:lang="cs">Lineární zářivky</skos:prefLabel>
 </rdf:Description>
 
@@ -219,6 +248,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Discharge lamp</skos:prefLabel>
+	<skos:notation>výbojka</skos:notation>
 	<skos:prefLabel xml:lang="cs">Výbojky</skos:prefLabel>
 </rdf:Description>
 
@@ -226,6 +256,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Halogen lamp</skos:prefLabel>
+	<skos:notation>halogenka</skos:notation>
 	<skos:prefLabel xml:lang="cs">Halogenové žárovky</skos:prefLabel>
 </rdf:Description>
 
@@ -233,6 +264,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Rubble</skos:prefLabel>
+	<skos:notation>suť</skos:notation>
 	<skos:prefLabel xml:lang="cs">Suť bez příměsí</skos:prefLabel>
 </rdf:Description>
 
@@ -240,20 +272,23 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Bricks</skos:prefLabel>
+	<skos:notation>cihly</skos:notation>
 	<skos:prefLabel xml:lang="cs">Cihly</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/dřevo">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Dřevo</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wood</skos:prefLabel>
+	<skos:notation>dřevo</skos:notation>
+	<skos:prefLabel xml:lang="cs">Dřevo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zemina">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Soil and stones</skos:prefLabel>
+	<skos:notation>zemina</skos:notation>
 	<skos:prefLabel xml:lang="cs">Zemina a kamení</skos:prefLabel>
 </rdf:Description>
 
@@ -261,20 +296,23 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Construction waste</skos:prefLabel>
+	<skos:notation>směs-demolice</skos:notation>
 	<skos:prefLabel xml:lang="cs">Směsný stavební a demoliční odpad</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/obklady">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Obklady</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Tiles</skos:prefLabel>
+	<skos:notation>obklady</skos:notation>
+	<skos:prefLabel xml:lang="cs">Obklady</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/azbest">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Asbestos</skos:prefLabel>
+	<skos:notation>azbest</skos:notation>
 	<skos:prefLabel xml:lang="cs">Azbest</skos:prefLabel>
 </rdf:Description>
 
@@ -282,6 +320,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Building glass</skos:prefLabel>
+	<skos:notation>sklo-stavební</skos:notation>
 	<skos:prefLabel xml:lang="cs">Stavební sklo</skos:prefLabel>
 </rdf:Description>
 
@@ -289,6 +328,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Building plastic</skos:prefLabel>
+	<skos:notation>plast-stavební</skos:notation>
 	<skos:prefLabel xml:lang="cs">Stavební plast</skos:prefLabel>
 </rdf:Description>
 
@@ -296,6 +336,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Insulation</skos:prefLabel>
+	<skos:notation>izolace</skos:notation>
 	<skos:prefLabel xml:lang="cs">Stavební izolační materiály</skos:prefLabel>
 </rdf:Description>
 
@@ -303,6 +344,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Cables</skos:prefLabel>
+	<skos:notation>kabely</skos:notation>
 	<skos:prefLabel xml:lang="cs">kabely</skos:prefLabel>
 </rdf:Description>
 
@@ -310,6 +352,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Communal waste</skos:prefLabel>
+	<skos:notation>směsný-odpad</skos:notation>
 	<skos:prefLabel xml:lang="cs">Směsný odpad</skos:prefLabel>
 </rdf:Description>
 
@@ -317,14 +360,16 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
 	<skos:prefLabel xml:lang="en">Biological waste</skos:prefLabel>
+	<skos:notation>bioodpad</skos:notation>
 	<skos:prefLabel xml:lang="cs">Bioodpad</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/re-use">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů"/>
-	<skos:prefLabel xml:lang="cs">Re-use</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Re-use</skos:prefLabel>
+	<skos:notation>re-use</skos:notation>
+	<skos:prefLabel xml:lang="cs">Re-use</skos:prefLabel>
 </rdf:Description>
 
 </rdf:RDF>

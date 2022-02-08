@@ -34,7 +34,7 @@
 		}, {
 			"@type": "Column",
 			"name": "polozka",
-			"titles": "položka",
+			"titles": "číselník_položka",
 			"dc:description": "IRI položky",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "rdf:type",
@@ -42,6 +42,15 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
+			"@type": "Column",
+			"name": "polozka_kod",
+			"titles": "číselník_položka_kód",
+			"dc:description": "Kód položky",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:notation",
+			"required": true,
+			"datatype": "string"
+		},{
 			"@type": "Column",
 			"name": "polozka_nazev_cs",
 			"titles": "číselník_položka_název_cs",

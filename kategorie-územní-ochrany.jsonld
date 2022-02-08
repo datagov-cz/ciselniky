@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany",
   "typ": "Číselník",
   "název": {
@@ -10,48 +10,56 @@
 {
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/chráněná-krajinná-oblast",
+      "kód": "chráněná-krajinná-oblast",
       "název": {
           "cs":  "Chráněná krajinná oblast"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-park",
+      "kód": "národní-park",
       "název": {
           "cs":  "Národní park "
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-památka",
+      "kód": "národní-přírodní-památka",
       "název": {
           "cs":  "Národní přírodní památka"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-rezervace",
+      "kód": "národní-přírodní-rezervace",
       "název": {
           "cs":  "Národní přírodní rezervace"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/památný-strom",
+      "kód": "památný-strom",
       "název": {
           "cs":  "Památný strom"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přechodně-chráněná-plocha",
+      "kód": "přechodně-chráněná-plocha",
       "název": {
           "cs":  "Přechodně chráněná plocha"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-památka",
+      "kód": "přírodní-památka",
       "název": {
           "cs":  "Přírodní památka"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-rezervace",
+      "kód": "přírodní-rezervace",
       "název": {
           "cs":  "Přírodní rezervace"
       }

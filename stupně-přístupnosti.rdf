@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti"/>
 	<skos:prefLabel xml:lang="en">Accessible</skos:prefLabel>
+	<skos:notation>přístupný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Přístupný</skos:prefLabel>
 </rdf:Description>
 
@@ -23,6 +24,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti"/>
 	<skos:prefLabel xml:lang="en">Partially accessible</skos:prefLabel>
+	<skos:notation>částečně-přístupný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Částečně přístupný</skos:prefLabel>
 </rdf:Description>
 
@@ -30,6 +32,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti"/>
 	<skos:prefLabel xml:lang="en">Difficult to access or inaccessible</skos:prefLabel>
+	<skos:notation>obtížně-přístupný-nebo-nepřístupný</skos:notation>
 	<skos:prefLabel xml:lang="cs">Obtížně přístupný nebo nepřístupný</skos:prefLabel>
 </rdf:Description>
 

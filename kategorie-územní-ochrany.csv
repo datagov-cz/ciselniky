@@ -1,9 +1,9 @@
-číselník,číselník_název_cs,položka,číselník_položka_název_cs
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/chráněná-krajinná-oblast,Chráněná krajinná oblast
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-park,Národní park 
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-památka,Národní přírodní památka
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-rezervace,Národní přírodní rezervace
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/památný-strom,Památný strom
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přechodně-chráněná-plocha,Přechodně chráněná plocha
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-památka,Přírodní památka
-https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-rezervace,Přírodní rezervace
+číselník,číselník_název_cs,číselník_položka,číselník_položka_kód,číselník_položka_název_cs
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/chráněná-krajinná-oblast,chráněná-krajinná-oblast,Chráněná krajinná oblast
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-park,národní-park,Národní park 
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-památka,národní-přírodní-památka,Národní přírodní památka
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/národní-přírodní-rezervace,národní-přírodní-rezervace,Národní přírodní rezervace
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/památný-strom,památný-strom,Památný strom
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přechodně-chráněná-plocha,přechodně-chráněná-plocha,Přechodně chráněná plocha
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-památka,přírodní-památka,Přírodní památka
+https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany,Kategorie územní ochrany,https://data.mvcr.gov.cz/zdroj/číselníky/kategorie-územní-ochrany/položky/přírodní-rezervace,přírodní-rezervace,Přírodní rezervace

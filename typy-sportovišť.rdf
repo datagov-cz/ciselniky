@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Autodrom</skos:prefLabel>
+	<skos:notation>autodrom</skos:notation>
 	<skos:prefLabel xml:lang="en">Autodromme</skos:prefLabel>
 </rdf:Description>
 
@@ -23,6 +24,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Bazén</skos:prefLabel>
+	<skos:notation>bazén</skos:notation>
 	<skos:prefLabel xml:lang="en">Swimming pool</skos:prefLabel>
 </rdf:Description>
 
@@ -30,6 +32,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Běžecká dráha</skos:prefLabel>
+	<skos:notation>běžecká-dráha</skos:notation>
 	<skos:prefLabel xml:lang="en">Track</skos:prefLabel>
 </rdf:Description>
 
@@ -37,6 +40,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Bobová dráha</skos:prefLabel>
+	<skos:notation>bobová-dráha</skos:notation>
 	<skos:prefLabel xml:lang="en">Bobsled track</skos:prefLabel>
 </rdf:Description>
 
@@ -44,6 +48,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Bowling track</skos:prefLabel>
+	<skos:notation>bowlingová-dráha</skos:notation>
 	<skos:prefLabel xml:lang="cs">Bowlingová dráha</skos:prefLabel>
 </rdf:Description>
 
@@ -51,6 +56,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Boxerský rink</skos:prefLabel>
+	<skos:notation>boxerský-rink</skos:notation>
 	<skos:prefLabel xml:lang="en">Boxing ring</skos:prefLabel>
 </rdf:Description>
 
@@ -58,6 +64,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Cycling track</skos:prefLabel>
+	<skos:notation>cyklistická-dráha</skos:notation>
 	<skos:prefLabel xml:lang="cs">Cyklistická dráha</skos:prefLabel>
 </rdf:Description>
 
@@ -65,6 +72,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Golf course</skos:prefLabel>
+	<skos:notation>golfové-hřiště</skos:notation>
 	<skos:prefLabel xml:lang="cs">Golfové hřiště</skos:prefLabel>
 </rdf:Description>
 
@@ -72,6 +80,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Hipodrom</skos:prefLabel>
+	<skos:notation>hipodrom</skos:notation>
 	<skos:prefLabel xml:lang="en">Hippodrome</skos:prefLabel>
 </rdf:Description>
 
@@ -79,6 +88,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Field</skos:prefLabel>
+	<skos:notation>hřiště</skos:notation>
 	<skos:prefLabel xml:lang="cs">Hřiště</skos:prefLabel>
 </rdf:Description>
 
@@ -86,6 +96,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Boules pitch</skos:prefLabel>
+	<skos:notation>hřiště-na-petanque</skos:notation>
 	<skos:prefLabel xml:lang="cs">Hřiště na petanque</skos:prefLabel>
 </rdf:Description>
 
@@ -93,6 +104,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:notation>jiné</skos:notation>
 	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 </rdf:Description>
 
@@ -100,6 +112,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Jízdárna</skos:prefLabel>
+	<skos:notation>jízdárna</skos:notation>
 	<skos:prefLabel xml:lang="en">Riding arena</skos:prefLabel>
 </rdf:Description>
 
@@ -107,6 +120,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Climbing wall</skos:prefLabel>
+	<skos:notation>lezecká-stěna</skos:notation>
 	<skos:prefLabel xml:lang="cs">Lezecká stěna</skos:prefLabel>
 </rdf:Description>
 
@@ -114,6 +128,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Lyžařská aréna</skos:prefLabel>
+	<skos:notation>lyžařská-aréna</skos:notation>
 	<skos:prefLabel xml:lang="en">Ski arena</skos:prefLabel>
 </rdf:Description>
 
@@ -121,6 +136,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Artificial whitewater</skos:prefLabel>
+	<skos:notation>plavební-kanál</skos:notation>
 	<skos:prefLabel xml:lang="cs">Plavební kanál</skos:prefLabel>
 </rdf:Description>
 
@@ -128,6 +144,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Fittness</skos:prefLabel>
+	<skos:notation>posilovna</skos:notation>
 	<skos:prefLabel xml:lang="cs">Posilovna</skos:prefLabel>
 </rdf:Description>
 
@@ -135,6 +152,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Skatepark</skos:prefLabel>
+	<skos:notation>skatepark</skos:notation>
 	<skos:prefLabel xml:lang="en">Skatepark</skos:prefLabel>
 </rdf:Description>
 
@@ -142,6 +160,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Ski jumping hill</skos:prefLabel>
+	<skos:notation>skokanský-můstek</skos:notation>
 	<skos:prefLabel xml:lang="cs">Skokanský můstek</skos:prefLabel>
 </rdf:Description>
 
@@ -149,6 +168,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Sportovní hala</skos:prefLabel>
+	<skos:notation>sportovní-hala</skos:notation>
 	<skos:prefLabel xml:lang="en">Sports hall</skos:prefLabel>
 </rdf:Description>
 
@@ -156,6 +176,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Stadion</skos:prefLabel>
+	<skos:notation>stadion</skos:notation>
 	<skos:prefLabel xml:lang="en">Stadium</skos:prefLabel>
 </rdf:Description>
 
@@ -163,6 +184,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Shooting range</skos:prefLabel>
+	<skos:notation>střelecká-aréna</skos:notation>
 	<skos:prefLabel xml:lang="cs">Střelecká aréna</skos:prefLabel>
 </rdf:Description>
 
@@ -170,6 +192,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="cs">Velodrom</skos:prefLabel>
+	<skos:notation>velodrome</skos:notation>
 	<skos:prefLabel xml:lang="en">Velodrome</skos:prefLabel>
 </rdf:Description>
 
@@ -177,6 +200,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-sportovišť"/>
 	<skos:prefLabel xml:lang="en">Gym</skos:prefLabel>
+	<skos:notation>tělocvična</skos:notation>
 	<skos:prefLabel xml:lang="cs">Tělocvična</skos:prefLabel>
 </rdf:Description>
 

@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty",
   "typ": "Číselník",
   "název": {
@@ -11,6 +11,7 @@
 {
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aerobik",
+      "kód": "aerobik",
       "název": {
           "cs":  "Aerobik",
           "en":  "Aerobic"
@@ -18,6 +19,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aikido",
+      "kód": "aikido",
       "název": {
           "cs":  "Aikido",
           "en":  "Aikido"
@@ -25,6 +27,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/americký-fotbal",
+      "kód": "americký-fotbal",
       "název": {
           "cs":  "Americký fotbal",
           "en":  "American football"
@@ -32,6 +35,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/atletika",
+      "kód": "atletika",
       "název": {
           "cs":  "Atletika",
           "en":  "Athletics"
@@ -39,6 +43,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/badminton",
+      "kód": "badminton",
       "název": {
           "cs":  "Badminton",
           "en":  "Badminton"
@@ -46,6 +51,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/balet",
+      "kód": "balet",
       "název": {
           "cs":  "Balet",
           "en":  "Balet"
@@ -53,6 +59,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/baseball",
+      "kód": "baseball",
       "název": {
           "cs":  "Baseball",
           "en":  "Baseball"
@@ -60,6 +67,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/basketbal",
+      "kód": "basketbal",
       "název": {
           "cs":  "Basketbal",
           "en":  "Basketball"
@@ -67,55 +75,15 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/beachvoleybal",
+      "kód": "beachvoleybal",
       "název": {
           "cs":  "Plážový volejbal",
           "en":  "Beachvoleybal"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/biathlon",
-      "název": {
-          "cs":  "Biathlon",
-          "en":  "Biathlon"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/boby",
-      "název": {
-          "cs":  "Boby",
-          "en":  "Bobsleigh"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bowling",
-      "název": {
-          "cs":  "Bowling",
-          "en":  "Bowling"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/box",
-      "název": {
-          "cs":  "Box",
-          "en":  "Box"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/breakdance",
-      "název": {
-          "cs":  "Breakdance",
-          "en":  "Breakdance"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bruslení",
-      "název": {
-          "cs":  "Bruslení",
-          "en":  "Skating"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh",
+      "kód": "běh",
       "název": {
           "cs":  "Běh",
           "en":  "Running"
@@ -123,13 +91,55 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh-na-lyžích",
+      "kód": "běh-na-lyžích",
       "název": {
           "cs":  "Běh na lyžích",
           "en":  "Cross country skiing"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/biathlon",
+      "kód": "biathlon",
+      "název": {
+          "cs":  "Biathlon",
+          "en":  "Biathlon"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/boby",
+      "kód": "boby",
+      "název": {
+          "cs":  "Boby",
+          "en":  "Bobsleigh"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bowling",
+      "kód": "bowling",
+      "název": {
+          "cs":  "Bowling",
+          "en":  "Bowling"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/box",
+      "kód": "box",
+      "název": {
+          "cs":  "Box",
+          "en":  "Box"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/breakdance",
+      "kód": "breakdance",
+      "název": {
+          "cs":  "Breakdance",
+          "en":  "Breakdance"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cricket",
+      "kód": "cricket",
       "název": {
           "cs":  "Kriket",
           "en":  "Cricket"
@@ -137,6 +147,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/croquet",
+      "kód": "croquet",
       "název": {
           "cs":  "Kroket",
           "en":  "Croquet"
@@ -144,6 +155,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/curling",
+      "kód": "curling",
       "název": {
           "cs":  "Curling",
           "en":  "Curling"
@@ -151,6 +163,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cyklistika",
+      "kód": "cyklistika",
       "název": {
           "cs":  "Cyklistika",
           "en":  "Cycling"
@@ -158,6 +171,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/e-sporty",
+      "kód": "e-sporty",
       "název": {
           "cs":  "E-sporty",
           "en":  "E-sports"
@@ -165,6 +179,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/florbal",
+      "kód": "florbal",
       "název": {
           "cs":  "Florbal",
           "en":  "Floorball"
@@ -172,6 +187,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/fotbal",
+      "kód": "fotbal",
       "název": {
           "cs":  "Fotbal",
           "en":  "Football"
@@ -179,6 +195,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/frisbee",
+      "kód": "frisbee",
       "název": {
           "cs":  "Frisbee",
           "en":  "Frisbee"
@@ -186,6 +203,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/futsal",
+      "kód": "futsal",
       "název": {
           "cs":  "Futsal",
           "en":  "Futsal"
@@ -193,13 +211,23 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/golf",
+      "kód": "golf",
       "název": {
           "cs":  "Golf",
           "en":  "Golf"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/házená",
+      "kód": "házená",
+      "název": {
+          "cs":  "Házená",
+          "en":  "Handball"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/hokejbal",
+      "kód": "hokejbal",
       "název": {
           "cs":  "Hokejbal",
           "en":  "Hockeyball"
@@ -207,20 +235,15 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/horolezectví",
+      "kód": "horolezectví",
       "název": {
           "cs":  "Horolezectví",
           "en":  "Climbing"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/házená",
-      "název": {
-          "cs":  "Házená",
-          "en":  "Handball"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/in-line-bruslení",
+      "kód": "in-line-bruslení",
       "název": {
           "cs":  "In-line bruslení",
           "en":  "In-line skating"
@@ -228,6 +251,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jachting",
+      "kód": "jachting",
       "název": {
           "cs":  "Jachting",
           "en":  "Yachting"
@@ -235,6 +259,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jezdectví",
+      "kód": "jezdectví",
       "název": {
           "cs":  "Jezdectví",
           "en":  "Horse riding"
@@ -242,27 +267,31 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jiné",
+      "kód": "jiné",
       "název": {
           "cs":  "Jiné",
           "en":  "Other"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/judo",
-      "název": {
-          "cs":  "Judo",
-          "en":  "Judo"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jóga",
+      "kód": "jóga",
       "název": {
           "cs":  "Jóga",
           "en":  "Yoga"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/judo",
+      "kód": "judo",
+      "název": {
+          "cs":  "Judo",
+          "en":  "Judo"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kanoistika",
+      "kód": "kanoistika",
       "název": {
           "cs":  "Kanoistika",
           "en":  "Canoeing"
@@ -270,6 +299,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/karate",
+      "kód": "karate",
       "název": {
           "cs":  "Karate",
           "en":  "Carate"
@@ -277,6 +307,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kickbox",
+      "kód": "kickbox",
       "název": {
           "cs":  "Kickbox",
           "en":  "Kickbox"
@@ -284,6 +315,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kolová",
+      "kód": "kolová",
       "název": {
           "cs":  "Kolová",
           "en":  "Cycle ball"
@@ -291,6 +323,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/korfbal",
+      "kód": "korfbal",
       "název": {
           "cs":  "Korfbal",
           "en":  "Korfball"
@@ -298,6 +331,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/krasobruselní",
+      "kód": "krasobruselní",
       "název": {
           "cs":  "Krasobruselní",
           "en":  "Figure skating"
@@ -305,6 +339,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulečník",
+      "kód": "kulečník",
       "název": {
           "cs":  "Kulečník",
           "en":  "Snooker"
@@ -312,6 +347,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulturistika",
+      "kód": "kulturistika",
       "název": {
           "cs":  "Kulturistika",
           "en":  "Body-building"
@@ -319,6 +355,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kuželky",
+      "kód": "kuželky",
       "název": {
           "cs":  "Kuželky",
           "en":  "Skittles"
@@ -326,6 +363,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lakros",
+      "kód": "lakros",
       "název": {
           "cs":  "Lakros",
           "en":  "Lacros"
@@ -333,6 +371,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lední-hokej",
+      "kód": "lední-hokej",
       "název": {
           "cs":  "Lední hokej",
           "en":  "Ice hockey"
@@ -340,6 +379,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/letectví",
+      "kód": "letectví",
       "název": {
           "cs":  "Letectví",
           "en":  "Aviation"
@@ -347,6 +387,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lukostřelba",
+      "kód": "lukostřelba",
       "název": {
           "cs":  "Lukostřelba",
           "en":  "Archery"
@@ -354,6 +395,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lyžování",
+      "kód": "lyžování",
       "název": {
           "cs":  "Lyžování",
           "en":  "Skiing"
@@ -361,6 +403,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/malá-kopaná",
+      "kód": "malá-kopaná",
       "název": {
           "cs":  "Malá kopaná",
           "en":  "Five-a-side football"
@@ -368,6 +411,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/minigolf",
+      "kód": "minigolf",
       "název": {
           "cs":  "Minigolf",
           "en":  "Minigolf"
@@ -375,6 +419,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/moderní-gymnastika",
+      "kód": "moderní-gymnastika",
       "název": {
           "cs":  "Moderní gymnastika",
           "en":  "Modern gymnastics"
@@ -382,6 +427,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motokros",
+      "kód": "motokros",
       "název": {
           "cs":  "Motokros",
           "en":  "Motocross"
@@ -389,27 +435,31 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motorismus",
+      "kód": "motorismus",
       "název": {
           "cs":  "Motorismus",
           "en":  "Motorism"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/nohejbal",
-      "název": {
-          "cs":  "Nohejbal",
-          "en":  "Futnet"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/národní-házená",
+      "kód": "národní-házená",
       "název": {
           "cs":  "Národní házená",
           "en":  "National handball"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/nohejbal",
+      "kód": "nohejbal",
+      "název": {
+          "cs":  "Nohejbal",
+          "en":  "Futnet"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/orientační-běh",
+      "kód": "orientační-běh",
       "název": {
           "cs":  "Orientační běh",
           "en":  "Orienteering"
@@ -417,6 +467,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/parkour",
+      "kód": "parkour",
       "název": {
           "cs":  "Parkour",
           "en":  "Parkour"
@@ -424,13 +475,23 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/petanque",
+      "kód": "petanque",
       "název": {
           "cs":  "Petanque",
           "en":  "Petanque"
       }
     },{
       "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pětiboj",
+      "kód": "pětiboj",
+      "název": {
+          "cs":  "Pětiboj",
+          "en":  "Pentathlon"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pilates",
+      "kód": "pilates",
       "název": {
           "cs":  "Pilates",
           "en":  "Pilates"
@@ -438,6 +499,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/plavání",
+      "kód": "plavání",
       "název": {
           "cs":  "Plavání",
           "en":  "Swimming"
@@ -445,6 +507,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/poker",
+      "kód": "poker",
       "název": {
           "cs":  "Poker",
           "en":  "Poker"
@@ -452,6 +515,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování",
+      "kód": "posilování",
       "název": {
           "cs":  "Posilování",
           "en":  "Fitness"
@@ -459,6 +523,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění",
+      "kód": "potápění",
       "název": {
           "cs":  "Potápění",
           "en":  "Diving"
@@ -466,20 +531,15 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pozemní-hokej",
+      "kód": "pozemní-hokej",
       "název": {
           "cs":  "Pozemní hokej",
           "en":  "Field hockey"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pětiboj",
-      "název": {
-          "cs":  "Pětiboj",
-          "en":  "Pentathlon"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rafting",
+      "kód": "rafting",
       "název": {
           "cs":  "Rafting",
           "en":  "Rafting"
@@ -487,6 +547,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/ragby",
+      "kód": "ragby",
       "název": {
           "cs":  "Ragby",
           "en":  "Rugby"
@@ -494,6 +555,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/raketbal",
+      "kód": "raketbal",
       "název": {
           "cs":  "Raketbal",
           "en":  "Racquetball"
@@ -501,6 +563,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rychlobruslení",
+      "kód": "rychlobruslení",
       "název": {
           "cs":  "Rychlobruslení",
           "en":  "Speedskating"
@@ -508,6 +571,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skateboarding",
+      "kód": "skateboarding",
       "název": {
           "cs":  "Skateboarding",
           "en":  "Skateboarding"
@@ -515,6 +579,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skeleton",
+      "kód": "skeleton",
       "název": {
           "cs":  "Skeleton",
           "en":  "Skeleton"
@@ -522,6 +587,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sledge-hokej",
+      "kód": "sledge-hokej",
       "název": {
           "cs":  "Sledge hokej",
           "en":  "Sledge hokej"
@@ -529,6 +595,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snooker",
+      "kód": "snooker",
       "název": {
           "cs":  "Snooker",
           "en":  "Snooker"
@@ -536,6 +603,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snowboarding",
+      "kód": "snowboarding",
       "název": {
           "cs":  "Snowboarding",
           "en":  "Snowboarding"
@@ -543,6 +611,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/softbal",
+      "kód": "softbal",
       "název": {
           "cs":  "Softbal",
           "en":  "Softball"
@@ -550,6 +619,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/spinning",
+      "kód": "spinning",
       "název": {
           "cs":  "Spinning",
           "en":  "Spinning"
@@ -557,6 +627,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-gymnastika",
+      "kód": "sportovní-gymnastika",
       "název": {
           "cs":  "Sportovní gymnastika",
           "en":  "Sport gymnastics"
@@ -564,6 +635,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-rybaření",
+      "kód": "sportovní-rybaření",
       "název": {
           "cs":  "Sportovní rybaření",
           "en":  "Fishing"
@@ -571,6 +643,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-střelba",
+      "kód": "sportovní-střelba",
       "název": {
           "cs":  "Sportovní střelba",
           "en":  "Sport shooting"
@@ -578,6 +651,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/squash",
+      "kód": "squash",
       "název": {
           "cs":  "Squash",
           "en":  "Squash"
@@ -585,20 +659,15 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/stolní-tenis",
+      "kód": "stolní-tenis",
       "název": {
           "cs":  "Stolní tenis",
           "en":  "Table tennis"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/streetball",
-      "název": {
-          "cs":  "Streetball",
-          "en":  "Streetball"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/surfování",
+      "kód": "surfování",
       "název": {
           "cs":  "Surfování",
           "en":  "Surfing"
@@ -606,97 +675,15 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/synchronizované-plavání",
+      "kód": "synchronizované-plavání",
       "název": {
           "cs":  "Synchronizované plavání",
           "en":  "Synchronized swimming"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taekwondo",
-      "název": {
-          "cs":  "Taekwondo",
-          "en":  "Taekwondo"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taneční-sport",
-      "název": {
-          "cs":  "Taneční sport",
-          "en":  "Dance sports"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/tenis",
-      "název": {
-          "cs":  "Tenis",
-          "en":  "Tennis"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/triatlon",
-      "název": {
-          "cs":  "Triatlon",
-          "en":  "Triathlon"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/turistika",
-      "název": {
-          "cs":  "Turistika",
-          "en":  "Hiking"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/veslování",
-      "název": {
-          "cs":  "Veslování",
-          "en":  "Rowing"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vodní-pólo",
-      "název": {
-          "cs":  "Vodní pólo",
-          "en":  "Water polo"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/volejbal",
-      "název": {
-          "cs":  "Volejbal",
-          "en":  "Voleyball"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vzpírání",
-      "název": {
-          "cs":  "Vzpírání",
-          "en":  "Weightlifting"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/workout",
-      "název": {
-          "cs":  "Workout",
-          "en":  "Workout"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zumba",
-      "název": {
-          "cs":  "Zumba",
-          "en":  "Zumba"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zápas",
-      "název": {
-          "cs":  "Zápas",
-          "en":  "Wrestling"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šachy",
+      "kód": "šachy",
       "název": {
           "cs":  "Šachy",
           "en":  "Chess"
@@ -704,9 +691,122 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šerm",
+      "kód": "šerm",
       "název": {
           "cs":  "Šerm",
           "en":  "Fencing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taekwondo",
+      "kód": "taekwondo",
+      "název": {
+          "cs":  "Taekwondo",
+          "en":  "Taekwondo"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taneční-sport",
+      "kód": "taneční-sport",
+      "název": {
+          "cs":  "Taneční sport",
+          "en":  "Dance sports"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/tenis",
+      "kód": "tenis",
+      "název": {
+          "cs":  "Tenis",
+          "en":  "Tennis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/triatlon",
+      "kód": "triatlon",
+      "název": {
+          "cs":  "Triatlon",
+          "en":  "Triathlon"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/turistika",
+      "kód": "turistika",
+      "název": {
+          "cs":  "Turistika",
+          "en":  "Hiking"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/veslování",
+      "kód": "veslování",
+      "název": {
+          "cs":  "Veslování",
+          "en":  "Rowing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vodní-pólo",
+      "kód": "vodní-pólo",
+      "název": {
+          "cs":  "Vodní pólo",
+          "en":  "Water polo"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/volejbal",
+      "kód": "volejbal",
+      "název": {
+          "cs":  "Volejbal",
+          "en":  "Voleyball"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vzpírání",
+      "kód": "vzpírání",
+      "název": {
+          "cs":  "Vzpírání",
+          "en":  "Weightlifting"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/workout",
+      "kód": "workout",
+      "název": {
+          "cs":  "Workout",
+          "en":  "Workout"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zápas",
+      "kód": "zápas",
+      "název": {
+          "cs":  "Zápas",
+          "en":  "Wrestling"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zumba",
+      "kód": "zumba",
+      "název": {
+          "cs":  "Zumba",
+          "en":  "Zumba"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/streetball",
+      "kód": "streetball",
+      "název": {
+          "cs":  "Streetball",
+          "en":  "Streetball"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bruslení",
+      "kód": "bruslení",
+      "název": {
+          "cs":  "Bruslení",
+          "en":  "Skating"
       }
     }
   ]

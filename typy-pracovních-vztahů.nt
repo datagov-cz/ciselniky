@@ -3,16 +3,21 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dohoda o pracovní činnosti"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč> <http://www.w3.org/2004/02/skos/core#notation> "dpč" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> <http://www.w3.org/2004/02/skos/core#prefLabel> "Typy pracovních vztahů"@cs .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dohoda o provedení práce"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp> <http://www.w3.org/2004/02/skos/core#notation> "dpp" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pracovní poměr - plný úvazek"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek> <http://www.w3.org/2004/02/skos/core#notation> "plný-úvazek" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pracovní poměr - zkrácený úvazek"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek> <http://www.w3.org/2004/02/skos/core#notation> "zkrácený-úvazek" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Služební poměr"@cs .
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr> <http://www.w3.org/2004/02/skos/core#notation> "služební-poměr" .

@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Economy and Finance</skos:prefLabel>
+	<skos:notation>ekonomika-a-finance</skos:notation>
 	<skos:prefLabel xml:lang="cs">Ekonomika a finance</skos:prefLabel>
 </rdf:Description>
 
@@ -23,6 +24,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Health and Lifestyle</skos:prefLabel>
+	<skos:notation>zdraví-a-životní-styl</skos:notation>
 	<skos:prefLabel xml:lang="cs">Zdraví a životní styl</skos:prefLabel>
 </rdf:Description>
 
@@ -30,6 +32,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Doprava</skos:prefLabel>
+	<skos:notation>doprava</skos:notation>
 	<skos:prefLabel xml:lang="en">Traffic</skos:prefLabel>
 </rdf:Description>
 
@@ -37,6 +40,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Science and Education</skos:prefLabel>
+	<skos:notation>věda-a-vzdělání</skos:notation>
 	<skos:prefLabel xml:lang="cs">Věda a vzdělání</skos:prefLabel>
 </rdf:Description>
 
@@ -44,6 +48,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Lidé a společnost</skos:prefLabel>
+	<skos:notation>lidé-a-společnost</skos:notation>
 	<skos:prefLabel xml:lang="en">People and Society</skos:prefLabel>
 </rdf:Description>
 
@@ -51,6 +56,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Infrastructure</skos:prefLabel>
+	<skos:notation>infrastruktura</skos:notation>
 	<skos:prefLabel xml:lang="cs">Infrastruktura</skos:prefLabel>
 </rdf:Description>
 
@@ -58,6 +64,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Crime and Safety</skos:prefLabel>
+	<skos:notation>kriminalita-a-bezpečnost</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kriminalita a bezpečnost</skos:prefLabel>
 </rdf:Description>
 
@@ -65,6 +72,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Emergency</skos:prefLabel>
+	<skos:notation>mimořádná-nebo-nebezpečná-situace</skos:notation>
 	<skos:prefLabel xml:lang="cs">Mimořádná nebo nebezpečná situace</skos:prefLabel>
 </rdf:Description>
 
@@ -72,6 +80,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Sport</skos:prefLabel>
+	<skos:notation>sport</skos:notation>
 	<skos:prefLabel xml:lang="en">Sport</skos:prefLabel>
 </rdf:Description>
 
@@ -79,6 +88,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Arts and Culture</skos:prefLabel>
+	<skos:notation>umění-a-kultura</skos:notation>
 	<skos:prefLabel xml:lang="cs">Umění a kultura</skos:prefLabel>
 </rdf:Description>
 
@@ -86,6 +96,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Technologie</skos:prefLabel>
+	<skos:notation>technologie</skos:notation>
 	<skos:prefLabel xml:lang="en">Technology</skos:prefLabel>
 </rdf:Description>
 
@@ -93,6 +104,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Food and Drinks</skos:prefLabel>
+	<skos:notation>jídlo-a-pití</skos:notation>
 	<skos:prefLabel xml:lang="cs">Jídlo a pití</skos:prefLabel>
 </rdf:Description>
 
@@ -100,6 +112,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Environment</skos:prefLabel>
+	<skos:notation>životní-prostředí</skos:notation>
 	<skos:prefLabel xml:lang="cs">Životní prostředí</skos:prefLabel>
 </rdf:Description>
 
@@ -107,6 +120,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Historie</skos:prefLabel>
+	<skos:notation>historie</skos:notation>
 	<skos:prefLabel xml:lang="en">History</skos:prefLabel>
 </rdf:Description>
 
@@ -114,6 +128,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Events</skos:prefLabel>
+	<skos:notation>nadcházející-události</skos:notation>
 	<skos:prefLabel xml:lang="cs">Nadcházející události</skos:prefLabel>
 </rdf:Description>
 
@@ -121,6 +136,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Politics</skos:prefLabel>
+	<skos:notation>politika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Politika</skos:prefLabel>
 </rdf:Description>
 
@@ -128,6 +144,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Počasí</skos:prefLabel>
+	<skos:notation>počasí</skos:notation>
 	<skos:prefLabel xml:lang="en">Weather</skos:prefLabel>
 </rdf:Description>
 
@@ -135,6 +152,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="en">Industry and Agriculture</skos:prefLabel>
+	<skos:notation>průmysl-a-zemědělství</skos:notation>
 	<skos:prefLabel xml:lang="cs">Průmysl a zemědělství</skos:prefLabel>
 </rdf:Description>
 
@@ -142,6 +160,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Cestování</skos:prefLabel>
+	<skos:notation>cestování</skos:notation>
 	<skos:prefLabel xml:lang="en">Travelling</skos:prefLabel>
 </rdf:Description>
 
@@ -149,6 +168,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Bydlení</skos:prefLabel>
+	<skos:notation>bydlení</skos:notation>
 	<skos:prefLabel xml:lang="en">Housing</skos:prefLabel>
 </rdf:Description>
 
@@ -156,6 +176,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Náboženství</skos:prefLabel>
+	<skos:notation>náboženství</skos:notation>
 	<skos:prefLabel xml:lang="en">Religion</skos:prefLabel>
 </rdf:Description>
 
@@ -163,6 +184,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/témata-událostí"/>
 	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:notation>jiné</skos:notation>
 	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 </rdf:Description>
 

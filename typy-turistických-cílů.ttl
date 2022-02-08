@@ -6,9 +6,11 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/přírodní>
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
-  skos:prefLabel "Natural"@en, "Přírodní"@cs .
+  skos:prefLabel "Natural"@en, "Přírodní"@cs;
+  skos:notation "přírodní" .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní>
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů>;
-  skos:prefLabel "Kulturní"@cs, "Manmade"@en .
+  skos:prefLabel "Kulturní"@cs, "Manmade"@en;
+  skos:notation "kulturní" .

@@ -1,8 +1,8 @@
-číselník,číselník_název_cs,číselník_název_en,položka,číselník_položka_název_cs,číselník_položka_název_en
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pondělí,Pondělí,Monday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý,Úterý,Tuesday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa,Středa,Wednesday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek,Čtvrtek,Thursday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pátek,Pátek,Friday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/sobota,Sobota,Saturday
-https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle,Neděle,Sunday
+číselník,číselník_název_cs,číselník_název_en,číselník_položka,číselník_položka_kód,číselník_položka_název_cs,číselník_položka_název_en
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pondělí,pondělí,Pondělí,Monday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/úterý,úterý,Úterý,Tuesday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa,středa,Středa,Wednesday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek,čtvrtek,Čtvrtek,Thursday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/pátek,pátek,Pátek,Friday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/sobota,sobota,Sobota,Saturday
+https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu,Dny v týdnu,Days of the week,https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/neděle,neděle,Neděle,Sunday

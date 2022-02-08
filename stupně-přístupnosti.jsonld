@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti",
   "typ": "Číselník",
   "název": {
@@ -10,14 +10,8 @@
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný",
-      "název": {
-          "cs":  "Obtížně přístupný nebo nepřístupný",
-          "en":  "Difficult to access or inaccessible"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný",
+      "kód": "přístupný",
       "název": {
           "cs":  "Přístupný",
           "en":  "Accessible"
@@ -25,9 +19,18 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný",
+      "kód": "částečně-přístupný",
       "název": {
           "cs":  "Částečně přístupný",
           "en":  "Partially accessible"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný",
+      "kód": "obtížně-přístupný-nebo-nepřístupný",
+      "název": {
+          "cs":  "Obtížně přístupný nebo nepřístupný",
+          "en":  "Difficult to access or inaccessible"
       }
     }
   ]

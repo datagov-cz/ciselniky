@@ -1,13 +1,13 @@
-číselník,číselník_název_cs,položka,číselník_položka_název_cs
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-les,Jehličnatý les
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-strom,Jehličnatý strom
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/keř,Keř
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-les,Listnatý les
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-strom,Listantý strom
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/oblast-dřevin,Oblast dřevin
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/park,Park
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-jehličnatých-stromů,Skupina jehličnatých stromů
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-listnatých-stromů,Skupina listnatých stromů
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů,Skupina stromů
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/smíšený-les,Smíšený les
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom,Strom
+číselník,číselník_název_cs,číselník_položka,číselník_položka_kód,číselník_položka_název_cs
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-les,jehličnatý-les,Jehličnatý les
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-strom,jehličnatý-strom,Jehličnatý strom
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/keř,keř,Keř
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-les,listnatý-les,Listnatý les
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-strom,listnatý-strom,Listantý strom
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/oblast-dřevin,oblast-dřevin,Oblast dřevin
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/park,park,Park
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-jehličnatých-stromů,skupina-jehličnatých-stromů,Skupina jehličnatých stromů
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-listnatých-stromů,skupina-listnatých-stromů,Skupina listnatých stromů
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů,skupina-stromů,Skupina stromů
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/smíšený-les,smíšený-les,Smíšený les
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin,Typy dřevin,https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom,strom,Strom

@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů",
   "typ": "Číselník",
   "název": {
@@ -10,49 +10,128 @@
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/azbest",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/objemný",
+      "kód": "objemný",
       "název": {
-          "cs":  "Azbest",
-          "en":  "Asbestos"
+          "cs":  "Objemný odpad",
+          "en":  "Bulky waste"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-malé",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/nebezpečný",
+      "kód": "nebezpečný",
       "název": {
-          "cs":  "Drobné baterie",
-          "en":  "Small batteries"
+          "cs":  "Nebezpečný odpad",
+          "en":  "Dangerous waste"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-velké",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/léčiva",
+      "kód": "léčiva",
       "název": {
-          "cs":  "Velké baterie, akumulátory",
-          "en":  "Big batteries, accumulators"
+          "cs":  "Objemný Léčiva",
+          "en":  "Drugs"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/bioodpad",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast",
+      "kód": "plast",
       "název": {
-          "cs":  "Bioodpad",
-          "en":  "Biological waste"
+          "cs":  "Plast",
+          "en":  "Plastic"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/cihly",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/papír",
+      "kód": "papír",
       "název": {
-          "cs":  "Cihly",
-          "en":  "Bricks"
+          "cs":  "Papír a lepenka",
+          "en":  "Paper and cardboard"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/dřevo",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-bílé",
+      "kód": "sklo-bílé",
       "název": {
-          "cs":  "Dřevo",
-          "en":  "Wood"
+          "cs":  "Bílé (čiré) sklo",
+          "en":  "White glass"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-barevné",
+      "kód": "sklo-barevné",
+      "název": {
+          "cs":  "Barevné sklo",
+          "en":  "Stained glass"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-ostatní",
+      "kód": "sklo-ostatní",
+      "název": {
+          "cs":  "Ostatní sklo",
+          "en":  "Other glass"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/textil",
+      "kód": "textil",
+      "název": {
+          "cs":  "textil",
+          "en":  "Clothes"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kartony",
+      "kód": "kartony",
+      "název": {
+          "cs":  "Nápojové kartony",
+          "en":  "Beverage cartons"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-jedlý",
+      "kód": "olej-jedlý",
+      "název": {
+          "cs":  "Jedlý olej a tuk",
+          "en":  "Edible oil and fat"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-potraviny",
+      "kód": "plech-potraviny",
+      "název": {
+          "cs":  "Plechovky od potravin",
+          "en":  "Food cans"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-nápoje",
+      "kód": "plech-nápoje",
+      "název": {
+          "cs":  "Nápojové plechovky",
+          "en":  "Beverage cans"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kov-ostatní-domácnost",
+      "kód": "kov-ostatní-domácnost",
+      "název": {
+          "cs":  "Ostatní kovy z domácnosti",
+          "en":  "Other household metals"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/polystyren-drobný",
+      "kód": "polystyren-drobný",
+      "název": {
+          "cs":  "Výplňový, drobný polystyren",
+          "en":  "Crushed polystyrene"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé",
+      "kód": "elektro-malé",
       "název": {
           "cs":  "Malá domácí elektrozařízení",
           "en":  "Small household appliances"
@@ -60,6 +139,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-malé-it",
+      "kód": "elektro-malé-it",
       "název": {
           "cs":  "Malá IT a komunikační zařízení",
           "en":  "Small ICT devices"
@@ -67,223 +147,87 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/elektro-velké",
+      "kód": "elektro-velké",
       "název": {
           "cs":  "Velká elektrozařízení",
           "en":  "Big household appliances"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/halogenka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-malé",
+      "kód": "baterie-malé",
       "název": {
-          "cs":  "Halogenové žárovky",
-          "en":  "Halogen lamp"
+          "cs":  "Drobné baterie",
+          "en":  "Small batteries"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/izolace",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/baterie-velké",
+      "kód": "baterie-velké",
       "název": {
-          "cs":  "Stavební izolační materiály",
-          "en":  "Insulation"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kabely",
-      "název": {
-          "cs":  "kabely",
-          "en":  "Cables"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kartony",
-      "název": {
-          "cs":  "Nápojové kartony",
-          "en":  "Beverage cartons"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kov-ostatní-domácnost",
-      "název": {
-          "cs":  "Ostatní kovy z domácnosti",
-          "en":  "Other household metals"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kovy-barevné",
-      "název": {
-          "cs":  "Barevné kovy",
-          "en":  "Non-ferrous metal"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/léčiva",
-      "název": {
-          "cs":  "Objemný Léčiva",
-          "en":  "Drugs"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/nebezpečný",
-      "název": {
-          "cs":  "Nebezpečný odpad",
-          "en":  "Dangerous waste"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/objemný",
-      "název": {
-          "cs":  "Objemný odpad",
-          "en":  "Bulky waste"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/obklady",
-      "název": {
-          "cs":  "Obklady",
-          "en":  "Tiles"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-jedlý",
-      "název": {
-          "cs":  "Jedlý olej a tuk",
-          "en":  "Edible oil and fat"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-technický",
-      "název": {
-          "cs":  "Technický olej",
-          "en":  "Technical oil"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/papír",
-      "název": {
-          "cs":  "Papír a lepenka",
-          "en":  "Paper and cardboard"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast",
-      "název": {
-          "cs":  "Plast",
-          "en":  "Plastic"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast-stavební",
-      "název": {
-          "cs":  "Stavební plast",
-          "en":  "Building plastic"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-nápoje",
-      "název": {
-          "cs":  "Nápojové plechovky",
-          "en":  "Beverage cans"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plech-potraviny",
-      "název": {
-          "cs":  "Plechovky od potravin",
-          "en":  "Food cans"
+          "cs":  "Velké baterie, akumulátory",
+          "en":  "Big batteries, accumulators"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/pneu",
+      "kód": "pneu",
       "název": {
           "cs":  "Pneumatiky",
           "en":  "Tires"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/polystyren-drobný",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/olej-technický",
+      "kód": "olej-technický",
       "název": {
-          "cs":  "Výplňový, drobný polystyren",
-          "en":  "Crushed polystyrene"
+          "cs":  "Technický olej",
+          "en":  "Technical oil"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/re-use",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/železo",
+      "kód": "železo",
       "název": {
-          "cs":  "Re-use",
-          "en":  "Re-use"
+          "cs":  "Železo",
+          "en":  "Iron"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-barevné",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kovy-barevné",
+      "kód": "kovy-barevné",
       "název": {
-          "cs":  "Barevné sklo",
-          "en":  "Stained glass"
+          "cs":  "Barevné kovy",
+          "en":  "Non-ferrous metal"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-bílé",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovky",
+      "kód": "žárovky",
       "název": {
-          "cs":  "Bílé (čiré) sklo",
-          "en":  "White glass"
+          "cs":  "Klasické žárovky",
+          "en":  "Bulbs"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-ostatní",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-reflektorová",
+      "kód": "žárovka-reflektorová",
       "název": {
-          "cs":  "Ostatní sklo",
-          "en":  "Other glass"
+          "cs":  "Reflektorové žárovky",
+          "en":  "Headlights"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-stavební",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-ledka",
+      "kód": "žárovka-ledka",
       "název": {
-          "cs":  "Stavební sklo",
-          "en":  "Building glass"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směs-demolice",
-      "název": {
-          "cs":  "Směsný stavební a demoliční odpad",
-          "en":  "Construction waste"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směsný-odpad",
-      "název": {
-          "cs":  "Směsný odpad",
-          "en":  "Communal waste"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/suť",
-      "název": {
-          "cs":  "Suť bez příměsí",
-          "en":  "Rubble"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/textil",
-      "název": {
-          "cs":  "textil",
-          "en":  "Clothes"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/výbojka",
-      "název": {
-          "cs":  "Výbojky",
-          "en":  "Discharge lamp"
-      }
-    },{
-      "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zemina",
-      "název": {
-          "cs":  "Zemina a kamení",
-          "en":  "Soil and stones"
+          "cs":  "LED žárovky",
+          "en":  "LED bulbs"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zářivka",
+      "kód": "zářivka",
       "název": {
           "cs":  "Kompaktní zářivky",
           "en":  "Compact fluorescent lamp"
@@ -291,37 +235,138 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zářivka-lineární",
+      "kód": "zářivka-lineární",
       "název": {
           "cs":  "Lineární zářivky",
           "en":  "Linear fluorescent lamp"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/železo",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/výbojka",
+      "kód": "výbojka",
       "název": {
-          "cs":  "Železo",
-          "en":  "Iron"
+          "cs":  "Výbojky",
+          "en":  "Discharge lamp"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-ledka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/halogenka",
+      "kód": "halogenka",
       "název": {
-          "cs":  "LED žárovky",
-          "en":  "LED bulbs"
+          "cs":  "Halogenové žárovky",
+          "en":  "Halogen lamp"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovka-reflektorová",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/suť",
+      "kód": "suť",
       "název": {
-          "cs":  "Reflektorové žárovky",
-          "en":  "Headlights"
+          "cs":  "Suť bez příměsí",
+          "en":  "Rubble"
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/žárovky",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/cihly",
+      "kód": "cihly",
       "název": {
-          "cs":  "Klasické žárovky",
-          "en":  "Bulbs"
+          "cs":  "Cihly",
+          "en":  "Bricks"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/dřevo",
+      "kód": "dřevo",
+      "název": {
+          "cs":  "Dřevo",
+          "en":  "Wood"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/zemina",
+      "kód": "zemina",
+      "název": {
+          "cs":  "Zemina a kamení",
+          "en":  "Soil and stones"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směs-demolice",
+      "kód": "směs-demolice",
+      "název": {
+          "cs":  "Směsný stavební a demoliční odpad",
+          "en":  "Construction waste"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/obklady",
+      "kód": "obklady",
+      "název": {
+          "cs":  "Obklady",
+          "en":  "Tiles"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/azbest",
+      "kód": "azbest",
+      "název": {
+          "cs":  "Azbest",
+          "en":  "Asbestos"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/sklo-stavební",
+      "kód": "sklo-stavební",
+      "název": {
+          "cs":  "Stavební sklo",
+          "en":  "Building glass"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/plast-stavební",
+      "kód": "plast-stavební",
+      "název": {
+          "cs":  "Stavební plast",
+          "en":  "Building plastic"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/izolace",
+      "kód": "izolace",
+      "název": {
+          "cs":  "Stavební izolační materiály",
+          "en":  "Insulation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/kabely",
+      "kód": "kabely",
+      "název": {
+          "cs":  "kabely",
+          "en":  "Cables"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/směsný-odpad",
+      "kód": "směsný-odpad",
+      "název": {
+          "cs":  "Směsný odpad",
+          "en":  "Communal waste"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/bioodpad",
+      "kód": "bioodpad",
+      "název": {
+          "cs":  "Bioodpad",
+          "en":  "Biological waste"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-tříděných-odpadů/položky/re-use",
+      "kód": "re-use",
+      "název": {
+          "cs":  "Re-use",
+          "en":  "Re-use"
       }
     }
   ]

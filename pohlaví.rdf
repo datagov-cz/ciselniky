@@ -5,24 +5,26 @@
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-	<skos:prefLabel xml:lang="cs">Pohlaví</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Sex</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví"/>
 	<skos:prefLabel xml:lang="en">Male</skos:prefLabel>
+	<skos:notation>mužské</skos:notation>
 	<skos:prefLabel xml:lang="cs">Mužské</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví">
-	<skos:prefLabel xml:lang="en">Sex</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Pohlaví</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví"/>
 	<skos:prefLabel xml:lang="en">Female</skos:prefLabel>
+	<skos:notation>ženské</skos:notation>
 	<skos:prefLabel xml:lang="cs">Ženské</skos:prefLabel>
 </rdf:Description>
 

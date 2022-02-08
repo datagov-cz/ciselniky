@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Aerobic</skos:prefLabel>
+	<skos:notation>aerobik</skos:notation>
 	<skos:prefLabel xml:lang="cs">Aerobik</skos:prefLabel>
 </rdf:Description>
 
@@ -23,6 +24,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Aikido</skos:prefLabel>
+	<skos:notation>aikido</skos:notation>
 	<skos:prefLabel xml:lang="en">Aikido</skos:prefLabel>
 </rdf:Description>
 
@@ -30,6 +32,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">American football</skos:prefLabel>
+	<skos:notation>americký-fotbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Americký fotbal</skos:prefLabel>
 </rdf:Description>
 
@@ -37,6 +40,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Athletics</skos:prefLabel>
+	<skos:notation>atletika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Atletika</skos:prefLabel>
 </rdf:Description>
 
@@ -44,6 +48,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Badminton</skos:prefLabel>
+	<skos:notation>badminton</skos:notation>
 	<skos:prefLabel xml:lang="en">Badminton</skos:prefLabel>
 </rdf:Description>
 
@@ -51,6 +56,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Balet</skos:prefLabel>
+	<skos:notation>balet</skos:notation>
 	<skos:prefLabel xml:lang="en">Balet</skos:prefLabel>
 </rdf:Description>
 
@@ -58,6 +64,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Baseball</skos:prefLabel>
+	<skos:notation>baseball</skos:notation>
 	<skos:prefLabel xml:lang="en">Baseball</skos:prefLabel>
 </rdf:Description>
 
@@ -65,6 +72,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Basketbal</skos:prefLabel>
+	<skos:notation>basketbal</skos:notation>
 	<skos:prefLabel xml:lang="en">Basketball</skos:prefLabel>
 </rdf:Description>
 
@@ -72,6 +80,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Beachvoleybal</skos:prefLabel>
+	<skos:notation>beachvoleybal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Plážový volejbal</skos:prefLabel>
 </rdf:Description>
 
@@ -79,6 +88,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Běh</skos:prefLabel>
+	<skos:notation>běh</skos:notation>
 	<skos:prefLabel xml:lang="en">Running</skos:prefLabel>
 </rdf:Description>
 
@@ -86,6 +96,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Běh na lyžích</skos:prefLabel>
+	<skos:notation>běh-na-lyžích</skos:notation>
 	<skos:prefLabel xml:lang="en">Cross country skiing</skos:prefLabel>
 </rdf:Description>
 
@@ -93,6 +104,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Biathlon</skos:prefLabel>
+	<skos:notation>biathlon</skos:notation>
 	<skos:prefLabel xml:lang="en">Biathlon</skos:prefLabel>
 </rdf:Description>
 
@@ -100,6 +112,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Bobsleigh</skos:prefLabel>
+	<skos:notation>boby</skos:notation>
 	<skos:prefLabel xml:lang="cs">Boby</skos:prefLabel>
 </rdf:Description>
 
@@ -107,6 +120,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Bowling</skos:prefLabel>
+	<skos:notation>bowling</skos:notation>
 	<skos:prefLabel xml:lang="en">Bowling</skos:prefLabel>
 </rdf:Description>
 
@@ -114,6 +128,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Box</skos:prefLabel>
+	<skos:notation>box</skos:notation>
 	<skos:prefLabel xml:lang="en">Box</skos:prefLabel>
 </rdf:Description>
 
@@ -121,6 +136,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Breakdance</skos:prefLabel>
+	<skos:notation>breakdance</skos:notation>
 	<skos:prefLabel xml:lang="en">Breakdance</skos:prefLabel>
 </rdf:Description>
 
@@ -128,6 +144,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Cricket</skos:prefLabel>
+	<skos:notation>cricket</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kriket</skos:prefLabel>
 </rdf:Description>
 
@@ -135,6 +152,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Croquet</skos:prefLabel>
+	<skos:notation>croquet</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kroket</skos:prefLabel>
 </rdf:Description>
 
@@ -142,6 +160,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Curling</skos:prefLabel>
+	<skos:notation>curling</skos:notation>
 	<skos:prefLabel xml:lang="en">Curling</skos:prefLabel>
 </rdf:Description>
 
@@ -149,6 +168,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Cycling</skos:prefLabel>
+	<skos:notation>cyklistika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Cyklistika</skos:prefLabel>
 </rdf:Description>
 
@@ -156,6 +176,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">E-sports</skos:prefLabel>
+	<skos:notation>e-sporty</skos:notation>
 	<skos:prefLabel xml:lang="cs">E-sporty</skos:prefLabel>
 </rdf:Description>
 
@@ -163,6 +184,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Floorball</skos:prefLabel>
+	<skos:notation>florbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Florbal</skos:prefLabel>
 </rdf:Description>
 
@@ -170,6 +192,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Football</skos:prefLabel>
+	<skos:notation>fotbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Fotbal</skos:prefLabel>
 </rdf:Description>
 
@@ -177,6 +200,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Frisbee</skos:prefLabel>
+	<skos:notation>frisbee</skos:notation>
 	<skos:prefLabel xml:lang="en">Frisbee</skos:prefLabel>
 </rdf:Description>
 
@@ -184,6 +208,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Futsal</skos:prefLabel>
+	<skos:notation>futsal</skos:notation>
 	<skos:prefLabel xml:lang="en">Futsal</skos:prefLabel>
 </rdf:Description>
 
@@ -191,6 +216,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Golf</skos:prefLabel>
+	<skos:notation>golf</skos:notation>
 	<skos:prefLabel xml:lang="en">Golf</skos:prefLabel>
 </rdf:Description>
 
@@ -198,6 +224,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Handball</skos:prefLabel>
+	<skos:notation>házená</skos:notation>
 	<skos:prefLabel xml:lang="cs">Házená</skos:prefLabel>
 </rdf:Description>
 
@@ -205,6 +232,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Hockeyball</skos:prefLabel>
+	<skos:notation>hokejbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Hokejbal</skos:prefLabel>
 </rdf:Description>
 
@@ -212,6 +240,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Climbing</skos:prefLabel>
+	<skos:notation>horolezectví</skos:notation>
 	<skos:prefLabel xml:lang="cs">Horolezectví</skos:prefLabel>
 </rdf:Description>
 
@@ -219,6 +248,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">In-line bruslení</skos:prefLabel>
+	<skos:notation>in-line-bruslení</skos:notation>
 	<skos:prefLabel xml:lang="en">In-line skating</skos:prefLabel>
 </rdf:Description>
 
@@ -226,6 +256,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Jachting</skos:prefLabel>
+	<skos:notation>jachting</skos:notation>
 	<skos:prefLabel xml:lang="en">Yachting</skos:prefLabel>
 </rdf:Description>
 
@@ -233,6 +264,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Horse riding</skos:prefLabel>
+	<skos:notation>jezdectví</skos:notation>
 	<skos:prefLabel xml:lang="cs">Jezdectví</skos:prefLabel>
 </rdf:Description>
 
@@ -240,6 +272,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Jiné</skos:prefLabel>
+	<skos:notation>jiné</skos:notation>
 	<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 </rdf:Description>
 
@@ -247,6 +280,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Jóga</skos:prefLabel>
+	<skos:notation>jóga</skos:notation>
 	<skos:prefLabel xml:lang="en">Yoga</skos:prefLabel>
 </rdf:Description>
 
@@ -254,6 +288,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Judo</skos:prefLabel>
+	<skos:notation>judo</skos:notation>
 	<skos:prefLabel xml:lang="en">Judo</skos:prefLabel>
 </rdf:Description>
 
@@ -261,6 +296,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Canoeing</skos:prefLabel>
+	<skos:notation>kanoistika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kanoistika</skos:prefLabel>
 </rdf:Description>
 
@@ -268,6 +304,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Carate</skos:prefLabel>
+	<skos:notation>karate</skos:notation>
 	<skos:prefLabel xml:lang="cs">Karate</skos:prefLabel>
 </rdf:Description>
 
@@ -275,6 +312,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Kickbox</skos:prefLabel>
+	<skos:notation>kickbox</skos:notation>
 	<skos:prefLabel xml:lang="en">Kickbox</skos:prefLabel>
 </rdf:Description>
 
@@ -282,6 +320,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Cycle ball</skos:prefLabel>
+	<skos:notation>kolová</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kolová</skos:prefLabel>
 </rdf:Description>
 
@@ -289,6 +328,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Korfbal</skos:prefLabel>
+	<skos:notation>korfbal</skos:notation>
 	<skos:prefLabel xml:lang="en">Korfball</skos:prefLabel>
 </rdf:Description>
 
@@ -296,6 +336,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Figure skating</skos:prefLabel>
+	<skos:notation>krasobruselní</skos:notation>
 	<skos:prefLabel xml:lang="cs">Krasobruselní</skos:prefLabel>
 </rdf:Description>
 
@@ -303,6 +344,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Kulečník</skos:prefLabel>
+	<skos:notation>kulečník</skos:notation>
 	<skos:prefLabel xml:lang="en">Snooker</skos:prefLabel>
 </rdf:Description>
 
@@ -310,6 +352,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Body-building</skos:prefLabel>
+	<skos:notation>kulturistika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kulturistika</skos:prefLabel>
 </rdf:Description>
 
@@ -317,6 +360,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Kuželky</skos:prefLabel>
+	<skos:notation>kuželky</skos:notation>
 	<skos:prefLabel xml:lang="en">Skittles</skos:prefLabel>
 </rdf:Description>
 
@@ -324,6 +368,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Lacros</skos:prefLabel>
+	<skos:notation>lakros</skos:notation>
 	<skos:prefLabel xml:lang="cs">Lakros</skos:prefLabel>
 </rdf:Description>
 
@@ -331,6 +376,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Ice hockey</skos:prefLabel>
+	<skos:notation>lední-hokej</skos:notation>
 	<skos:prefLabel xml:lang="cs">Lední hokej</skos:prefLabel>
 </rdf:Description>
 
@@ -338,6 +384,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Aviation</skos:prefLabel>
+	<skos:notation>letectví</skos:notation>
 	<skos:prefLabel xml:lang="cs">Letectví</skos:prefLabel>
 </rdf:Description>
 
@@ -345,6 +392,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Archery</skos:prefLabel>
+	<skos:notation>lukostřelba</skos:notation>
 	<skos:prefLabel xml:lang="cs">Lukostřelba</skos:prefLabel>
 </rdf:Description>
 
@@ -352,20 +400,23 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Lyžování</skos:prefLabel>
+	<skos:notation>lyžování</skos:notation>
 	<skos:prefLabel xml:lang="en">Skiing</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/malá-kopaná">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
-	<skos:prefLabel xml:lang="en">Five-a-side football</skos:prefLabel>
 	<skos:prefLabel xml:lang="cs">Malá kopaná</skos:prefLabel>
+	<skos:notation>malá-kopaná</skos:notation>
+	<skos:prefLabel xml:lang="en">Five-a-side football</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/minigolf">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Minigolf</skos:prefLabel>
+	<skos:notation>minigolf</skos:notation>
 	<skos:prefLabel xml:lang="en">Minigolf</skos:prefLabel>
 </rdf:Description>
 
@@ -373,6 +424,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Modern gymnastics</skos:prefLabel>
+	<skos:notation>moderní-gymnastika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Moderní gymnastika</skos:prefLabel>
 </rdf:Description>
 
@@ -380,6 +432,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Motocross</skos:prefLabel>
+	<skos:notation>motokros</skos:notation>
 	<skos:prefLabel xml:lang="cs">Motokros</skos:prefLabel>
 </rdf:Description>
 
@@ -387,6 +440,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Motorism</skos:prefLabel>
+	<skos:notation>motorismus</skos:notation>
 	<skos:prefLabel xml:lang="cs">Motorismus</skos:prefLabel>
 </rdf:Description>
 
@@ -394,6 +448,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">National handball</skos:prefLabel>
+	<skos:notation>národní-házená</skos:notation>
 	<skos:prefLabel xml:lang="cs">Národní házená</skos:prefLabel>
 </rdf:Description>
 
@@ -401,6 +456,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Futnet</skos:prefLabel>
+	<skos:notation>nohejbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Nohejbal</skos:prefLabel>
 </rdf:Description>
 
@@ -408,6 +464,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Orientační běh</skos:prefLabel>
+	<skos:notation>orientační-běh</skos:notation>
 	<skos:prefLabel xml:lang="en">Orienteering</skos:prefLabel>
 </rdf:Description>
 
@@ -415,6 +472,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Parkour</skos:prefLabel>
+	<skos:notation>parkour</skos:notation>
 	<skos:prefLabel xml:lang="en">Parkour</skos:prefLabel>
 </rdf:Description>
 
@@ -422,6 +480,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Petanque</skos:prefLabel>
+	<skos:notation>petanque</skos:notation>
 	<skos:prefLabel xml:lang="en">Petanque</skos:prefLabel>
 </rdf:Description>
 
@@ -429,6 +488,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Pentathlon</skos:prefLabel>
+	<skos:notation>pětiboj</skos:notation>
 	<skos:prefLabel xml:lang="cs">Pětiboj</skos:prefLabel>
 </rdf:Description>
 
@@ -436,6 +496,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Pilates</skos:prefLabel>
+	<skos:notation>pilates</skos:notation>
 	<skos:prefLabel xml:lang="en">Pilates</skos:prefLabel>
 </rdf:Description>
 
@@ -443,6 +504,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Plavání</skos:prefLabel>
+	<skos:notation>plavání</skos:notation>
 	<skos:prefLabel xml:lang="en">Swimming</skos:prefLabel>
 </rdf:Description>
 
@@ -450,6 +512,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Poker</skos:prefLabel>
+	<skos:notation>poker</skos:notation>
 	<skos:prefLabel xml:lang="en">Poker</skos:prefLabel>
 </rdf:Description>
 
@@ -457,6 +520,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Fitness</skos:prefLabel>
+	<skos:notation>posilování</skos:notation>
 	<skos:prefLabel xml:lang="cs">Posilování</skos:prefLabel>
 </rdf:Description>
 
@@ -464,6 +528,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Diving</skos:prefLabel>
+	<skos:notation>potápění</skos:notation>
 	<skos:prefLabel xml:lang="cs">Potápění</skos:prefLabel>
 </rdf:Description>
 
@@ -471,6 +536,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Field hockey</skos:prefLabel>
+	<skos:notation>pozemní-hokej</skos:notation>
 	<skos:prefLabel xml:lang="cs">Pozemní hokej</skos:prefLabel>
 </rdf:Description>
 
@@ -478,6 +544,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Rafting</skos:prefLabel>
+	<skos:notation>rafting</skos:notation>
 	<skos:prefLabel xml:lang="en">Rafting</skos:prefLabel>
 </rdf:Description>
 
@@ -485,6 +552,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Ragby</skos:prefLabel>
+	<skos:notation>ragby</skos:notation>
 	<skos:prefLabel xml:lang="en">Rugby</skos:prefLabel>
 </rdf:Description>
 
@@ -492,6 +560,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Racquetball</skos:prefLabel>
+	<skos:notation>raketbal</skos:notation>
 	<skos:prefLabel xml:lang="cs">Raketbal</skos:prefLabel>
 </rdf:Description>
 
@@ -499,6 +568,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Rychlobruslení</skos:prefLabel>
+	<skos:notation>rychlobruslení</skos:notation>
 	<skos:prefLabel xml:lang="en">Speedskating</skos:prefLabel>
 </rdf:Description>
 
@@ -506,6 +576,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Skateboarding</skos:prefLabel>
+	<skos:notation>skateboarding</skos:notation>
 	<skos:prefLabel xml:lang="en">Skateboarding</skos:prefLabel>
 </rdf:Description>
 
@@ -513,6 +584,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Skeleton</skos:prefLabel>
+	<skos:notation>skeleton</skos:notation>
 	<skos:prefLabel xml:lang="en">Skeleton</skos:prefLabel>
 </rdf:Description>
 
@@ -520,6 +592,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Sledge hokej</skos:prefLabel>
+	<skos:notation>sledge-hokej</skos:notation>
 	<skos:prefLabel xml:lang="en">Sledge hokej</skos:prefLabel>
 </rdf:Description>
 
@@ -527,6 +600,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Snooker</skos:prefLabel>
+	<skos:notation>snooker</skos:notation>
 	<skos:prefLabel xml:lang="en">Snooker</skos:prefLabel>
 </rdf:Description>
 
@@ -534,6 +608,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Snowboarding</skos:prefLabel>
+	<skos:notation>snowboarding</skos:notation>
 	<skos:prefLabel xml:lang="en">Snowboarding</skos:prefLabel>
 </rdf:Description>
 
@@ -541,6 +616,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Softbal</skos:prefLabel>
+	<skos:notation>softbal</skos:notation>
 	<skos:prefLabel xml:lang="en">Softball</skos:prefLabel>
 </rdf:Description>
 
@@ -548,6 +624,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Spinning</skos:prefLabel>
+	<skos:notation>spinning</skos:notation>
 	<skos:prefLabel xml:lang="en">Spinning</skos:prefLabel>
 </rdf:Description>
 
@@ -555,6 +632,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Sport gymnastics</skos:prefLabel>
+	<skos:notation>sportovní-gymnastika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Sportovní gymnastika</skos:prefLabel>
 </rdf:Description>
 
@@ -562,6 +640,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Fishing</skos:prefLabel>
+	<skos:notation>sportovní-rybaření</skos:notation>
 	<skos:prefLabel xml:lang="cs">Sportovní rybaření</skos:prefLabel>
 </rdf:Description>
 
@@ -569,6 +648,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Sport shooting</skos:prefLabel>
+	<skos:notation>sportovní-střelba</skos:notation>
 	<skos:prefLabel xml:lang="cs">Sportovní střelba</skos:prefLabel>
 </rdf:Description>
 
@@ -576,6 +656,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Squash</skos:prefLabel>
+	<skos:notation>squash</skos:notation>
 	<skos:prefLabel xml:lang="en">Squash</skos:prefLabel>
 </rdf:Description>
 
@@ -583,6 +664,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Stolní tenis</skos:prefLabel>
+	<skos:notation>stolní-tenis</skos:notation>
 	<skos:prefLabel xml:lang="en">Table tennis</skos:prefLabel>
 </rdf:Description>
 
@@ -590,6 +672,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Surfing</skos:prefLabel>
+	<skos:notation>surfování</skos:notation>
 	<skos:prefLabel xml:lang="cs">Surfování</skos:prefLabel>
 </rdf:Description>
 
@@ -597,6 +680,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Synchronized swimming</skos:prefLabel>
+	<skos:notation>synchronizované-plavání</skos:notation>
 	<skos:prefLabel xml:lang="cs">Synchronizované plavání</skos:prefLabel>
 </rdf:Description>
 
@@ -604,6 +688,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Chess</skos:prefLabel>
+	<skos:notation>šachy</skos:notation>
 	<skos:prefLabel xml:lang="cs">Šachy</skos:prefLabel>
 </rdf:Description>
 
@@ -611,6 +696,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Fencing</skos:prefLabel>
+	<skos:notation>šerm</skos:notation>
 	<skos:prefLabel xml:lang="cs">Šerm</skos:prefLabel>
 </rdf:Description>
 
@@ -618,6 +704,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Taekwondo</skos:prefLabel>
+	<skos:notation>taekwondo</skos:notation>
 	<skos:prefLabel xml:lang="en">Taekwondo</skos:prefLabel>
 </rdf:Description>
 
@@ -625,6 +712,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Dance sports</skos:prefLabel>
+	<skos:notation>taneční-sport</skos:notation>
 	<skos:prefLabel xml:lang="cs">Taneční sport</skos:prefLabel>
 </rdf:Description>
 
@@ -632,6 +720,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Tenis</skos:prefLabel>
+	<skos:notation>tenis</skos:notation>
 	<skos:prefLabel xml:lang="en">Tennis</skos:prefLabel>
 </rdf:Description>
 
@@ -639,6 +728,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Triathlon</skos:prefLabel>
+	<skos:notation>triatlon</skos:notation>
 	<skos:prefLabel xml:lang="cs">Triatlon</skos:prefLabel>
 </rdf:Description>
 
@@ -646,6 +736,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Hiking</skos:prefLabel>
+	<skos:notation>turistika</skos:notation>
 	<skos:prefLabel xml:lang="cs">Turistika</skos:prefLabel>
 </rdf:Description>
 
@@ -653,6 +744,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Rowing</skos:prefLabel>
+	<skos:notation>veslování</skos:notation>
 	<skos:prefLabel xml:lang="cs">Veslování</skos:prefLabel>
 </rdf:Description>
 
@@ -660,6 +752,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Vodní pólo</skos:prefLabel>
+	<skos:notation>vodní-pólo</skos:notation>
 	<skos:prefLabel xml:lang="en">Water polo</skos:prefLabel>
 </rdf:Description>
 
@@ -667,6 +760,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Volejbal</skos:prefLabel>
+	<skos:notation>volejbal</skos:notation>
 	<skos:prefLabel xml:lang="en">Voleyball</skos:prefLabel>
 </rdf:Description>
 
@@ -674,6 +768,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Vzpírání</skos:prefLabel>
+	<skos:notation>vzpírání</skos:notation>
 	<skos:prefLabel xml:lang="en">Weightlifting</skos:prefLabel>
 </rdf:Description>
 
@@ -681,6 +776,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Workout</skos:prefLabel>
+	<skos:notation>workout</skos:notation>
 	<skos:prefLabel xml:lang="en">Workout</skos:prefLabel>
 </rdf:Description>
 
@@ -688,6 +784,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="en">Wrestling</skos:prefLabel>
+	<skos:notation>zápas</skos:notation>
 	<skos:prefLabel xml:lang="cs">Zápas</skos:prefLabel>
 </rdf:Description>
 
@@ -695,6 +792,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Zumba</skos:prefLabel>
+	<skos:notation>zumba</skos:notation>
 	<skos:prefLabel xml:lang="en">Zumba</skos:prefLabel>
 </rdf:Description>
 
@@ -702,6 +800,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Streetball</skos:prefLabel>
+	<skos:notation>streetball</skos:notation>
 	<skos:prefLabel xml:lang="en">Streetball</skos:prefLabel>
 </rdf:Description>
 
@@ -709,6 +808,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/sporty"/>
 	<skos:prefLabel xml:lang="cs">Bruslení</skos:prefLabel>
+	<skos:notation>bruslení</skos:notation>
 	<skos:prefLabel xml:lang="en">Skating</skos:prefLabel>
 </rdf:Description>
 

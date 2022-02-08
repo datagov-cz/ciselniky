@@ -3,14 +3,20 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> a skos:ConceptScheme;
   skos:prefLabel "Accessibility assessment codelist"@en, "Číselník pro stupně přístupnosti"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> a
+    skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
-  skos:prefLabel "Accessible"@en, "Přístupný"@cs .
+  skos:prefLabel "Accessible"@en, "Přístupný"@cs;
+  skos:notation "přístupný" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný>
+  a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
-  skos:prefLabel "Partially accessible"@en, "Částečně přístupný"@cs .
+  skos:prefLabel "Partially accessible"@en, "Částečně přístupný"@cs;
+  skos:notation "částečně-přístupný" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný>
+  a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti>;
-  skos:prefLabel "Difficult to access or inaccessible"@en, "Obtížně přístupný nebo nepřístupný"@cs .
+  skos:prefLabel "Difficult to access or inaccessible"@en, "Obtížně přístupný nebo nepřístupný"@cs;
+  skos:notation "obtížně-přístupný-nebo-nepřístupný" .

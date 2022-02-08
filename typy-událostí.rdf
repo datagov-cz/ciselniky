@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Cinema</skos:prefLabel>
+	<skos:notation>kino</skos:notation>
 	<skos:prefLabel xml:lang="cs">Kino</skos:prefLabel>
 </rdf:Description>
 
@@ -22,14 +23,16 @@
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/divadlo">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
-	<skos:prefLabel xml:lang="cs">Divadlo</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Theatre</skos:prefLabel>
+	<skos:notation>divadlo</skos:notation>
+	<skos:prefLabel xml:lang="cs">Divadlo</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Concert</skos:prefLabel>
+	<skos:notation>koncert</skos:notation>
 	<skos:prefLabel xml:lang="cs">Koncert</skos:prefLabel>
 </rdf:Description>
 
@@ -37,6 +40,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Exhibition</skos:prefLabel>
+	<skos:notation>výstava</skos:notation>
 	<skos:prefLabel xml:lang="cs">Výstava</skos:prefLabel>
 </rdf:Description>
 
@@ -44,6 +48,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Fair</skos:prefLabel>
+	<skos:notation>veletrh</skos:notation>
 	<skos:prefLabel xml:lang="cs">Veletrh</skos:prefLabel>
 </rdf:Description>
 
@@ -51,6 +56,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Market</skos:prefLabel>
+	<skos:notation>trh</skos:notation>
 	<skos:prefLabel xml:lang="cs">Trh</skos:prefLabel>
 </rdf:Description>
 
@@ -58,6 +64,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Lecture</skos:prefLabel>
+	<skos:notation>přednáška</skos:notation>
 	<skos:prefLabel xml:lang="cs">Přednáška</skos:prefLabel>
 </rdf:Description>
 
@@ -65,34 +72,39 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Guiiding Tour</skos:prefLabel>
+	<skos:notation>prohlídka</skos:notation>
 	<skos:prefLabel xml:lang="cs">Prohlídka</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/pracovní-setkání">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
-	<skos:prefLabel xml:lang="cs">Pracovní setkání</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Work meeting</skos:prefLabel>
+	<skos:notation>pracovní-setkání</skos:notation>
+	<skos:prefLabel xml:lang="cs">Pracovní setkání</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/konferenční-hovor">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Conference call</skos:prefLabel>
+	<skos:notation>konferenční-hovor</skos:notation>
 	<skos:prefLabel xml:lang="cs">Konferenční hovor</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/flashmob">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
-	<skos:prefLabel xml:lang="cs">Flashmob</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Flashmob</skos:prefLabel>
+	<skos:notation>flashmob</skos:notation>
+	<skos:prefLabel xml:lang="cs">Flashmob</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/umělecká-produkce">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí"/>
 	<skos:prefLabel xml:lang="en">Art performance</skos:prefLabel>
+	<skos:notation>umělecká-produkce</skos:notation>
 	<skos:prefLabel xml:lang="cs">Umělecká produkce</skos:prefLabel>
 </rdf:Description>
 

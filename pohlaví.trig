@@ -2,15 +2,15 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> {
   <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> a skos:ConceptScheme;
-    skos:prefLabel "Pohlaví"@cs .
+    skos:prefLabel "Sex"@en, "Pohlaví"@cs .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
-    skos:prefLabel "Male"@en, "Mužské"@cs .
-  
-  <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví> skos:prefLabel "Sex"@en .
+    skos:prefLabel "Male"@en, "Mužské"@cs;
+    skos:notation "mužské" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví>;
-    skos:prefLabel "Female"@en, "Ženské"@cs .
+    skos:prefLabel "Female"@en, "Ženské"@cs;
+    skos:notation "ženské" .
 }

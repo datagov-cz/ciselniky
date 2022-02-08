@@ -1,3 +1,3 @@
-číselník,číselník_název_cs,číselník_název_en,položka,číselník_položka_název_cs,číselník_položka_název_en
-https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví,Pohlaví,Sex,https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské,Mužské,Male
-https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví,Pohlaví,Sex,https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské,Ženské,Female
+číselník,číselník_název_cs,číselník_název_en,číselník_položka,číselník_položka_kód,číselník_položka_název_cs,číselník_položka_název_en
+https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví,Pohlaví,Sex,https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské,mužské,Mužské,Male
+https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví,Pohlaví,Sex,https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské,ženské,Ženské,Female

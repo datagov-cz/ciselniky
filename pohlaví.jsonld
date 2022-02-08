@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví",
   "typ": "Číselník",
   "název": {
@@ -11,6 +11,7 @@
 {
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské",
+      "kód": "mužské",
       "název": {
           "cs":  "Mužské",
           "en":  "Male"
@@ -18,6 +19,7 @@
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské",
+      "kód": "ženské",
       "název": {
           "cs":  "Ženské",
           "en":  "Female"

@@ -2,408 +2,506 @@
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> {
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> a skos:ConceptScheme;
-    skos:prefLabel "Sports"@en .
+    skos:prefLabel "Sports"@en, "Sporty"@cs .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aerobik> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Aerobic"@en, "Aerobik"@cs .
-  
-  <https://data.mvcr.gov.cz/zdroj/číselníky/sporty> skos:prefLabel "Sporty"@cs .
+    skos:prefLabel "Aerobic"@en, "Aerobik"@cs;
+    skos:notation "aerobik" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/aikido> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Aikido"@cs, "Aikido"@en .
+    skos:prefLabel "Aikido"@cs, "Aikido"@en;
+    skos:notation "aikido" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/americký-fotbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "American football"@en, "Americký fotbal"@cs .
+    skos:prefLabel "American football"@en, "Americký fotbal"@cs;
+    skos:notation "americký-fotbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/atletika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Athletics"@en, "Atletika"@cs .
+    skos:prefLabel "Athletics"@en, "Atletika"@cs;
+    skos:notation "atletika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/badminton> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Badminton"@cs, "Badminton"@en .
+    skos:prefLabel "Badminton"@cs, "Badminton"@en;
+    skos:notation "badminton" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/balet> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Balet"@cs, "Balet"@en .
+    skos:prefLabel "Balet"@cs, "Balet"@en;
+    skos:notation "balet" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/baseball> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Baseball"@cs, "Baseball"@en .
+    skos:prefLabel "Baseball"@cs, "Baseball"@en;
+    skos:notation "baseball" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/basketbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Basketbal"@cs, "Basketball"@en .
+    skos:prefLabel "Basketbal"@cs, "Basketball"@en;
+    skos:notation "basketbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/beachvoleybal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Beachvoleybal"@en, "Plážový volejbal"@cs .
+    skos:prefLabel "Beachvoleybal"@en, "Plážový volejbal"@cs;
+    skos:notation "beachvoleybal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Běh"@cs, "Running"@en .
+    skos:prefLabel "Běh"@cs, "Running"@en;
+    skos:notation "běh" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/běh-na-lyžích> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Běh na lyžích"@cs, "Cross country skiing"@en .
+    skos:prefLabel "Běh na lyžích"@cs, "Cross country skiing"@en;
+    skos:notation "běh-na-lyžích" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/biathlon> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Biathlon"@cs, "Biathlon"@en .
+    skos:prefLabel "Biathlon"@cs, "Biathlon"@en;
+    skos:notation "biathlon" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/boby> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Bobsleigh"@en, "Boby"@cs .
+    skos:prefLabel "Bobsleigh"@en, "Boby"@cs;
+    skos:notation "boby" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bowling> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Bowling"@cs, "Bowling"@en .
+    skos:prefLabel "Bowling"@cs, "Bowling"@en;
+    skos:notation "bowling" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/box> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Box"@cs, "Box"@en .
+    skos:prefLabel "Box"@cs, "Box"@en;
+    skos:notation "box" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/breakdance> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Breakdance"@cs, "Breakdance"@en .
+    skos:prefLabel "Breakdance"@cs, "Breakdance"@en;
+    skos:notation "breakdance" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cricket> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Cricket"@en, "Kriket"@cs .
+    skos:prefLabel "Cricket"@en, "Kriket"@cs;
+    skos:notation "cricket" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/croquet> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Croquet"@en, "Kroket"@cs .
+    skos:prefLabel "Croquet"@en, "Kroket"@cs;
+    skos:notation "croquet" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/curling> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Curling"@cs, "Curling"@en .
+    skos:prefLabel "Curling"@cs, "Curling"@en;
+    skos:notation "curling" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/cyklistika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Cycling"@en, "Cyklistika"@cs .
+    skos:prefLabel "Cycling"@en, "Cyklistika"@cs;
+    skos:notation "cyklistika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/e-sporty> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "E-sports"@en, "E-sporty"@cs .
+    skos:prefLabel "E-sports"@en, "E-sporty"@cs;
+    skos:notation "e-sporty" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/florbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Floorball"@en, "Florbal"@cs .
+    skos:prefLabel "Floorball"@en, "Florbal"@cs;
+    skos:notation "florbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/fotbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Football"@en, "Fotbal"@cs .
+    skos:prefLabel "Football"@en, "Fotbal"@cs;
+    skos:notation "fotbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/frisbee> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Frisbee"@cs, "Frisbee"@en .
+    skos:prefLabel "Frisbee"@cs, "Frisbee"@en;
+    skos:notation "frisbee" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/futsal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Futsal"@cs, "Futsal"@en .
+    skos:prefLabel "Futsal"@cs, "Futsal"@en;
+    skos:notation "futsal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/golf> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Golf"@cs, "Golf"@en .
+    skos:prefLabel "Golf"@cs, "Golf"@en;
+    skos:notation "golf" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/házená> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Handball"@en, "Házená"@cs .
+    skos:prefLabel "Handball"@en, "Házená"@cs;
+    skos:notation "házená" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/hokejbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Hockeyball"@en, "Hokejbal"@cs .
+    skos:prefLabel "Hockeyball"@en, "Hokejbal"@cs;
+    skos:notation "hokejbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/horolezectví> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Climbing"@en, "Horolezectví"@cs .
+    skos:prefLabel "Climbing"@en, "Horolezectví"@cs;
+    skos:notation "horolezectví" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/in-line-bruslení> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "In-line bruslení"@cs, "In-line skating"@en .
+    skos:prefLabel "In-line bruslení"@cs, "In-line skating"@en;
+    skos:notation "in-line-bruslení" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jachting> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Jachting"@cs, "Yachting"@en .
+    skos:prefLabel "Jachting"@cs, "Yachting"@en;
+    skos:notation "jachting" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jezdectví> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Horse riding"@en, "Jezdectví"@cs .
+    skos:prefLabel "Horse riding"@en, "Jezdectví"@cs;
+    skos:notation "jezdectví" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jiné> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Jiné"@cs, "Other"@en .
+    skos:prefLabel "Jiné"@cs, "Other"@en;
+    skos:notation "jiné" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/jóga> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Jóga"@cs, "Yoga"@en .
+    skos:prefLabel "Jóga"@cs, "Yoga"@en;
+    skos:notation "jóga" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/judo> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Judo"@cs, "Judo"@en .
+    skos:prefLabel "Judo"@cs, "Judo"@en;
+    skos:notation "judo" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kanoistika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Canoeing"@en, "Kanoistika"@cs .
+    skos:prefLabel "Canoeing"@en, "Kanoistika"@cs;
+    skos:notation "kanoistika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/karate> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Carate"@en, "Karate"@cs .
+    skos:prefLabel "Carate"@en, "Karate"@cs;
+    skos:notation "karate" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kickbox> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Kickbox"@cs, "Kickbox"@en .
+    skos:prefLabel "Kickbox"@cs, "Kickbox"@en;
+    skos:notation "kickbox" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kolová> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Cycle ball"@en, "Kolová"@cs .
+    skos:prefLabel "Cycle ball"@en, "Kolová"@cs;
+    skos:notation "kolová" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/korfbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Korfbal"@cs, "Korfball"@en .
+    skos:prefLabel "Korfbal"@cs, "Korfball"@en;
+    skos:notation "korfbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/krasobruselní> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Figure skating"@en, "Krasobruselní"@cs .
+    skos:prefLabel "Figure skating"@en, "Krasobruselní"@cs;
+    skos:notation "krasobruselní" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulečník> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Kulečník"@cs, "Snooker"@en .
+    skos:prefLabel "Kulečník"@cs, "Snooker"@en;
+    skos:notation "kulečník" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kulturistika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Body-building"@en, "Kulturistika"@cs .
+    skos:prefLabel "Body-building"@en, "Kulturistika"@cs;
+    skos:notation "kulturistika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/kuželky> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Kuželky"@cs, "Skittles"@en .
+    skos:prefLabel "Kuželky"@cs, "Skittles"@en;
+    skos:notation "kuželky" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lakros> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Lacros"@en, "Lakros"@cs .
+    skos:prefLabel "Lacros"@en, "Lakros"@cs;
+    skos:notation "lakros" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lední-hokej> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Ice hockey"@en, "Lední hokej"@cs .
+    skos:prefLabel "Ice hockey"@en, "Lední hokej"@cs;
+    skos:notation "lední-hokej" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/letectví> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Aviation"@en, "Letectví"@cs .
+    skos:prefLabel "Aviation"@en, "Letectví"@cs;
+    skos:notation "letectví" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lukostřelba> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Archery"@en, "Lukostřelba"@cs .
+    skos:prefLabel "Archery"@en, "Lukostřelba"@cs;
+    skos:notation "lukostřelba" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/lyžování> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Lyžování"@cs, "Skiing"@en .
+    skos:prefLabel "Lyžování"@cs, "Skiing"@en;
+    skos:notation "lyžování" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/malá-kopaná> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Five-a-side football"@en, "Malá kopaná"@cs .
+    skos:prefLabel "Malá kopaná"@cs, "Five-a-side football"@en;
+    skos:notation "malá-kopaná" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/minigolf> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Minigolf"@cs, "Minigolf"@en .
+    skos:prefLabel "Minigolf"@cs, "Minigolf"@en;
+    skos:notation "minigolf" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/moderní-gymnastika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Modern gymnastics"@en, "Moderní gymnastika"@cs .
+    skos:prefLabel "Modern gymnastics"@en, "Moderní gymnastika"@cs;
+    skos:notation "moderní-gymnastika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motokros> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Motocross"@en, "Motokros"@cs .
+    skos:prefLabel "Motocross"@en, "Motokros"@cs;
+    skos:notation "motokros" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/motorismus> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Motorism"@en, "Motorismus"@cs .
+    skos:prefLabel "Motorism"@en, "Motorismus"@cs;
+    skos:notation "motorismus" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/národní-házená> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "National handball"@en, "Národní házená"@cs .
+    skos:prefLabel "National handball"@en, "Národní házená"@cs;
+    skos:notation "národní-házená" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/nohejbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Futnet"@en, "Nohejbal"@cs .
+    skos:prefLabel "Futnet"@en, "Nohejbal"@cs;
+    skos:notation "nohejbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/orientační-běh> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Orientační běh"@cs, "Orienteering"@en .
+    skos:prefLabel "Orientační běh"@cs, "Orienteering"@en;
+    skos:notation "orientační-běh" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/parkour> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Parkour"@cs, "Parkour"@en .
+    skos:prefLabel "Parkour"@cs, "Parkour"@en;
+    skos:notation "parkour" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/petanque> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Petanque"@cs, "Petanque"@en .
+    skos:prefLabel "Petanque"@cs, "Petanque"@en;
+    skos:notation "petanque" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pětiboj> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Pentathlon"@en, "Pětiboj"@cs .
+    skos:prefLabel "Pentathlon"@en, "Pětiboj"@cs;
+    skos:notation "pětiboj" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pilates> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Pilates"@cs, "Pilates"@en .
+    skos:prefLabel "Pilates"@cs, "Pilates"@en;
+    skos:notation "pilates" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/plavání> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Plavání"@cs, "Swimming"@en .
+    skos:prefLabel "Plavání"@cs, "Swimming"@en;
+    skos:notation "plavání" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/poker> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Poker"@cs, "Poker"@en .
+    skos:prefLabel "Poker"@cs, "Poker"@en;
+    skos:notation "poker" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/posilování> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Fitness"@en, "Posilování"@cs .
+    skos:prefLabel "Fitness"@en, "Posilování"@cs;
+    skos:notation "posilování" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/potápění> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Diving"@en, "Potápění"@cs .
+    skos:prefLabel "Diving"@en, "Potápění"@cs;
+    skos:notation "potápění" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/pozemní-hokej> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Field hockey"@en, "Pozemní hokej"@cs .
+    skos:prefLabel "Field hockey"@en, "Pozemní hokej"@cs;
+    skos:notation "pozemní-hokej" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rafting> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Rafting"@cs, "Rafting"@en .
+    skos:prefLabel "Rafting"@cs, "Rafting"@en;
+    skos:notation "rafting" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/ragby> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Ragby"@cs, "Rugby"@en .
+    skos:prefLabel "Ragby"@cs, "Rugby"@en;
+    skos:notation "ragby" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/raketbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Racquetball"@en, "Raketbal"@cs .
+    skos:prefLabel "Racquetball"@en, "Raketbal"@cs;
+    skos:notation "raketbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/rychlobruslení> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Rychlobruslení"@cs, "Speedskating"@en .
+    skos:prefLabel "Rychlobruslení"@cs, "Speedskating"@en;
+    skos:notation "rychlobruslení" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skateboarding> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Skateboarding"@cs, "Skateboarding"@en .
+    skos:prefLabel "Skateboarding"@cs, "Skateboarding"@en;
+    skos:notation "skateboarding" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/skeleton> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Skeleton"@cs, "Skeleton"@en .
+    skos:prefLabel "Skeleton"@cs, "Skeleton"@en;
+    skos:notation "skeleton" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sledge-hokej> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Sledge hokej"@cs, "Sledge hokej"@en .
+    skos:prefLabel "Sledge hokej"@cs, "Sledge hokej"@en;
+    skos:notation "sledge-hokej" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snooker> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Snooker"@cs, "Snooker"@en .
+    skos:prefLabel "Snooker"@cs, "Snooker"@en;
+    skos:notation "snooker" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/snowboarding> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Snowboarding"@cs, "Snowboarding"@en .
+    skos:prefLabel "Snowboarding"@cs, "Snowboarding"@en;
+    skos:notation "snowboarding" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/softbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Softbal"@cs, "Softball"@en .
+    skos:prefLabel "Softbal"@cs, "Softball"@en;
+    skos:notation "softbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/spinning> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Spinning"@cs, "Spinning"@en .
+    skos:prefLabel "Spinning"@cs, "Spinning"@en;
+    skos:notation "spinning" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-gymnastika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Sport gymnastics"@en, "Sportovní gymnastika"@cs .
+    skos:prefLabel "Sport gymnastics"@en, "Sportovní gymnastika"@cs;
+    skos:notation "sportovní-gymnastika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-rybaření> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Fishing"@en, "Sportovní rybaření"@cs .
+    skos:prefLabel "Fishing"@en, "Sportovní rybaření"@cs;
+    skos:notation "sportovní-rybaření" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/sportovní-střelba> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Sport shooting"@en, "Sportovní střelba"@cs .
+    skos:prefLabel "Sport shooting"@en, "Sportovní střelba"@cs;
+    skos:notation "sportovní-střelba" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/squash> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Squash"@cs, "Squash"@en .
+    skos:prefLabel "Squash"@cs, "Squash"@en;
+    skos:notation "squash" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/stolní-tenis> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Stolní tenis"@cs, "Table tennis"@en .
+    skos:prefLabel "Stolní tenis"@cs, "Table tennis"@en;
+    skos:notation "stolní-tenis" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/surfování> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Surfing"@en, "Surfování"@cs .
+    skos:prefLabel "Surfing"@en, "Surfování"@cs;
+    skos:notation "surfování" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/synchronizované-plavání>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Synchronized swimming"@en, "Synchronizované plavání"@cs .
+    skos:prefLabel "Synchronized swimming"@en, "Synchronizované plavání"@cs;
+    skos:notation "synchronizované-plavání" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šachy> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Chess"@en, "Šachy"@cs .
+    skos:prefLabel "Chess"@en, "Šachy"@cs;
+    skos:notation "šachy" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/šerm> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Fencing"@en, "Šerm"@cs .
+    skos:prefLabel "Fencing"@en, "Šerm"@cs;
+    skos:notation "šerm" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taekwondo> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Taekwondo"@cs, "Taekwondo"@en .
+    skos:prefLabel "Taekwondo"@cs, "Taekwondo"@en;
+    skos:notation "taekwondo" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/taneční-sport> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Dance sports"@en, "Taneční sport"@cs .
+    skos:prefLabel "Dance sports"@en, "Taneční sport"@cs;
+    skos:notation "taneční-sport" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/tenis> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Tenis"@cs, "Tennis"@en .
+    skos:prefLabel "Tenis"@cs, "Tennis"@en;
+    skos:notation "tenis" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/triatlon> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Triathlon"@en, "Triatlon"@cs .
+    skos:prefLabel "Triathlon"@en, "Triatlon"@cs;
+    skos:notation "triatlon" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/turistika> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Hiking"@en, "Turistika"@cs .
+    skos:prefLabel "Hiking"@en, "Turistika"@cs;
+    skos:notation "turistika" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/veslování> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Rowing"@en, "Veslování"@cs .
+    skos:prefLabel "Rowing"@en, "Veslování"@cs;
+    skos:notation "veslování" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vodní-pólo> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Vodní pólo"@cs, "Water polo"@en .
+    skos:prefLabel "Vodní pólo"@cs, "Water polo"@en;
+    skos:notation "vodní-pólo" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/volejbal> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Volejbal"@cs, "Voleyball"@en .
+    skos:prefLabel "Volejbal"@cs, "Voleyball"@en;
+    skos:notation "volejbal" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/vzpírání> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Vzpírání"@cs, "Weightlifting"@en .
+    skos:prefLabel "Vzpírání"@cs, "Weightlifting"@en;
+    skos:notation "vzpírání" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/workout> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Workout"@cs, "Workout"@en .
+    skos:prefLabel "Workout"@cs, "Workout"@en;
+    skos:notation "workout" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zápas> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Wrestling"@en, "Zápas"@cs .
+    skos:prefLabel "Wrestling"@en, "Zápas"@cs;
+    skos:notation "zápas" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/zumba> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Zumba"@cs, "Zumba"@en .
+    skos:prefLabel "Zumba"@cs, "Zumba"@en;
+    skos:notation "zumba" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/streetball> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Streetball"@cs, "Streetball"@en .
+    skos:prefLabel "Streetball"@cs, "Streetball"@en;
+    skos:notation "streetball" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/sporty/položky/bruslení> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/sporty>;
-    skos:prefLabel "Bruslení"@cs, "Skating"@en .
+    skos:prefLabel "Bruslení"@cs, "Skating"@en;
+    skos:notation "bruslení" .
 }

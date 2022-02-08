@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Dohoda o pracovní činnosti</skos:prefLabel>
+	<skos:notation>dpč</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů">
@@ -22,24 +23,28 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Dohoda o provedení práce</skos:prefLabel>
+	<skos:notation>dpp</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Pracovní poměr - plný úvazek</skos:prefLabel>
+	<skos:notation>plný-úvazek</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Pracovní poměr - zkrácený úvazek</skos:prefLabel>
+	<skos:notation>zkrácený-úvazek</skos:notation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Služební poměr</skos:prefLabel>
+	<skos:notation>služební-poměr</skos:notation>
 </rdf:Description>
 
 </rdf:RDF>

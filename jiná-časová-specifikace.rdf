@@ -5,24 +5,26 @@
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-	<skos:prefLabel xml:lang="cs">Jiná časová specifikace</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Other time specification</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/dobré-počasí">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace"/>
-	<skos:prefLabel xml:lang="cs">Dobré počasí</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Good weather</skos:prefLabel>
+	<skos:notation>dobré-počasí</skos:notation>
+	<skos:prefLabel xml:lang="cs">Dobré počasí</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace">
-	<skos:prefLabel xml:lang="en">Other time specification</skos:prefLabel>
+	<skos:prefLabel xml:lang="cs">Jiná časová specifikace</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace/položky/špatné-počasí">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/jiná-časová-specifikace"/>
 	<skos:prefLabel xml:lang="en">Bad weather</skos:prefLabel>
+	<skos:notation>špatné-počasí</skos:notation>
 	<skos:prefLabel xml:lang="cs">Špatné počasí</skos:prefLabel>
 </rdf:Description>
 

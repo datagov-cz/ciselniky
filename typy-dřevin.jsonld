@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin",
   "typ": "Číselník",
   "název": {
@@ -10,72 +10,84 @@
 {
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-les",
+      "kód": "jehličnatý-les",
       "název": {
           "cs":  "Jehličnatý les"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/jehličnatý-strom",
+      "kód": "jehličnatý-strom",
       "název": {
           "cs":  "Jehličnatý strom"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/keř",
+      "kód": "keř",
       "název": {
           "cs":  "Keř"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-les",
+      "kód": "listnatý-les",
       "název": {
           "cs":  "Listnatý les"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/listnatý-strom",
+      "kód": "listnatý-strom",
       "název": {
           "cs":  "Listantý strom"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/oblast-dřevin",
+      "kód": "oblast-dřevin",
       "název": {
           "cs":  "Oblast dřevin"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/park",
+      "kód": "park",
       "název": {
           "cs":  "Park"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-jehličnatých-stromů",
+      "kód": "skupina-jehličnatých-stromů",
       "název": {
           "cs":  "Skupina jehličnatých stromů"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-listnatých-stromů",
+      "kód": "skupina-listnatých-stromů",
       "název": {
           "cs":  "Skupina listnatých stromů"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/skupina-stromů",
+      "kód": "skupina-stromů",
       "název": {
           "cs":  "Skupina stromů"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/smíšený-les",
+      "kód": "smíšený-les",
       "název": {
           "cs":  "Smíšený les"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-dřevin/položky/strom",
+      "kód": "strom",
       "název": {
           "cs":  "Strom"
       }

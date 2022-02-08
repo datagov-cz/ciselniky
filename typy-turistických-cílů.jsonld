@@ -1,6 +1,6 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů",
   "typ": "Číselník",
   "název": {
@@ -10,17 +10,19 @@
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní",
-      "název": {
-          "cs":  "Kulturní",
-          "en":  "Manmade"
-      }
-    },{
-      "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/přírodní",
+      "kód": "přírodní",
       "název": {
           "cs":  "Přírodní",
           "en":  "Natural"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-turistických-cílů/položky/kulturní",
+      "kód": "kulturní",
+      "název": {
+          "cs":  "Kulturní",
+          "en":  "Manmade"
       }
     }
   ]

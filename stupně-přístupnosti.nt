@@ -3,13 +3,16 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Accessible"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> <http://www.w3.org/2004/02/skos/core#notation> "přístupný" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/přístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Přístupný"@cs .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> <http://www.w3.org/2004/02/skos/core#prefLabel> "Číselník pro stupně přístupnosti"@cs .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partially accessible"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> <http://www.w3.org/2004/02/skos/core#notation> "částečně-přístupný" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/částečně-přístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Částečně přístupný"@cs .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti> .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Difficult to access or inaccessible"@en .
+<https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> <http://www.w3.org/2004/02/skos/core#notation> "obtížně-přístupný-nebo-nepřístupný" .
 <https://data.mvcr.gov.cz/zdroj/číselníky/stupně-přístupnosti/položky/obtížně-přístupný-nebo-nepřístupný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obtížně přístupný nebo nepřístupný"@cs .

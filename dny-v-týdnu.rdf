@@ -12,6 +12,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="en">Monday</skos:prefLabel>
+	<skos:notation>pondělí</skos:notation>
 	<skos:prefLabel xml:lang="cs">Pondělí</skos:prefLabel>
 </rdf:Description>
 
@@ -23,20 +24,23 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="en">Tuesday</skos:prefLabel>
+	<skos:notation>úterý</skos:notation>
 	<skos:prefLabel xml:lang="cs">Úterý</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/středa">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
-	<skos:prefLabel xml:lang="cs">Středa</skos:prefLabel>
 	<skos:prefLabel xml:lang="en">Wednesday</skos:prefLabel>
+	<skos:notation>středa</skos:notation>
+	<skos:prefLabel xml:lang="cs">Středa</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu/položky/čtvrtek">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="en">Thursday</skos:prefLabel>
+	<skos:notation>čtvrtek</skos:notation>
 	<skos:prefLabel xml:lang="cs">Čtvrtek</skos:prefLabel>
 </rdf:Description>
 
@@ -44,6 +48,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="en">Friday</skos:prefLabel>
+	<skos:notation>pátek</skos:notation>
 	<skos:prefLabel xml:lang="cs">Pátek</skos:prefLabel>
 </rdf:Description>
 
@@ -51,6 +56,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="en">Saturday</skos:prefLabel>
+	<skos:notation>sobota</skos:notation>
 	<skos:prefLabel xml:lang="cs">Sobota</skos:prefLabel>
 </rdf:Description>
 
@@ -58,6 +64,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/dny-v-týdnu"/>
 	<skos:prefLabel xml:lang="cs">Neděle</skos:prefLabel>
+	<skos:notation>neděle</skos:notation>
 	<skos:prefLabel xml:lang="en">Sunday</skos:prefLabel>
 </rdf:Description>
 

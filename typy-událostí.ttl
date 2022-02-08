@@ -3,62 +3,65 @@
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí> a skos:ConceptScheme;
   skos:prefLabel "Events themes"@en, "Typy událostí"@cs .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/kino>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/kino> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Cinema"@en, "Kino"@cs .
+  skos:prefLabel "Cinema"@en, "Kino"@cs;
+  skos:notation "kino" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/divadlo>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/divadlo> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Theatre"@en, "Divadlo"@cs .
+  skos:prefLabel "Theatre"@en, "Divadlo"@cs;
+  skos:notation "divadlo" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert> 
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/koncert> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Concert"@en, "Koncert"@cs . 
+  skos:prefLabel "Concert"@en, "Koncert"@cs;
+  skos:notation "koncert" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/výstava>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/výstava> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Exhibition"@en, "Výstava"@cs .
+  skos:prefLabel "Exhibition"@en, "Výstava"@cs;
+  skos:notation "výstava" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/veletrh>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/veletrh> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Fair"@en, "Veletrh"@cs .
+  skos:prefLabel "Fair"@en, "Veletrh"@cs;
+  skos:notation "veletrh" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/trh>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/trh> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Market"@en, "Trh"@cs .
+  skos:prefLabel "Market"@en, "Trh"@cs;
+  skos:notation "trh" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/přednáška>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/přednáška> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Lecture"@en, "Přednáška"@cs .
+  skos:prefLabel "Lecture"@en, "Přednáška"@cs;
+  skos:notation "přednáška" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/prohlídka>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/prohlídka> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Guiiding Tour"@en, "Prohlídka"@cs .
+  skos:prefLabel "Guiiding Tour"@en, "Prohlídka"@cs;
+  skos:notation "prohlídka" .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/pracovní-setkání>
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Work meeting"@en, "Pracovní setkání"@cs .
+  skos:prefLabel "Work meeting"@en, "Pracovní setkání"@cs;
+  skos:notation "pracovní-setkání" .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/konferenční-hovor>
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Conference call"@en, "Konferenční hovor"@cs .
+  skos:prefLabel "Conference call"@en, "Konferenční hovor"@cs;
+  skos:notation "konferenční-hovor" .
 
-<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/flashmob>
-  a skos:Concept;
+<https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/flashmob> a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Flashmob"@en, "Flashmob"@cs .
+  skos:prefLabel "Flashmob"@en, "Flashmob"@cs;
+  skos:notation "flashmob" .
 
 <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí/položky/umělecká-produkce>
   a skos:Concept;
   skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-událostí>;
-  skos:prefLabel "Art performance"@en, "Umělecká produkce"@cs .
+  skos:prefLabel "Art performance"@en, "Umělecká produkce"@cs;
+  skos:notation "umělecká-produkce" .
