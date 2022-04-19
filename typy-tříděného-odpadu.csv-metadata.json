@@ -1,6 +1,6 @@
 
 {
-	"@id": "https://data.mff.cuni.cz/soubory/číselníky/typy-tříděných-odpadů.csv-metadata.json",
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/typy-tříděného-odpadu.csv-metadata.json",
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
@@ -8,7 +8,7 @@
 		}
 	],
 	"@type": "Table",
-	"url": "typy-tříděných-odpadů.csv",
+	"url": "typy-tříděného-odpadu.csv",
 	"tableSchema": {
 		"@type": "Schema",
 		"columns": [{
