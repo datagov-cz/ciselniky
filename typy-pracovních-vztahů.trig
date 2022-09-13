@@ -6,29 +6,29 @@
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů>;
-    skos:prefLabel "Dohoda o pracovní činnosti"@cs;
+    skos:prefLabel "Dohoda o pracovní činnosti"@cs, "Agreement to Perform Work"@en;
     skos:notation "dpč" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp> a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů>;
-    skos:prefLabel "Dohoda o provedení práce"@cs;
+    skos:prefLabel "Dohoda o provedení práce"@cs, "Agreement to Complete a Job"@en;
     skos:notation "dpp" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů>;
-    skos:prefLabel "Pracovní poměr - plný úvazek"@cs;
+    skos:prefLabel "Pracovní poměr - plný úvazek"@cs, "Full time employment"@en;
     skos:notation "plný-úvazek" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů>;
-    skos:prefLabel "Pracovní poměr - zkrácený úvazek"@cs;
+    skos:prefLabel "Pracovní poměr - zkrácený úvazek"@cs, "Part time employment"@en;
     skos:notation "zkrácený-úvazek" .
   
   <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr>
     a skos:Concept;
     skos:inScheme <https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů>;
-    skos:prefLabel "Služební poměr"@cs;
+    skos:prefLabel "Služební poměr"@cs, "Civil service employment"@en;
     skos:notation "služební-poměr" .
 }

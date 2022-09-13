@@ -1,6 +1,6 @@
-číselník,číselník_název_cs,číselník_položka,číselník_položka_kód,číselník_položka_název_cs
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč,dpč,Dohoda o pracovní činnosti
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp,dpp,Dohoda o provedení práce
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek,plný-úvazek,Pracovní poměr - plný úvazek
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek,zkrácený-úvazek,Pracovní poměr - zkrácený úvazek
-https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr,služební-poměr,Služební poměr
+číselník,číselník_název_cs,číselník_název_en,číselník_položka,číselník_položka_kód,číselník_položka_název_cs,číselník_položka_název_en
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,Employment relation types,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč,dpč,Dohoda o pracovní činnosti,Agreement to Perform Work
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,Employment relation types,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp,dpp,Dohoda o provedení práce,Agreement to Complete a Job
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,Employment relation types,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek,plný-úvazek,Pracovní poměr - plný úvazek,Full time employment
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,Employment relation types,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek,zkrácený-úvazek,Pracovní poměr - zkrácený úvazek,Part time employment
+https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů,Typy pracovních vztahů,Employment relation types,https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr,služební-poměr,Služební poměr,Civil service employment

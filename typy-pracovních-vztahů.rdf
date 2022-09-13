@@ -13,6 +13,7 @@
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Dohoda o pracovní činnosti</skos:prefLabel>
 	<skos:notation>dpč</skos:notation>
+	<skos:prefLabel xml:lang="en">Agreement to Perform Work</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů">
@@ -24,6 +25,7 @@
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Dohoda o provedení práce</skos:prefLabel>
 	<skos:notation>dpp</skos:notation>
+	<skos:prefLabel xml:lang="en">Agreement to Complete a Job</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek">
@@ -31,6 +33,7 @@
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Pracovní poměr - plný úvazek</skos:prefLabel>
 	<skos:notation>plný-úvazek</skos:notation>
+	<skos:prefLabel xml:lang="en">Full time employment</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek">
@@ -38,6 +41,7 @@
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Pracovní poměr - zkrácený úvazek</skos:prefLabel>
 	<skos:notation>zkrácený-úvazek</skos:notation>
+	<skos:prefLabel xml:lang="en">Part time employment</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr">
@@ -45,6 +49,7 @@
 	<skos:inScheme rdf:resource="https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů"/>
 	<skos:prefLabel xml:lang="cs">Služební poměr</skos:prefLabel>
 	<skos:notation>služební-poměr</skos:notation>
+	<skos:prefLabel xml:lang="en">Civil service employment</skos:prefLabel>
 </rdf:Description>
 
 </rdf:RDF>

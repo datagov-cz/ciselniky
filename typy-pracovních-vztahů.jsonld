@@ -4,7 +4,8 @@
   "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů",
   "typ": "Číselník",
   "název": {
-      "cs":  "Typy pracovních vztahů"
+      "cs":  "Typy pracovních vztahů",
+      "en":  "Employment relation types"
   },
   "položky": [
 {
@@ -12,35 +13,40 @@
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpč",
       "kód": "dpč",
       "název": {
-          "cs":  "Dohoda o pracovní činnosti"
+          "cs":  "Dohoda o pracovní činnosti",
+          "en":  "Agreement to Perform Work"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/dpp",
       "kód": "dpp",
       "název": {
-          "cs":  "Dohoda o provedení práce"
+          "cs":  "Dohoda o provedení práce",
+          "en":  "Agreement to Complete a Job"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/plný-úvazek",
       "kód": "plný-úvazek",
       "název": {
-          "cs":  "Pracovní poměr - plný úvazek"
+          "cs":  "Pracovní poměr - plný úvazek",
+          "en":  "Full time employment"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/zkrácený-úvazek",
       "kód": "zkrácený-úvazek",
       "název": {
-          "cs":  "Pracovní poměr - zkrácený úvazek"
+          "cs":  "Pracovní poměr - zkrácený úvazek",
+          "en":  "Part time employment"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mvcr.gov.cz/zdroj/číselníky/typy-pracovních-vztahů/položky/služební-poměr",
       "kód": "služební-poměr",
       "název": {
-          "cs":  "Služební poměr"
+          "cs":  "Služební poměr",
+          "en":  "Civil service employment"
       }
     }
   ]
