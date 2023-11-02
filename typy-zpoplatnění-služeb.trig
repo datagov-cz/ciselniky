@@ -1,0 +1,24 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb> {
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb> a skos:ConceptScheme;
+    skos:prefLabel "Types of service monetization"@en, "Typy zpoplatnění služeb"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/ČástečněPlacená>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb>;
+    skos:prefLabel "Partially paid"@en, "Částečně Placená"@cs;
+    skos:notation "ČástečněPlacená" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Placená>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb>;
+    skos:prefLabel "Paid"@en, "Placená"@cs;
+    skos:notation "Placená" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Zdarma> a
+      skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb>;
+    skos:prefLabel "Free"@en, "Zdarma"@cs;
+    skos:notation "Zdarma" .
+}

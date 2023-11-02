@@ -1,0 +1,22 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace> a skos:ConceptScheme;
+  skos:prefLabel "States of registered application"@en, "Stavy registrované aplikace"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Funkční>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace>;
+  skos:prefLabel "Functional"@en, "Funkční"@cs;
+  skos:notation "Funkční" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Nefunkční>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace>;
+  skos:prefLabel "Non-functional"@en, "Nefunkční"@cs;
+  skos:notation "Nefunkční" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Archivovaná>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace>;
+  skos:prefLabel "Archived"@en, "Archivovaná"@cs;
+  skos:notation "Archivovaná" .

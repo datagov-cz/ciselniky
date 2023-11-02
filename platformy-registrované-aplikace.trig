@@ -1,0 +1,24 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací> {
+  <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací> a skos:ConceptScheme;
+    skos:prefLabel "Registered application's plaforms"@en, "Platformy registrovaných aplikací"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Android>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací>;
+    skos:prefLabel "Android"@en, "Android"@cs;
+    skos:notation "Android" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Web>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací>;
+    skos:prefLabel "Web"@en, "Web"@cs;
+    skos:notation "Web" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Jiná>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací>;
+    skos:prefLabel "Other"@en, "Jiná"@cs;
+    skos:notation "Jiná" .
+}

@@ -1,0 +1,37 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Platformy registrovaných aplikací",
+      "en":  "Registered application's plaforms"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Android",
+      "kód": "Android",
+      "název": {
+          "cs":  "Android",
+          "en":  "Android"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Web",
+      "kód": "Web",
+      "název": {
+          "cs":  "Web",
+          "en":  "Web"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Jiná",
+      "kód": "Jiná",
+      "název": {
+          "cs":  "Jiná",
+          "en":  "Other"
+      }
+    }
+  ]
+}

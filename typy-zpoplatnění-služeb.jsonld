@@ -1,0 +1,37 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Typy zpoplatnění služeb",
+      "en":  "Types of service monetization"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/ČástečněPlacená",
+      "kód": "ČástečněPlacená",
+      "název": {
+          "cs":  "Částečně Placená",
+          "en":  "Partially paid"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Placená",
+      "kód": "Placená",
+      "název": {
+          "cs":  "Placená",
+          "en":  "Paid"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Zdarma",
+      "kód": "Zdarma",
+      "název": {
+          "cs":  "Zdarma",
+          "en":  "Free"
+      }
+    }
+  ]
+}

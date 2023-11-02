@@ -1,0 +1,37 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Stavy registrované aplikace",
+      "en":  "States of registered application"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Funkční",
+      "kód": "Funkční",
+      "název": {
+          "cs":  "Funkční",
+          "en":  "Functional"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Nefunkční",
+      "kód": "Nefunkční",
+      "název": {
+          "cs":  "Nefunkční",
+          "en":  "Non-functional"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-registrované-aplikace/položky/Archivovaná",
+      "kód": "Archivovaná",
+      "název": {
+          "cs":  "Archivovaná",
+          "en":  "Archived"
+      }
+    }
+  ]
+}

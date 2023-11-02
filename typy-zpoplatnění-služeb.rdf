@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Types of service monetization</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/ČástečněPlacená">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb"/>
+	<skos:prefLabel xml:lang="en">Partially paid</skos:prefLabel>
+	<skos:notation>ČástečněPlacená</skos:notation>
+	<skos:prefLabel xml:lang="cs">Částečně Placená</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb">
+	<skos:prefLabel xml:lang="cs">Typy zpoplatnění služeb</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Placená">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb"/>
+	<skos:prefLabel xml:lang="en">Paid</skos:prefLabel>
+	<skos:notation>Placená</skos:notation>
+	<skos:prefLabel xml:lang="cs">Placená</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb/položky/Zdarma">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-zpoplatnění-služeb"/>
+	<skos:prefLabel xml:lang="en">Free</skos:prefLabel>
+	<skos:notation>Zdarma</skos:notation>
+	<skos:prefLabel xml:lang="cs">Zdarma</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>
