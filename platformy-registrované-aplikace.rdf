@@ -8,16 +8,24 @@
 	<skos:prefLabel xml:lang="en">Registered application's plaforms</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/iOS">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací"/>
+	<skos:prefLabel xml:lang="en">iOS</skos:prefLabel>
+	<skos:notation>iOS</skos:notation>
+	<skos:prefLabel xml:lang="cs">iOS</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací">
+	<skos:prefLabel xml:lang="cs">Platformy registrovaných aplikací</skos:prefLabel>
+</rdf:Description>
+
 <rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Android">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací"/>
 	<skos:prefLabel xml:lang="en">Android</skos:prefLabel>
 	<skos:notation>Android</skos:notation>
 	<skos:prefLabel xml:lang="cs">Android</skos:prefLabel>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací">
-	<skos:prefLabel xml:lang="cs">Platformy registrovaných aplikací</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Web">

@@ -10,6 +10,14 @@
   "položky": [
 {
       "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/iOS",
+      "kód": "iOS",
+      "název": {
+          "cs":  "iOS",
+          "en":  "iOS"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Android",
       "kód": "Android",
       "název": {

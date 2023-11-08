@@ -3,6 +3,12 @@
 <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací> a skos:ConceptScheme;
   skos:prefLabel "Registered application's plaforms"@en, "Platformy registrovaných aplikací"@cs .
 
+<https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/iOS>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací>;
+  skos:prefLabel "iOS"@en, "iOS"@cs;
+  skos:notation "iOS" .
+
 <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací/položky/Android>
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/platformy-registrovaných-aplikací>;
