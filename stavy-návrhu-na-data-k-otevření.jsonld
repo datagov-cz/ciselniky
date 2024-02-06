@@ -1,0 +1,45 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Stavy návrhů na datové sady k otevření",
+      "en":  "States of proposals of datasets to be opened"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Publikováno",
+      "kód": "Publikováno",
+      "název": {
+          "cs":  "Publikováno",
+          "en":  "Published"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Přislíbeno",
+      "kód": "Přislíbeno",
+      "název": {
+          "cs":  "Přislíbeno",
+          "en":  "Promised"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Evidováno",
+      "kód": "Evidováno",
+      "název": {
+          "cs":  "Evidováno",
+          "en":  "Recorded"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/NelzePublikovat",
+      "kód": "Nelze publikovat",
+      "název": {
+          "cs":  "Nelze publikovat",
+          "en":  "Cannot be published"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">States of proposals of datasets to be opened</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Publikováno">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Published</skos:prefLabel>
+	<skos:notation>Publikováno</skos:notation>
+	<skos:prefLabel xml:lang="cs">Publikováno</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření">
+	<skos:prefLabel xml:lang="cs">Stavy návrhů na datové sady k otevření</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Přislíbeno">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Promised</skos:prefLabel>
+	<skos:notation>Přislíbeno</skos:notation>
+	<skos:prefLabel xml:lang="cs">Přislíbeno</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Evidováno">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Recorded</skos:prefLabel>
+	<skos:notation>Evidováno</skos:notation>
+	<skos:prefLabel xml:lang="cs">Evidováno</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/NelzePublikovat">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Cannot be published</skos:prefLabel>
+	<skos:notation>Nelze publikovat</skos:notation>
+	<skos:prefLabel xml:lang="cs">Nelze publikovat</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

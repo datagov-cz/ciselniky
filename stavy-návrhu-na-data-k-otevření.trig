@@ -1,0 +1,30 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření> {
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření> a skos:ConceptScheme;
+    skos:prefLabel "States of proposals of datasets to be opened"@en, "Stavy návrhů na datové sady k otevření"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Publikováno>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Published"@en, "Publikováno"@cs;
+    skos:notation "Publikováno" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Přislíbeno>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Promised"@en, "Přislíbeno"@cs;
+    skos:notation "Přislíbeno" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/Evidováno>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Recorded"@en, "Evidováno"@cs;
+    skos:notation "Evidováno" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/NelzePublikovat>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Cannot be published"@en, "Nelze publikovat"@cs;
+    skos:notation "Nelze publikovat" .
+}
