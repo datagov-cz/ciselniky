@@ -1,0 +1,138 @@
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix : <https://data.dia.gov.cz/zdroj/ciselniky/> .
+
+<https://data.dia.gov.cz/zdroj/ciselniky/> a owl:Ontology .
+
+<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje> a skos:Concept;
+  skos:inScheme :hvds;
+  skos:topConceptOf :hvds;
+  skos:prefLabel "Geospatial"@en, "Geoprostorové údaje"@cs;
+  skos:exactMatch <http://data.europa.eu/bna/c_ac64a52d> .
+
+<http://data.europa.eu/bna/asd487ae75> a skos:ConceptScheme;
+  skos:prefLabel "High-value dataset categories"@en .
+
+<http://data.europa.eu/bna/c_164e0bf5> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 3"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Метеорологични данни"@bg, "Meteorologie"@cs, "Meteorologiske data"@da,
+    "Meteorologie"@de, "Μετεωρολογικές πληροφορίες"@el, "Meteorological"@en, "Meteorología"@es,
+    "Meteoroloogiateave"@et, "Säätiedot"@fi, "Météorologiques"@fr, "Meitéareolaíoch"@ga,
+    "Meteorološki podatci"@hr, "Meteorológiai adatok"@hu, "Dati meteorologici"@it, "Meteorologiniai duomenys"@lt,
+    "Meteoroloģijas datu kopas"@lv, "Data meteoroloġika"@mt, "Meteorologische data"@nl,
+    "Dane meteorologiczne"@pl, "Meteorológicas"@pt, "Domeniul meteorologic"@ro, "Meteorológia"@sk,
+    "Meteorološki podatki"@sl, "Meteorologiska data"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 3 .
+
+<http://data.europa.eu/bna/c_a9135398> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 5"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Дружества и собственост на дружествата"@bg, "Společnosti a vlastnictví společností"@cs,
+    "Virksomheder og virksomhedsejerskab"@da, "Unternehmen und Eigentümerschaft von Unternehmen"@de,
+    "Εταιρείες και ιδιοκτησιακό καθεστώς εταιρειών"@el, "Companies and company ownership"@en,
+    "Sociedades y propiedad de sociedades"@es, "Äriühingud ja äriühingu omandisuhted"@et,
+    "Yritys- ja yritysten omistustiedot"@fi, "Entreprises et propriété d'entreprises"@fr,
+    "Cuideachtaí agus úinéireacht cuideachtaí"@ga, "Trgovačka društva i vlasništvo nad trgovačkim društvima"@hr,
+    "Vállalati és vállalattulajdonosi adatok"@hu, "Dati relativi alle imprese e alla proprietà delle imprese"@it,
+    "Bendrovės ir bendrovių valdymas nuosavybės teise"@lt, "Uzņēmumi un uzņēmumu īpašumtiesības"@lv,
+    "Data dwar il-kumpanniji u l-proprjetà tal-kumpanniji"@mt, "Bedrijven en eigendom van bedrijven"@nl,
+    "Dane dotyczące przedsiębiorstw i ich własności"@pl, "Empresas e propriedade de empresas"@pt,
+    "Domeniul Societăți și structura de proprietate a societăților"@ro, "Spoločnosti a vlastníctvo spoločností"@sk,
+    "Družbe in lastništvo družb"@sl, "Företag och företagsägande"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 5 .
+
+<http://data.europa.eu/bna/c_ac64a52d> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 1"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Geospatial"@en, "Geoprostorové údaje"@cs, "Геопространствени данни"@bg,
+    "Geospatiale data"@da, "Georaum"@de, "Γεωχωρικές πληροφορίες"@el, "Geoespacial"@es,
+    "Georuumilised andmed"@et, "Paikkatiedot"@fi, "Géospatiales"@fr, "Geospásúil"@ga,
+    "Geoprostorni podatci"@hr, "Térinformatikai adatok"@hu, "Dati geospaziali"@it, "Geoerdviniai duomenys"@lt,
+    "Ģeotelpisko datu kopas"@lv, "Data ġeospazjali"@mt, "Geospatiale data"@nl, "Dane geoprzestrzenne"@pl,
+    "Geoespaciais"@pt, "Domeniul geospațial"@ro, "Geopriestorové údaje"@sk, "Geoprostorski podatki"@sl,
+    "Geospatiala data"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 1 .
+
+<http://data.europa.eu/bna/c_b79e35eb> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 6"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Мобилност"@bg, "Mobilita"@cs, "Mobilitet"@da, "Mobilität"@de, "Κινητικότητα"@el,
+    "Mobility"@en, "Movilidad"@es, "Liikuvus"@et, "Liikkuvuustiedot"@fi, "Mobilité"@fr,
+    "Soghluaisteacht"@ga, "Mobilnost"@hr, "Mobilitási adatok"@hu, "Dati relativi alla mobilità"@it,
+    "Judumas"@lt, "Mobilitāte"@lv, "Data dwar il-mobbiltà"@mt, "Mobiliteit"@nl, "Dane dotyczące mobilności"@pl,
+    "Mobilidade"@pt, "Domeniul Mobilitate"@ro, "Mobilita"@sk, "Mobilnost"@sl, "Rörlighet"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 6 .
+
+<http://data.europa.eu/bna/c_dd313021> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 2"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Наблюдение на Земята и околната среда"@bg, "Země a životní prostředí"@cs,
+    "Jordobservation og miljø"@da, "Erdbeobachtung und Umwelt"@de, "Γεωσκόπηση και περιβάλλον"@el,
+    "Earth observation and environment"@en, "Observación de la Tierra y medio ambiente"@es,
+    "Maa seire ja keskkond"@et, "Maan havainnointi ja ympäristö"@fi, "Observation de la terre et environnement"@fr,
+    "Faire na cruinne agus an comhshaol"@ga, "Promatranje Zemlje i okoliš"@hr, "Földmegfigyelési és környezeti adatok"@hu,
+    "Dati relativi all'osservazione della terra e all'ambiente"@it, "Žemės stebėjimas ir aplinka"@lt,
+    "Zemes novērošana un vide"@lv, "Data dwar l-osservazzjoni tad-dinja u l-ambjent"@mt,
+    "Aardobservatie en milieu"@nl, "Dane dotyczące obserwacji Ziemi i środowiska"@pl,
+    "Observação da Terra e do ambiente"@pt, "Domeniul Observarea Pământului și mediu"@ro,
+    "Pozorovanie Zeme a životné prostredie"@sk, "Opazovanje zemlje in okolje"@sl, "Jordobservation och miljö"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 2 .
+
+<http://data.europa.eu/bna/c_e1da4e07> a skos:Concept;
+  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 4"@en;
+  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
+  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
+  skos:prefLabel "Статистика"@bg, "Statistika"@cs, "Statistik"@da, "Statistik"@de, "Στατιστικές"@el,
+    "Statistics"@en, "Estadística"@es, "Statistika"@et, "Tilastotiedot"@fi, "Statistiques"@fr,
+    "Staidreamh"@ga, "Statistički podatci"@hr, "Statisztikák"@hu, "Dati statistici"@it,
+    "Statistika"@lt, "Statistika"@lv, "Data statistika"@mt, "Statistiek"@nl, "Dane statystyczne"@pl,
+    "Estatísticas"@pt, "Domeniul statistic"@ro, "Štatistika"@sk, "Statistični podatki"@sl,
+    "Statistik"@sv;
+  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
+  dct:created "2023-09-05"^^xsd:date;
+  dct:modified "2023-09-13"^^xsd:date;
+  <http://publications.europa.eu/ontology/euvoc#order> 4 .
+
+:hvds a skos:ConceptScheme;
+  skos:prefLabel "hvds"@en .
+
+<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/správní-jednotky>
+  a skos:Concept;
+  skos:inScheme :hvds;
+  skos:prefLabel "Administrative units"@en, "Správní jednotky"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
+
+<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy>
+  a skos:Concept;
+  skos:inScheme :hvds;
+  skos:prefLabel "Geographical names"@en, "Zeměpisné názvy"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
