@@ -1,4 +1,3 @@
-@prefix : <https://data.dia.gov.cz/zdroj/ciselniky/> .
 @prefix grddl: <http://www.w3.org/2003/g/data-view#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -7,316 +6,676 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix : <https://data.dia.gov.cz/zdroj/ciselniky/> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/> a owl:Ontology .
-
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje> a skos:Concept;
-  skos:inScheme :hvds;
-  skos:topConceptOf :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Geospatial"@en, "Geoprostorové údaje"@cs;
   skos:exactMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-:hvds a skos:ConceptScheme;
-  skos:prefLabel "hvds"@en .
+<https://data.dia.gov.cz/zdroj/číselníky/hvds> a skos:ConceptScheme;
+  skos:prefLabel "High-Value Datasets"@en, "Datové sady s vysokou socio-ekonomickou hodnotou (HVDs)"@cs .
 
-<http://data.europa.eu/bna/c_ac64a52d> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 1"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Geospatial"@en, "Geoprostorové údaje"@cs, "Геопространствени данни"@bg,
-    "Geospatiale data"@da, "Georaum"@de, "Γεωχωρικές πληροφορίες"@el, "Geoespacial"@es,
-    "Georuumilised andmed"@et, "Paikkatiedot"@fi, "Géospatiales"@fr, "Geospásúil"@ga,
-    "Geoprostorni podatci"@hr, "Térinformatikai adatok"@hu, "Dati geospaziali"@it, "Geoerdviniai duomenys"@lt,
-    "Ģeotelpisko datu kopas"@lv, "Data ġeospazjali"@mt, "Geospatiale data"@nl, "Dane geoprzestrzenne"@pl,
-    "Geoespaciais"@pt, "Domeniul geospațial"@ro, "Geopriestorové údaje"@sk, "Geoprostorski podatki"@sl,
-    "Geospatiala data"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 1 .
-
-<http://data.europa.eu/bna/asd487ae75> a skos:ConceptScheme;
-  skos:prefLabel "High-value dataset categories"@en .
-
-<http://data.europa.eu/bna/c_164e0bf5> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 3"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Метеорологични данни"@bg, "Meteorologie"@cs, "Meteorologiske data"@da,
-    "Meteorologie"@de, "Μετεωρολογικές πληροφορίες"@el, "Meteorological"@en, "Meteorología"@es,
-    "Meteoroloogiateave"@et, "Säätiedot"@fi, "Météorologiques"@fr, "Meitéareolaíoch"@ga,
-    "Meteorološki podatci"@hr, "Meteorológiai adatok"@hu, "Dati meteorologici"@it, "Meteorologiniai duomenys"@lt,
-    "Meteoroloģijas datu kopas"@lv, "Data meteoroloġika"@mt, "Meteorologische data"@nl,
-    "Dane meteorologiczne"@pl, "Meteorológicas"@pt, "Domeniul meteorologic"@ro, "Meteorológia"@sk,
-    "Meteorološki podatki"@sl, "Meteorologiska data"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 3 .
-
-<http://data.europa.eu/bna/c_a9135398> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 5"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Дружества и собственост на дружествата"@bg, "Společnosti a vlastnictví společností"@cs,
-    "Virksomheder og virksomhedsejerskab"@da, "Unternehmen und Eigentümerschaft von Unternehmen"@de,
-    "Εταιρείες και ιδιοκτησιακό καθεστώς εταιρειών"@el, "Companies and company ownership"@en,
-    "Sociedades y propiedad de sociedades"@es, "Äriühingud ja äriühingu omandisuhted"@et,
-    "Yritys- ja yritysten omistustiedot"@fi, "Entreprises et propriété d'entreprises"@fr,
-    "Cuideachtaí agus úinéireacht cuideachtaí"@ga, "Trgovačka društva i vlasništvo nad trgovačkim društvima"@hr,
-    "Vállalati és vállalattulajdonosi adatok"@hu, "Dati relativi alle imprese e alla proprietà delle imprese"@it,
-    "Bendrovės ir bendrovių valdymas nuosavybės teise"@lt, "Uzņēmumi un uzņēmumu īpašumtiesības"@lv,
-    "Data dwar il-kumpanniji u l-proprjetà tal-kumpanniji"@mt, "Bedrijven en eigendom van bedrijven"@nl,
-    "Dane dotyczące przedsiębiorstw i ich własności"@pl, "Empresas e propriedade de empresas"@pt,
-    "Domeniul Societăți și structura de proprietate a societăților"@ro, "Spoločnosti a vlastníctvo spoločností"@sk,
-    "Družbe in lastništvo družb"@sl, "Företag och företagsägande"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 5 .
-
-<http://data.europa.eu/bna/c_b79e35eb> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 6"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Мобилност"@bg, "Mobilita"@cs, "Mobilitet"@da, "Mobilität"@de, "Κινητικότητα"@el,
-    "Mobility"@en, "Movilidad"@es, "Liikuvus"@et, "Liikkuvuustiedot"@fi, "Mobilité"@fr,
-    "Soghluaisteacht"@ga, "Mobilnost"@hr, "Mobilitási adatok"@hu, "Dati relativi alla mobilità"@it,
-    "Judumas"@lt, "Mobilitāte"@lv, "Data dwar il-mobbiltà"@mt, "Mobiliteit"@nl, "Dane dotyczące mobilności"@pl,
-    "Mobilidade"@pt, "Domeniul Mobilitate"@ro, "Mobilita"@sk, "Mobilnost"@sl, "Rörlighet"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 6 .
-
-<http://data.europa.eu/bna/c_dd313021> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 2"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Наблюдение на Земята и околната среда"@bg, "Země a životní prostředí"@cs,
-    "Jordobservation og miljø"@da, "Erdbeobachtung und Umwelt"@de, "Γεωσκόπηση και περιβάλλον"@el,
-    "Earth observation and environment"@en, "Observación de la Tierra y medio ambiente"@es,
-    "Maa seire ja keskkond"@et, "Maan havainnointi ja ympäristö"@fi, "Observation de la terre et environnement"@fr,
-    "Faire na cruinne agus an comhshaol"@ga, "Promatranje Zemlje i okoliš"@hr, "Földmegfigyelési és környezeti adatok"@hu,
-    "Dati relativi all'osservazione della terra e all'ambiente"@it, "Žemės stebėjimas ir aplinka"@lt,
-    "Zemes novērošana un vide"@lv, "Data dwar l-osservazzjoni tad-dinja u l-ambjent"@mt,
-    "Aardobservatie en milieu"@nl, "Dane dotyczące obserwacji Ziemi i środowiska"@pl,
-    "Observação da Terra e do ambiente"@pt, "Domeniul Observarea Pământului și mediu"@ro,
-    "Pozorovanie Zeme a životné prostredie"@sk, "Opazovanje zemlje in okolje"@sl, "Jordobservation och miljö"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 2 .
-
-<http://data.europa.eu/bna/c_e1da4e07> a skos:Concept;
-  skos:definition "data sets as described in Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use, Annex, Section 4"@en;
-  skos:inScheme <http://data.europa.eu/bna/asd487ae75>;
-  skos:topConceptOf <http://data.europa.eu/bna/asd487ae75>;
-  skos:prefLabel "Статистика"@bg, "Statistika"@cs, "Statistik"@da, "Statistik"@de, "Στατιστικές"@el,
-    "Statistics"@en, "Estadística"@es, "Statistika"@et, "Tilastotiedot"@fi, "Statistiques"@fr,
-    "Staidreamh"@ga, "Statistički podatci"@hr, "Statisztikák"@hu, "Dati statistici"@it,
-    "Statistika"@lt, "Statistika"@lv, "Data statistika"@mt, "Statistiek"@nl, "Dane statystyczne"@pl,
-    "Estatísticas"@pt, "Domeniul statistic"@ro, "Štatistika"@sk, "Statistični podatki"@sl,
-    "Statistik"@sv;
-  <http://publications.europa.eu/ontology/euvoc#startDate> "2019-07-06"^^xsd:date;
-  dct:created "2023-09-05"^^xsd:date;
-  dct:modified "2023-09-13"^^xsd:date;
-  <http://publications.europa.eu/ontology/euvoc#order> 4 .
-
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/správní-jednotky>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/správní-jednotky>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Administrative units"@en, "Správní jednotky"@cs;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Geographical names"@en, "Zeměpisné názvy"@cs;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/adresy>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/adresy>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Addresses"@en, "Adresy"@cs;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-udaje/budovy>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/budovy>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Buildings"@en, "Budovy"@cs;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-udaje/katastrální-parcely>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/katastrální-parcely>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Katastrální parcely"@cs, "Cadastral parcels"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/referenční-pozemky>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/referenční-pozemky>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Reference parcels"@en, "Referenční pozemky"@cs;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje/zemědělské-pozemky>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zemědělské-pozemky>
   a skos:Concept;
-  skos:inScheme :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Zemědělské pozemky"@cs, "Agricultural parcels"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/geoprostorové-údaje>;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:topConceptOf :hvds;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Earth observation and environment"@en, "Pozorování Země a životní prostředí"@cs;
   skos:exactMatch <http://data.europa.eu/bna/c_dd313021> .
 
-:c_6cc39667 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/bioregiony>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Bioregiony"@cs, "Bio-geographical regions"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/chráněná-území>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Chráněná území"@cs, "Protected sites"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/emise>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Emise"@cs, "Emissions"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/energetické-zdroje>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Energetické zdroje"@cs, "Energy Resources"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/geologie>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Geologie"@cs, "Geology"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/hluk>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Hluk"@cs, "Noise"@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Meteorological"@en, "Meteorologické údaje"@cs;
+  skos:exactMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/klimatické-údaje-ověřená-pozorování>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Climate data: validated observations"@en, "Klimatické údaje: ověřená pozorování"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/meteorologická-upozornění>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Weather alerts"@en, "Meteorologická upozornění"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/radarové-údaje>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Radar data"@en, "Radarové údaje"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-modelu-numerických-předpovědí-počasí>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "NWP model data"@en, "Údaje z modelu numerických předpovědí počasí"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-pozorování-naměřené-v-meteorologických-stanicích>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Observations data measured by weather stations"@en, "Údaje z pozorování naměřené v meteorologických stanicích"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Statistika"@cs, "Statistics"@en;
+  skos:exactMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-hlavní-souhrnné-ukazatele-hdp>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "National accounts – GDP main aggregates"@en, "Národní účty – hlavní souhrnné ukazatele HDP"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-podniky>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "National accounts – key indicators on corporations"@en, "Národní účty – klíčové ukazatele zaměřené na podniky"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-domácnosti>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "National accounts – key indicators on households"@en, "Národní účty – klíčové ukazatele zaměřené na domácnosti"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/výdaje-a-příjmy-vládních-institucí>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Government expenditure and revenue"@en, "Výdaje a příjmy vládních institucí"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/konsolidovaný-hrubý-veřejný-dluh>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Consolidated government gross debt"@en, "Konsolidovaný hrubý veřejný dluh"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/environmentální-účty-a-statistické-údaje>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Environmental accounts and statistics"@en, "Environmentální účty a statistické údaje"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace-plodnost-úmrtnost>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Population, Fertility, Mortality"@en, "Populace, plodnost, úmrtnost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Population"@en, "Populace"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/plodnost> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Fertility"@en, "Plodnost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/úmrtnost> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Mortality"@en, "Úmrtnost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/běžné-výdaje-na-zdravotní-péči>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Current healthcare expenditure"@en, "Běžné výdaje na zdravotní péči"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/chudoba> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Poverty"@en, "Chudoba"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nerovnost> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Inequality"@en, "Nerovnost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/zaměstnanost> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Employment"@en, "Zaměstnanost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nezaměstnanost> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Unemployment"@en, "Nezaměstnanost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/statistika/potenciální-pracovní-síla>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Potential labour force"@en, "Potenciální pracovní síla"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vodopis>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Vodopis"@cs, "Hydrography"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_c1f35b09 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nadmořská-výška>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Nadmořská výška"@cs, "Elevation"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_a9f30e49 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/krajinný-pokryv>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Krajinný pokryv"@cs, "Land cover"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_fd459ec1 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ortofotosnímky>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Ortofotosnímky"@cs, "Orthoimagery"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_cfbece66 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Správní oblasti / chráněná pásma / regulovaná území a jednotky podávající hlášení"@cs,
     "Area management / restriction / regulation zones & reporting units"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_81088e1c a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zařízení-pro-sledování-životního-prostředí>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Zařízení pro sledování životního prostředí"@cs, "Environmental monitoring Facilities"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_883a087a a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/stanoviště-a-biotopy>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Stanoviště a biotopy"@cs, "Habitats and biotopes"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_9becb663 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/využití-území>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Využití území"@cs, "Land Use"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_db52042f a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nerostné-suroviny>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Nerostné suroviny"@cs, "Mineral Resources"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_19a98404 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/oblasti-ohrožené-přírodními-riziky>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Oblasti ohrožené přírodními riziky"@cs, "Natural risk zones"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_ae13bf90 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zeměpisné-oceánografické-prvky>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Zeměpisné oceánografické prvky"@cs, "Oceanographic geographical features"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_2c4dd130 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/výrobní-a-průmyslová-zařízení>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Výrobní a průmyslová zařízení"@cs, "Production and industrial facilities"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_c4e7b7d3 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/mořské-oblasti>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Mořské oblasti"@cs, "Sea regions"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_e2b3fedf a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/půda>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Půda"@cs, "Soil"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_7b9de334 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/rozložení-druhů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Rozložení druhů"@cs, "Species distribution"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_03685a3a a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vzduch>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Vzduch"@cs, "Air"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_364e36ec a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/klima>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Klima"@cs, "Climate"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_6562f29c a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ochrana-přírody-a-biologická-rozmanitost>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Ochrana přírody a biologická rozmanitost"@cs, "Nature preservation and biodiversity"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_f0e24390 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/odpad>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Odpad"@cs, "Waste"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_b082797e a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/voda>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Voda"@cs, "Water"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-:c_ebeed229 a skos:Concept;
-  skos:inScheme :hvds;
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/horizontální-právní-předpisy>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Horizontální právní předpisy"@cs, "Horizontal legislation"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/bioregiony>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/průmyslová-výroba>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Bioregiony"@cs, "Bio-geographical regions"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Industrial production"@en, "Průmyslová výroba"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/chráněná-území>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/členění-indexu-cen-průmyslových-výrobců-podle-činnosti>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Chráněná území"@cs, "Protected sites"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Industrial producer price index breakdowns by activity"@en, "Členění indexu cen průmyslových výrobců podle činnosti"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/emise>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/objem-prodeje-podle-činnosti>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Emise"@cs, "Emissions"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Volume of sales by activity"@en, "Objem prodeje podle činnosti"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/energetické-zdroje>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/statistika-mezinárodního-obchodu-EU-se-zbožím>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Energetické zdroje"@cs, "Energy Resources"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel """Statistika mezinárodního obchodu EU se zbožím – vývoz a dovoz, 
+členění zároveň podle partnerů, výrobků a toků"""@cs,
+    """EU International trade in goods statistics – exports and imports
+breakdowns simultaneously by partner, product and flow"""@en;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/geologie>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/toky-cestovního-ruchu-v-evropě>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Geologie"@cs, "Geology"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Tourism flows in Europe"@en, "Toky cestovního ruchu v Evropě"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
 
-<https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí/hluk>
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/harmonizované-indexy-spotřebitelských-cen>
   a skos:Concept;
-  skos:inScheme :hvds;
-  skos:prefLabel "Hluk"@cs, "Noise"@en;
-  skos:broader <https://data.dia.gov.cz/zdroj/ciselniky/hvds/položky/pozorování-země-a-životní-prostředí> .
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Harmonised Indices of consumer prices"@en, "Harmonizované indexy spotřebitelských cen"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika>;
+  skos:broadMatch <http://data.europa.eu/bna/c_e1da4e07> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Společnosti a vlastnictví společností"@cs, "Companies and company ownership"@en;
+  skos:exactMatch <http://data.europa.eu/bna/c_a9135398> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/základní-informace-o-společnosti-klíčové-atributy>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Basic company information: key attributes"@en, "Základní informace o společnosti: klíčové atributy"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností>;
+  skos:broadMatch <http://data.europa.eu/bna/c_a9135398> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/dokumenty-a-účty-společnosti>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Company documents and accounts"@en, "Dokumenty a účty společnosti"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností>;
+  skos:broadMatch <http://data.europa.eu/bna/c_a9135398> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:topConceptOf <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Mobilita"@cs, "Mobility"@en;
+  skos:exactMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/dopravní-sítě> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Transport networks"@en, "Dopravní sítě"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Inland waterways datasets"@en, "Datové soubory týkající se vnitrozemských vodních cest"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/vlastnosti-plavební-dráhy>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Fairway characteristics"@en, "Vlastnosti plavební dráhy"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dlouhodobé-překážky-na-plavební-dráze-a-spolehlivost>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Long-time obstructions in the fairway and reliability"@en, "Dlouhodobé překážky na plavební dráze a spolehlivost"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/výše-poplatků-za-užívání-infrastruktury-vodních-cest>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Rates of waterway infrastructure charges"@en, "Výše poplatků za užívání infrastruktury vodních cest"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/další-fyzická-omezení-na-vodních-cestách>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Other physical limitations on waterways"@en, "Další fyzická omezení na vodních cestách"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidelné-provozní-doby-plavebních-komor-a-mostů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Regular lock and bridge operating times"@en, "Pravidelné provozní doby plavebních komor a mostů"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-a-vlastnosti-přístavů-a-překladišť>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Location and characteristics of ports and transhipment sites"@en,
+    "Umístění a vlastnosti přístavů a překladišť"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/seznam-pomůcek-pro-plavbu-a-dopravního-značení>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "List of navigation aids and traffic signs"@en, "Seznam pomůcek pro plavbu a dopravního značení"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidla-a-doporučení-týkající-se-plavby>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Navigation rules and recommendations"@en, "Pravidla a doporučení týkající se plavby"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-hloubky-vody-v-plavebním-kanálu>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Water depths contours in the navigation channel"@en, "Obrysy hloubky vody v plavebním kanálu"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dočasné-částečné-uzávěry-na-vodní-cestě>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Temporary obstructions in the fairway"@en, "Dočasné částečné uzávěry na vodní cestě"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stávající-a-budoucí-vodní-stavy-u-vodočtů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Present and future water levels at gauges"@en, "Stávající a budoucí vodní stavy u vodočtů"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stav-řek-kanálů-zdymadel-a-mostů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "State of the rivers, canals, locks and bridges"@en, "Stav řek, kanálů, zdymadel a mostů"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/omezení-způsobená-povodní-a-ledem>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Restrictions caused by flood and ice"@en, "Omezení způsobená povodní a ledem"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-provozních-dob-plavebních-komor-a-mostů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Short term changes of lock and bridge operating times"@en, "Krátkodobé změny provozních dob plavebních komor a mostů"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-pomůcek-pro-plavbu>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Short term changes of aids to navigation"@en, "Krátkodobé změny pomůcek pro plavbu"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/osa-vodní-cesty-s-uvedením-kilometráže>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Waterway axis with kilometres indication"@en, "Osa vodní cesty s uvedením kilometráže"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/odkazy-na-externí-soubory-xml-s-provozními-dobami-omezujících-infrastruktur>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Links to the external xml-files with operation times of restricting structures"@en,
+    "Odkazy na externí soubory xml s provozními dobami omezujících infrastruktur"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-přístavů-a-překladišť>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Location of ports and transhipment sites"@en, "Umístění přístavů a překladišť"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/referenční-údaje-pro-vodočty-které-jsou-důležité-pro-plavbu>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Reference data for water level gauges relevant to navigation"@en,
+    "Referenční údaje pro vodočty, které jsou důležité pro plavbu"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/břeh-vodní-cesty-při-střední-hladině-vody>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Bank of waterway at mean water level"@en, "Břeh vodní cesty při střední hladině vody"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/sestavení-pobřežní-čáry>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Shoreline construction"@en, "Sestavení pobřežní čáry"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-zdymadel-a-přehrad>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Contours of locks and dams"@en, "Obrysy zdymadel a přehrad"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/hranice-plavební-dráhy-plavebního-kanálu>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Boundaries of the fairway/navigation channel"@en, "Hranice plavební dráhy / plavebního kanálu"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/izolovaná-nebezpečí-v-plavební-dráze-plavebním-kanálu-pod-a-nad-hladinou>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Isolated dangers in the fairway/navigation channel under and above water"@en,
+    "Izolovaná nebezpečí v plavební dráze / plavebním kanálu pod a nad hladinou"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
+
+<https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/oficiální-podpůrné-prostředky-pro-plavbu>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
+  skos:prefLabel "Official aids-to-navigation (e.g. buoys, beacons, lights, notice marks)"@en,
+    "Oficiální podpůrné prostředky pro plavbu (např. bóje, pobřežní znaky, majáky, výstražné značky)"@cs;
+  skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>;
+  skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
