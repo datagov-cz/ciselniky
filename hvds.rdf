@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">High-Value Datasets</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Geospatial</skos:prefLabel>
+	<skos:notation>geoprostorové-údaje</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Geoprostorové údaje</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:prefLabel xml:lang="cs">Datové sady s vysokou socio-ekonomickou hodnotou (HVDs)</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/správní-jednotky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Administrative units</skos:prefLabel>
+	<skos:notation>správní-jednotky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/au"/>
+	<skos:prefLabel xml:lang="cs">Správní jednotky</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Geographical names</skos:prefLabel>
+	<skos:notation>zeměpisné-názvy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/gn"/>
+	<skos:prefLabel xml:lang="cs">Zeměpisné názvy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/adresy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Addresses</skos:prefLabel>
+	<skos:notation>adresy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/ad"/>
+	<skos:prefLabel xml:lang="cs">Adresy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/budovy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Buildings</skos:prefLabel>
+	<skos:notation>budovy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/bu"/>
+	<skos:prefLabel xml:lang="cs">Budovy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/katastrální-parcely">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Katastrální parcely</skos:prefLabel>
+	<skos:notation>katastrální-parcely</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/cp"/>
+	<skos:prefLabel xml:lang="en">Cadastral parcels</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/referenční-pozemky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Reference parcels</skos:prefLabel>
+	<skos:notation>referenční-pozemky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:prefLabel xml:lang="cs">Referenční pozemky</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zemědělské-pozemky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Zemědělské pozemky</skos:prefLabel>
+	<skos:notation>zemědělské-pozemky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+	<skos:prefLabel xml:lang="en">Agricultural parcels</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Earth observation and environment</skos:prefLabel>
+	<skos:notation>pozorování-země-a-životní-prostředí</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_dd313021"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Pozorování Země a životní prostředí</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/bioregiony">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Bioregiony</skos:prefLabel>
+	<skos:notation>bioregiony</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/br"/>
+	<skos:prefLabel xml:lang="en">Bio-geographical regions</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/chráněná-území">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Chráněná území</skos:prefLabel>
+	<skos:notation>chráněná-území</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/ps"/>
+	<skos:prefLabel xml:lang="en">Protected sites</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/emise">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Emise</skos:prefLabel>
+	<skos:notation>emise</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Emissions</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/energetické-zdroje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Energetické zdroje</skos:prefLabel>
+	<skos:notation>energetické-zdroje</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/er"/>
+	<skos:prefLabel xml:lang="en">Energy Resources</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/geologie">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Geologie</skos:prefLabel>
+	<skos:notation>geologie</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/ge"/>
+	<skos:prefLabel xml:lang="en">Geology</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/hluk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Hluk</skos:prefLabel>
+	<skos:notation>hluk</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Noise</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Meteorological</skos:prefLabel>
+	<skos:notation>meteorologické-údaje</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Meteorologické údaje</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/klimatické-údaje-ověřená-pozorování">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Climate data: validated observations</skos:prefLabel>
+	<skos:notation>klimatické-údaje-ověřená-pozorování</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="cs">Klimatické údaje: ověřená pozorování</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/meteorologická-upozornění">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Weather alerts</skos:prefLabel>
+	<skos:notation>meteorologická-upozornění</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="cs">Meteorologická upozornění</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/radarové-údaje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Radar data</skos:prefLabel>
+	<skos:notation>radarové-údaje</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="cs">Radarové údaje</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-modelu-numerických-předpovědí-počasí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">NWP model data</skos:prefLabel>
+	<skos:notation>údaje-z-modelu-numerických-předpovědí-počasí</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="cs">Údaje z modelu numerických předpovědí počasí</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-pozorování-naměřené-v-meteorologických-stanicích">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Observations data measured by weather stations</skos:prefLabel>
+	<skos:notation>údaje-z-pozorování-naměřené-v-meteorologických-stanicích</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="cs">Údaje z pozorování naměřené v meteorologických stanicích</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Statistika</skos:prefLabel>
+	<skos:notation>statistika</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Statistics</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-hlavní-souhrnné-ukazatele-hdp">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">National accounts – GDP main aggregates</skos:prefLabel>
+	<skos:notation>národní-účty-hlavní-souhrnné-ukazatele-hdp</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Národní účty – hlavní souhrnné ukazatele HDP</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-podniky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">National accounts – key indicators on corporations</skos:prefLabel>
+	<skos:notation>národní-účty-klíčové-ukazatele-zaměřené-na-podniky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Národní účty – klíčové ukazatele zaměřené na podniky</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-domácnosti">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">National accounts – key indicators on households</skos:prefLabel>
+	<skos:notation>národní-účty-klíčové-ukazatele-zaměřené-na-domácnosti</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Národní účty – klíčové ukazatele zaměřené na domácnosti</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/výdaje-a-příjmy-vládních-institucí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Government expenditure and revenue</skos:prefLabel>
+	<skos:notation>výdaje-a-příjmy-vládních-institucí</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Výdaje a příjmy vládních institucí</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/konsolidovaný-hrubý-veřejný-dluh">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Consolidated government gross debt</skos:prefLabel>
+	<skos:notation>konsolidovaný-hrubý-veřejný-dluh</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Konsolidovaný hrubý veřejný dluh</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/environmentální-účty-a-statistické-údaje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Environmental accounts and statistics</skos:prefLabel>
+	<skos:notation>environmentální-účty-a-statistické-údaje</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Environmentální účty a statistické údaje</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace-plodnost-úmrtnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Population, Fertility, Mortality</skos:prefLabel>
+	<skos:notation>populace-plodnost-úmrtnost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Populace, plodnost, úmrtnost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Population</skos:prefLabel>
+	<skos:notation>populace</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Populace</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/plodnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Fertility</skos:prefLabel>
+	<skos:notation>plodnost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Plodnost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/úmrtnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Mortality</skos:prefLabel>
+	<skos:notation>úmrtnost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Úmrtnost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/běžné-výdaje-na-zdravotní-péči">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Current healthcare expenditure</skos:prefLabel>
+	<skos:notation>běžné-výdaje-na-zdravotní-péči</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Běžné výdaje na zdravotní péči</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/chudoba">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Poverty</skos:prefLabel>
+	<skos:notation>chudoba</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Chudoba</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nerovnost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Inequality</skos:prefLabel>
+	<skos:notation>nerovnost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Nerovnost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/zaměstnanost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Employment</skos:prefLabel>
+	<skos:notation>zaměstnanost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Zaměstnanost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nezaměstnanost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Unemployment</skos:prefLabel>
+	<skos:notation>nezaměstnanost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Nezaměstnanost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/statistika/potenciální-pracovní-síla">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Potential labour force</skos:prefLabel>
+	<skos:notation>potenciální-pracovní-síla</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Potenciální pracovní síla</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vodopis">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Vodopis</skos:prefLabel>
+	<skos:notation>vodopis</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/hy"/>
+	<skos:prefLabel xml:lang="en">Hydrography</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nadmořská-výška">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Nadmořská výška</skos:prefLabel>
+	<skos:notation>nadmořská-výška</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/el"/>
+	<skos:prefLabel xml:lang="en">Elevation</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/krajinný-pokryv">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Krajinný pokryv</skos:prefLabel>
+	<skos:notation>krajinný-pokryv</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/lc"/>
+	<skos:prefLabel xml:lang="en">Land cover</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ortofotosnímky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Ortofotosnímky</skos:prefLabel>
+	<skos:notation>ortofotosnímky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/oi"/>
+	<skos:prefLabel xml:lang="en">Orthoimagery</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Správní oblasti / chráněná pásma / regulovaná území a jednotky podávající hlášení</skos:prefLabel>
+	<skos:notation>správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/am"/>
+	<skos:prefLabel xml:lang="en">Area management / restriction / regulation zones &amp; reporting units</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zařízení-pro-sledování-životního-prostředí">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Zařízení pro sledování životního prostředí</skos:prefLabel>
+	<skos:notation>zařízení-pro-sledování-životního-prostředí</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/ef"/>
+	<skos:prefLabel xml:lang="en">Environmental monitoring Facilities</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/stanoviště-a-biotopy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Stanoviště a biotopy</skos:prefLabel>
+	<skos:notation>stanoviště-a-biotopy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/hb"/>
+	<skos:prefLabel xml:lang="en">Habitats and biotopes</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/využití-území">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Využití území</skos:prefLabel>
+	<skos:notation>využití-území</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/lu"/>
+	<skos:prefLabel xml:lang="en">Land Use</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nerostné-suroviny">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Nerostné suroviny</skos:prefLabel>
+	<skos:notation>nerostné-suroviny</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/mr"/>
+	<skos:prefLabel xml:lang="en">Mineral Resources</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/oblasti-ohrožené-přírodními-riziky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Oblasti ohrožené přírodními riziky</skos:prefLabel>
+	<skos:notation>oblasti-ohrožené-přírodními-riziky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
+	<skos:prefLabel xml:lang="en">Natural risk zones</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zeměpisné-oceánografické-prvky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Zeměpisné oceánografické prvky</skos:prefLabel>
+	<skos:notation>zeměpisné-oceánografické-prvky</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/of"/>
+	<skos:prefLabel xml:lang="en">Oceanographic geographical features</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/výrobní-a-průmyslová-zařízení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Výrobní a průmyslová zařízení</skos:prefLabel>
+	<skos:notation>výrobní-a-průmyslová-zařízení</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/pf"/>
+	<skos:prefLabel xml:lang="en">Production and industrial facilities</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/mořské-oblasti">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Mořské oblasti</skos:prefLabel>
+	<skos:notation>mořské-oblasti</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/sr"/>
+	<skos:prefLabel xml:lang="en">Sea regions</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/půda">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Půda</skos:prefLabel>
+	<skos:notation>půda</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/so"/>
+	<skos:prefLabel xml:lang="en">Soil</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/rozložení-druhů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Rozložení druhů</skos:prefLabel>
+	<skos:notation>rozložení-druhů</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:exactMatch rdf:resource="http://inspire.ec.europa.eu/theme/sd"/>
+	<skos:prefLabel xml:lang="en">Species distribution</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vzduch">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Vzduch</skos:prefLabel>
+	<skos:notation>vzduch</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Air</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/klima">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Klima</skos:prefLabel>
+	<skos:notation>klima</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Climate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ochrana-přírody-a-biologická-rozmanitost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Ochrana přírody a biologická rozmanitost</skos:prefLabel>
+	<skos:notation>ochrana-přírody-a-biologická-rozmanitost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Nature preservation and biodiversity</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/odpad">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Odpad</skos:prefLabel>
+	<skos:notation>odpad</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Waste</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/voda">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Voda</skos:prefLabel>
+	<skos:notation>voda</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Water</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/horizontální-právní-předpisy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Horizontální právní předpisy</skos:prefLabel>
+	<skos:notation>horizontální-právní-předpisy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_164e0bf5"/>
+	<skos:prefLabel xml:lang="en">Horizontal legislation</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/průmyslová-výroba">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Industrial production</skos:prefLabel>
+	<skos:notation>průmyslová-výroba</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Průmyslová výroba</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/členění-indexu-cen-průmyslových-výrobců-podle-činnosti">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Industrial producer price index breakdowns by activity</skos:prefLabel>
+	<skos:notation>členění-indexu-cen-průmyslových-výrobců-podle-činnosti</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Členění indexu cen průmyslových výrobců podle činnosti</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/objem-prodeje-podle-činnosti">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Volume of sales by activity</skos:prefLabel>
+	<skos:notation>objem-prodeje-podle-činnosti</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Objem prodeje podle činnosti</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/statistika-mezinárodního-obchodu-EU-se-zbožím">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Statistika mezinárodního obchodu EU se zbožím – vývoz a dovoz, 
+členění zároveň podle partnerů, výrobků a toků</skos:prefLabel>
+	<skos:notation>statistika-mezinárodního-obchodu-EU-se-zbožím</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="en">EU International trade in goods statistics – exports and imports
+breakdowns simultaneously by partner, product and flow</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/toky-cestovního-ruchu-v-evropě">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Tourism flows in Europe</skos:prefLabel>
+	<skos:notation>toky-cestovního-ruchu-v-evropě</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Toky cestovního ruchu v Evropě</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/harmonizované-indexy-spotřebitelských-cen">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Harmonised Indices of consumer prices</skos:prefLabel>
+	<skos:notation>harmonizované-indexy-spotřebitelských-cen</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_e1da4e07"/>
+	<skos:prefLabel xml:lang="cs">Harmonizované indexy spotřebitelských cen</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Společnosti a vlastnictví společností</skos:prefLabel>
+	<skos:notation>společnosti-a-vlastnictví-společností</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_a9135398"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Companies and company ownership</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/základní-informace-o-společnosti-klíčové-atributy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Basic company information: key attributes</skos:prefLabel>
+	<skos:notation>základní-informace-o-společnosti-klíčové-atributy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_a9135398"/>
+	<skos:prefLabel xml:lang="cs">Základní informace o společnosti: klíčové atributy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/dokumenty-a-účty-společnosti">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Company documents and accounts</skos:prefLabel>
+	<skos:notation>dokumenty-a-účty-společnosti</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_a9135398"/>
+	<skos:prefLabel xml:lang="cs">Dokumenty a účty společnosti</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds">
+	<skos:hasTopConcept rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="cs">Mobilita</skos:prefLabel>
+	<skos:notation>mobilita</skos:notation>
+	<skos:exactMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:topConceptOf rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Mobility</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/dopravní-sítě">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Transport networks</skos:prefLabel>
+	<skos:notation>dopravní-sítě</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Dopravní sítě</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Inland waterways datasets</skos:prefLabel>
+	<skos:notation>vnitrozemské-vodní-cesty</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Datové soubory týkající se vnitrozemských vodních cest</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/vlastnosti-plavební-dráhy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Fairway characteristics</skos:prefLabel>
+	<skos:notation>vlastnosti-plavební-dráhy</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Vlastnosti plavební dráhy</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dlouhodobé-překážky-na-plavební-dráze-a-spolehlivost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Long-time obstructions in the fairway and reliability</skos:prefLabel>
+	<skos:notation>dlouhodobé-překážky-na-plavební-dráze-a-spolehlivost</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Dlouhodobé překážky na plavební dráze a spolehlivost</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/výše-poplatků-za-užívání-infrastruktury-vodních-cest">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Rates of waterway infrastructure charges</skos:prefLabel>
+	<skos:notation>výše-poplatků-za-užívání-infrastruktury-vodních-cest</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Výše poplatků za užívání infrastruktury vodních cest</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/další-fyzická-omezení-na-vodních-cestách">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Other physical limitations on waterways</skos:prefLabel>
+	<skos:notation>další-fyzická-omezení-na-vodních-cestách</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Další fyzická omezení na vodních cestách</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidelné-provozní-doby-plavebních-komor-a-mostů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Regular lock and bridge operating times</skos:prefLabel>
+	<skos:notation>pravidelné-provozní-doby-plavebních-komor-a-mostů</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Pravidelné provozní doby plavebních komor a mostů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-a-vlastnosti-přístavů-a-překladišť">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Location and characteristics of ports and transhipment sites</skos:prefLabel>
+	<skos:notation>umístění-a-vlastnosti-přístavů-a-překladišť</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Umístění a vlastnosti přístavů a překladišť</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/seznam-pomůcek-pro-plavbu-a-dopravního-značení">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">List of navigation aids and traffic signs</skos:prefLabel>
+	<skos:notation>seznam-pomůcek-pro-plavbu-a-dopravního-značení</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Seznam pomůcek pro plavbu a dopravního značení</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidla-a-doporučení-týkající-se-plavby">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Navigation rules and recommendations</skos:prefLabel>
+	<skos:notation>pravidla-a-doporučení-týkající-se-plavby</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Pravidla a doporučení týkající se plavby</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-hloubky-vody-v-plavebním-kanálu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Water depths contours in the navigation channel</skos:prefLabel>
+	<skos:notation>obrysy-hloubky-vody-v-plavebním-kanálu</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Obrysy hloubky vody v plavebním kanálu</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dočasné-částečné-uzávěry-na-vodní-cestě">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Temporary obstructions in the fairway</skos:prefLabel>
+	<skos:notation>dočasné-částečné-uzávěry-na-vodní-cestě</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Dočasné částečné uzávěry na vodní cestě</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stávající-a-budoucí-vodní-stavy-u-vodočtů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Present and future water levels at gauges</skos:prefLabel>
+	<skos:notation>stávající-a-budoucí-vodní-stavy-u-vodočtů</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Stávající a budoucí vodní stavy u vodočtů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stav-řek-kanálů-zdymadel-a-mostů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">State of the rivers, canals, locks and bridges</skos:prefLabel>
+	<skos:notation>stav-řek-kanálů-zdymadel-a-mostů</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Stav řek, kanálů, zdymadel a mostů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/omezení-způsobená-povodní-a-ledem">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Restrictions caused by flood and ice</skos:prefLabel>
+	<skos:notation>omezení-způsobená-povodní-a-ledem</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Omezení způsobená povodní a ledem</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-provozních-dob-plavebních-komor-a-mostů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Short term changes of lock and bridge operating times</skos:prefLabel>
+	<skos:notation>krátkodobé-změny-provozních-dob-plavebních-komor-a-mostů</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Krátkodobé změny provozních dob plavebních komor a mostů</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-pomůcek-pro-plavbu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Short term changes of aids to navigation</skos:prefLabel>
+	<skos:notation>krátkodobé-změny-pomůcek-pro-plavbu</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Krátkodobé změny pomůcek pro plavbu</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/osa-vodní-cesty-s-uvedením-kilometráže">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Waterway axis with kilometres indication</skos:prefLabel>
+	<skos:notation>osa-vodní-cesty-s-uvedením-kilometráže</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Osa vodní cesty s uvedením kilometráže</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/odkazy-na-externí-soubory-xml-s-provozními-dobami-omezujících-infrastruktur">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Links to the external xml-files with operation times of restricting structures</skos:prefLabel>
+	<skos:notation>odkazy-na-externí-soubory-xml-s-provozními-dobami-omezujících-infrastruktur</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Odkazy na externí soubory xml s provozními dobami omezujících infrastruktur</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-přístavů-a-překladišť">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Location of ports and transhipment sites</skos:prefLabel>
+	<skos:notation>umístění-přístavů-a-překladišť</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Umístění přístavů a překladišť</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/referenční-údaje-pro-vodočty-které-jsou-důležité-pro-plavbu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Reference data for water level gauges relevant to navigation</skos:prefLabel>
+	<skos:notation>referenční-údaje-pro-vodočty-které-jsou-důležité-pro-plavbu</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Referenční údaje pro vodočty, které jsou důležité pro plavbu</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/břeh-vodní-cesty-při-střední-hladině-vody">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Bank of waterway at mean water level</skos:prefLabel>
+	<skos:notation>břeh-vodní-cesty-při-střední-hladině-vody</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Břeh vodní cesty při střední hladině vody</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/sestavení-pobřežní-čáry">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Shoreline construction</skos:prefLabel>
+	<skos:notation>sestavení-pobřežní-čáry</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Sestavení pobřežní čáry</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-zdymadel-a-přehrad">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Contours of locks and dams</skos:prefLabel>
+	<skos:notation>obrysy-zdymadel-a-přehrad</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Obrysy zdymadel a přehrad</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/hranice-plavební-dráhy-plavebního-kanálu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Boundaries of the fairway/navigation channel</skos:prefLabel>
+	<skos:notation>hranice-plavební-dráhy-plavebního-kanálu</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Hranice plavební dráhy / plavebního kanálu</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/izolovaná-nebezpečí-v-plavební-dráze-plavebním-kanálu-pod-a-nad-hladinou">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Isolated dangers in the fairway/navigation channel under and above water</skos:prefLabel>
+	<skos:notation>izolovaná-nebezpečí-v-plavební-dráze-plavebním-kanálu-pod-a-nad-hladinou</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Izolovaná nebezpečí v plavební dráze / plavebním kanálu pod a nad hladinou</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/oficiální-podpůrné-prostředky-pro-plavbu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds"/>
+	<skos:prefLabel xml:lang="en">Official aids-to-navigation (e.g. buoys, beacons, lights, notice marks)</skos:prefLabel>
+	<skos:notation>oficiální-podpůrné-prostředky-pro-plavbu</skos:notation>
+	<skos:broader rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"/>
+	<skos:broadMatch rdf:resource="http://data.europa.eu/bna/c_b79e35eb"/>
+	<skos:prefLabel xml:lang="cs">Oficiální podpůrné prostředky pro plavbu (např. bóje, pobřežní znaky, majáky, výstražné značky)</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,1411 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Datové sady s vysokou socio-ekonomickou hodnotou (HVDs)",
+      "en":  "High-Value Datasets"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje",
+      "kód": "geoprostorové-údaje",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "název": {
+          "cs":  "Geoprostorové údaje",
+          "en":  "Geospatial"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/správní-jednotky",
+      "kód": "správní-jednotky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/au"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Správní jednotky",
+          "en":  "Administrative units"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy",
+      "kód": "zeměpisné-názvy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/gn"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Zeměpisné názvy",
+          "en":  "Geographical names"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/adresy",
+      "kód": "adresy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/ad"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Adresy",
+          "en":  "Addresses"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/budovy",
+      "kód": "budovy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/bu"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Budovy",
+          "en":  "Buildings"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/katastrální-parcely",
+      "kód": "katastrální-parcely",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/cp"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Katastrální parcely",
+          "en":  "Cadastral parcels"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/referenční-pozemky",
+      "kód": "referenční-pozemky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Referenční pozemky",
+          "en":  "Reference parcels"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zemědělské-pozemky",
+      "kód": "zemědělské-pozemky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_ac64a52d"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje"
+      },
+      "název": {
+          "cs":  "Zemědělské pozemky",
+          "en":  "Agricultural parcels"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí",
+      "kód": "pozorování-země-a-životní-prostředí",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_dd313021"
+      },
+      "název": {
+          "cs":  "Pozorování Země a životní prostředí",
+          "en":  "Earth observation and environment"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/bioregiony",
+      "kód": "bioregiony",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/br"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Bioregiony",
+          "en":  "Bio-geographical regions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/chráněná-území",
+      "kód": "chráněná-území",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/ps"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Chráněná území",
+          "en":  "Protected sites"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/emise",
+      "kód": "emise",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Emise",
+          "en":  "Emissions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/energetické-zdroje",
+      "kód": "energetické-zdroje",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/er"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Energetické zdroje",
+          "en":  "Energy Resources"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/geologie",
+      "kód": "geologie",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/ge"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Geologie",
+          "en":  "Geology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/hluk",
+      "kód": "hluk",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Hluk",
+          "en":  "Noise"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje",
+      "kód": "meteorologické-údaje",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "název": {
+          "cs":  "Meteorologické údaje",
+          "en":  "Meteorological"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/klimatické-údaje-ověřená-pozorování",
+      "kód": "klimatické-údaje-ověřená-pozorování",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"
+      },
+      "název": {
+          "cs":  "Klimatické údaje: ověřená pozorování",
+          "en":  "Climate data: validated observations"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/meteorologická-upozornění",
+      "kód": "meteorologická-upozornění",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"
+      },
+      "název": {
+          "cs":  "Meteorologická upozornění",
+          "en":  "Weather alerts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/radarové-údaje",
+      "kód": "radarové-údaje",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"
+      },
+      "název": {
+          "cs":  "Radarové údaje",
+          "en":  "Radar data"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-modelu-numerických-předpovědí-počasí",
+      "kód": "údaje-z-modelu-numerických-předpovědí-počasí",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"
+      },
+      "název": {
+          "cs":  "Údaje z modelu numerických předpovědí počasí",
+          "en":  "NWP model data"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje/údaje-z-pozorování-naměřené-v-meteorologických-stanicích",
+      "kód": "údaje-z-pozorování-naměřené-v-meteorologických-stanicích",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/meteorologické-údaje"
+      },
+      "název": {
+          "cs":  "Údaje z pozorování naměřené v meteorologických stanicích",
+          "en":  "Observations data measured by weather stations"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika",
+      "kód": "statistika",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "název": {
+          "cs":  "Statistika",
+          "en":  "Statistics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-hlavní-souhrnné-ukazatele-hdp",
+      "kód": "národní-účty-hlavní-souhrnné-ukazatele-hdp",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Národní účty – hlavní souhrnné ukazatele HDP",
+          "en":  "National accounts – GDP main aggregates"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-podniky",
+      "kód": "národní-účty-klíčové-ukazatele-zaměřené-na-podniky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Národní účty – klíčové ukazatele zaměřené na podniky",
+          "en":  "National accounts – key indicators on corporations"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/národní-účty-klíčové-ukazatele-zaměřené-na-domácnosti",
+      "kód": "národní-účty-klíčové-ukazatele-zaměřené-na-domácnosti",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Národní účty – klíčové ukazatele zaměřené na domácnosti",
+          "en":  "National accounts – key indicators on households"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/výdaje-a-příjmy-vládních-institucí",
+      "kód": "výdaje-a-příjmy-vládních-institucí",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Výdaje a příjmy vládních institucí",
+          "en":  "Government expenditure and revenue"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/konsolidovaný-hrubý-veřejný-dluh",
+      "kód": "konsolidovaný-hrubý-veřejný-dluh",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Konsolidovaný hrubý veřejný dluh",
+          "en":  "Consolidated government gross debt"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/environmentální-účty-a-statistické-údaje",
+      "kód": "environmentální-účty-a-statistické-údaje",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Environmentální účty a statistické údaje",
+          "en":  "Environmental accounts and statistics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace-plodnost-úmrtnost",
+      "kód": "populace-plodnost-úmrtnost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Populace, plodnost, úmrtnost",
+          "en":  "Population, Fertility, Mortality"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/populace",
+      "kód": "populace",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Populace",
+          "en":  "Population"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/plodnost",
+      "kód": "plodnost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Plodnost",
+          "en":  "Fertility"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/úmrtnost",
+      "kód": "úmrtnost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Úmrtnost",
+          "en":  "Mortality"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/běžné-výdaje-na-zdravotní-péči",
+      "kód": "běžné-výdaje-na-zdravotní-péči",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Běžné výdaje na zdravotní péči",
+          "en":  "Current healthcare expenditure"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/chudoba",
+      "kód": "chudoba",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Chudoba",
+          "en":  "Poverty"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nerovnost",
+      "kód": "nerovnost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Nerovnost",
+          "en":  "Inequality"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/zaměstnanost",
+      "kód": "zaměstnanost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Zaměstnanost",
+          "en":  "Employment"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/nezaměstnanost",
+      "kód": "nezaměstnanost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Nezaměstnanost",
+          "en":  "Unemployment"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/statistika/potenciální-pracovní-síla",
+      "kód": "potenciální-pracovní-síla",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Potenciální pracovní síla",
+          "en":  "Potential labour force"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vodopis",
+      "kód": "vodopis",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/hy"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Vodopis",
+          "en":  "Hydrography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nadmořská-výška",
+      "kód": "nadmořská-výška",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/el"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Nadmořská výška",
+          "en":  "Elevation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/krajinný-pokryv",
+      "kód": "krajinný-pokryv",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/lc"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Krajinný pokryv",
+          "en":  "Land cover"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ortofotosnímky",
+      "kód": "ortofotosnímky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/oi"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Ortofotosnímky",
+          "en":  "Orthoimagery"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení",
+      "kód": "správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/am"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Správní oblasti / chráněná pásma / regulovaná území a jednotky podávající hlášení",
+          "en":  "Area management / restriction / regulation zones & reporting units"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zařízení-pro-sledování-životního-prostředí",
+      "kód": "zařízení-pro-sledování-životního-prostředí",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/ef"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Zařízení pro sledování životního prostředí",
+          "en":  "Environmental monitoring Facilities"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/stanoviště-a-biotopy",
+      "kód": "stanoviště-a-biotopy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/hb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Stanoviště a biotopy",
+          "en":  "Habitats and biotopes"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/využití-území",
+      "kód": "využití-území",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/lu"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Využití území",
+          "en":  "Land Use"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nerostné-suroviny",
+      "kód": "nerostné-suroviny",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/mr"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Nerostné suroviny",
+          "en":  "Mineral Resources"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/oblasti-ohrožené-přírodními-riziky",
+      "kód": "oblasti-ohrožené-přírodními-riziky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/nz"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Oblasti ohrožené přírodními riziky",
+          "en":  "Natural risk zones"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zeměpisné-oceánografické-prvky",
+      "kód": "zeměpisné-oceánografické-prvky",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/of"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Zeměpisné oceánografické prvky",
+          "en":  "Oceanographic geographical features"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/výrobní-a-průmyslová-zařízení",
+      "kód": "výrobní-a-průmyslová-zařízení",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/pf"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Výrobní a průmyslová zařízení",
+          "en":  "Production and industrial facilities"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/mořské-oblasti",
+      "kód": "mořské-oblasti",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/sr"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Mořské oblasti",
+          "en":  "Sea regions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/půda",
+      "kód": "půda",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/so"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Půda",
+          "en":  "Soil"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/rozložení-druhů",
+      "kód": "rozložení-druhů",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:exactMatch": {
+            "iri": "http://inspire.ec.europa.eu/theme/sd"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Rozložení druhů",
+          "en":  "Species distribution"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vzduch",
+      "kód": "vzduch",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Vzduch",
+          "en":  "Air"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/klima",
+      "kód": "klima",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Klima",
+          "en":  "Climate"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ochrana-přírody-a-biologická-rozmanitost",
+      "kód": "ochrana-přírody-a-biologická-rozmanitost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Ochrana přírody a biologická rozmanitost",
+          "en":  "Nature preservation and biodiversity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/odpad",
+      "kód": "odpad",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Odpad",
+          "en":  "Waste"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/voda",
+      "kód": "voda",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Voda",
+          "en":  "Water"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/horizontální-právní-předpisy",
+      "kód": "horizontální-právní-předpisy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_164e0bf5"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí"
+      },
+      "název": {
+          "cs":  "Horizontální právní předpisy",
+          "en":  "Horizontal legislation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/průmyslová-výroba",
+      "kód": "průmyslová-výroba",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Průmyslová výroba",
+          "en":  "Industrial production"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/členění-indexu-cen-průmyslových-výrobců-podle-činnosti",
+      "kód": "členění-indexu-cen-průmyslových-výrobců-podle-činnosti",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Členění indexu cen průmyslových výrobců podle činnosti",
+          "en":  "Industrial producer price index breakdowns by activity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/objem-prodeje-podle-činnosti",
+      "kód": "objem-prodeje-podle-činnosti",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Objem prodeje podle činnosti",
+          "en":  "Volume of sales by activity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/statistika-mezinárodního-obchodu-EU-se-zbožím",
+      "kód": "statistika-mezinárodního-obchodu-EU-se-zbožím",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Statistika mezinárodního obchodu EU se zbožím – vývoz a dovoz, \nčlenění zároveň podle partnerů, výrobků a toků",
+          "en":  "EU International trade in goods statistics – exports and imports\nbreakdowns simultaneously by partner, product and flow"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/toky-cestovního-ruchu-v-evropě",
+      "kód": "toky-cestovního-ruchu-v-evropě",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Toky cestovního ruchu v Evropě",
+          "en":  "Tourism flows in Europe"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika/harmonizované-indexy-spotřebitelských-cen",
+      "kód": "harmonizované-indexy-spotřebitelských-cen",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_e1da4e07"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/statistika"
+      },
+      "název": {
+          "cs":  "Harmonizované indexy spotřebitelských cen",
+          "en":  "Harmonised Indices of consumer prices"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností",
+      "kód": "společnosti-a-vlastnictví-společností",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_a9135398"
+      },
+      "název": {
+          "cs":  "Společnosti a vlastnictví společností",
+          "en":  "Companies and company ownership"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/základní-informace-o-společnosti-klíčové-atributy",
+      "kód": "základní-informace-o-společnosti-klíčové-atributy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_a9135398"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností"
+      },
+      "název": {
+          "cs":  "Základní informace o společnosti: klíčové atributy",
+          "en":  "Basic company information: key attributes"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností/dokumenty-a-účty-společnosti",
+      "kód": "dokumenty-a-účty-společnosti",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_a9135398"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/společnosti-a-vlastnictví-společností"
+      },
+      "název": {
+          "cs":  "Dokumenty a účty společnosti",
+          "en":  "Company documents and accounts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita",
+      "kód": "mobilita",
+      "skos:exactMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "název": {
+          "cs":  "Mobilita",
+          "en":  "Mobility"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/dopravní-sítě",
+      "kód": "dopravní-sítě",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita"
+      },
+      "název": {
+          "cs":  "Dopravní sítě",
+          "en":  "Transport networks"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty",
+      "kód": "vnitrozemské-vodní-cesty",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita"
+      },
+      "název": {
+          "cs":  "Datové soubory týkající se vnitrozemských vodních cest",
+          "en":  "Inland waterways datasets"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/vlastnosti-plavební-dráhy",
+      "kód": "vlastnosti-plavební-dráhy",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Vlastnosti plavební dráhy",
+          "en":  "Fairway characteristics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dlouhodobé-překážky-na-plavební-dráze-a-spolehlivost",
+      "kód": "dlouhodobé-překážky-na-plavební-dráze-a-spolehlivost",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Dlouhodobé překážky na plavební dráze a spolehlivost",
+          "en":  "Long-time obstructions in the fairway and reliability"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/výše-poplatků-za-užívání-infrastruktury-vodních-cest",
+      "kód": "výše-poplatků-za-užívání-infrastruktury-vodních-cest",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Výše poplatků za užívání infrastruktury vodních cest",
+          "en":  "Rates of waterway infrastructure charges"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/další-fyzická-omezení-na-vodních-cestách",
+      "kód": "další-fyzická-omezení-na-vodních-cestách",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Další fyzická omezení na vodních cestách",
+          "en":  "Other physical limitations on waterways"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidelné-provozní-doby-plavebních-komor-a-mostů",
+      "kód": "pravidelné-provozní-doby-plavebních-komor-a-mostů",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Pravidelné provozní doby plavebních komor a mostů",
+          "en":  "Regular lock and bridge operating times"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-a-vlastnosti-přístavů-a-překladišť",
+      "kód": "umístění-a-vlastnosti-přístavů-a-překladišť",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Umístění a vlastnosti přístavů a překladišť",
+          "en":  "Location and characteristics of ports and transhipment sites"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/seznam-pomůcek-pro-plavbu-a-dopravního-značení",
+      "kód": "seznam-pomůcek-pro-plavbu-a-dopravního-značení",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Seznam pomůcek pro plavbu a dopravního značení",
+          "en":  "List of navigation aids and traffic signs"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/pravidla-a-doporučení-týkající-se-plavby",
+      "kód": "pravidla-a-doporučení-týkající-se-plavby",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Pravidla a doporučení týkající se plavby",
+          "en":  "Navigation rules and recommendations"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-hloubky-vody-v-plavebním-kanálu",
+      "kód": "obrysy-hloubky-vody-v-plavebním-kanálu",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Obrysy hloubky vody v plavebním kanálu",
+          "en":  "Water depths contours in the navigation channel"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/dočasné-částečné-uzávěry-na-vodní-cestě",
+      "kód": "dočasné-částečné-uzávěry-na-vodní-cestě",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Dočasné částečné uzávěry na vodní cestě",
+          "en":  "Temporary obstructions in the fairway"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stávající-a-budoucí-vodní-stavy-u-vodočtů",
+      "kód": "stávající-a-budoucí-vodní-stavy-u-vodočtů",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Stávající a budoucí vodní stavy u vodočtů",
+          "en":  "Present and future water levels at gauges"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/stav-řek-kanálů-zdymadel-a-mostů",
+      "kód": "stav-řek-kanálů-zdymadel-a-mostů",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Stav řek, kanálů, zdymadel a mostů",
+          "en":  "State of the rivers, canals, locks and bridges"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/omezení-způsobená-povodní-a-ledem",
+      "kód": "omezení-způsobená-povodní-a-ledem",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Omezení způsobená povodní a ledem",
+          "en":  "Restrictions caused by flood and ice"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-provozních-dob-plavebních-komor-a-mostů",
+      "kód": "krátkodobé-změny-provozních-dob-plavebních-komor-a-mostů",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Krátkodobé změny provozních dob plavebních komor a mostů",
+          "en":  "Short term changes of lock and bridge operating times"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/krátkodobé-změny-pomůcek-pro-plavbu",
+      "kód": "krátkodobé-změny-pomůcek-pro-plavbu",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Krátkodobé změny pomůcek pro plavbu",
+          "en":  "Short term changes of aids to navigation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/osa-vodní-cesty-s-uvedením-kilometráže",
+      "kód": "osa-vodní-cesty-s-uvedením-kilometráže",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Osa vodní cesty s uvedením kilometráže",
+          "en":  "Waterway axis with kilometres indication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/odkazy-na-externí-soubory-xml-s-provozními-dobami-omezujících-infrastruktur",
+      "kód": "odkazy-na-externí-soubory-xml-s-provozními-dobami-omezujících-infrastruktur",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Odkazy na externí soubory xml s provozními dobami omezujících infrastruktur",
+          "en":  "Links to the external xml-files with operation times of restricting structures"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/umístění-přístavů-a-překladišť",
+      "kód": "umístění-přístavů-a-překladišť",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Umístění přístavů a překladišť",
+          "en":  "Location of ports and transhipment sites"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/referenční-údaje-pro-vodočty-které-jsou-důležité-pro-plavbu",
+      "kód": "referenční-údaje-pro-vodočty-které-jsou-důležité-pro-plavbu",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Referenční údaje pro vodočty, které jsou důležité pro plavbu",
+          "en":  "Reference data for water level gauges relevant to navigation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/břeh-vodní-cesty-při-střední-hladině-vody",
+      "kód": "břeh-vodní-cesty-při-střední-hladině-vody",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Břeh vodní cesty při střední hladině vody",
+          "en":  "Bank of waterway at mean water level"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/sestavení-pobřežní-čáry",
+      "kód": "sestavení-pobřežní-čáry",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Sestavení pobřežní čáry",
+          "en":  "Shoreline construction"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/obrysy-zdymadel-a-přehrad",
+      "kód": "obrysy-zdymadel-a-přehrad",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Obrysy zdymadel a přehrad",
+          "en":  "Contours of locks and dams"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/hranice-plavební-dráhy-plavebního-kanálu",
+      "kód": "hranice-plavební-dráhy-plavebního-kanálu",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Hranice plavební dráhy / plavebního kanálu",
+          "en":  "Boundaries of the fairway/navigation channel"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/izolovaná-nebezpečí-v-plavební-dráze-plavebním-kanálu-pod-a-nad-hladinou",
+      "kód": "izolovaná-nebezpečí-v-plavební-dráze-plavebním-kanálu-pod-a-nad-hladinou",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Izolovaná nebezpečí v plavební dráze / plavebním kanálu pod a nad hladinou",
+          "en":  "Isolated dangers in the fairway/navigation channel under and above water"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty/oficiální-podpůrné-prostředky-pro-plavbu",
+      "kód": "oficiální-podpůrné-prostředky-pro-plavbu",
+      "skos:broadMatch": {
+            "iri": "http://data.europa.eu/bna/c_b79e35eb"
+      },
+      "skos:broader": {
+            "iri": "https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty"
+      },
+      "název": {
+          "cs":  "Oficiální podpůrné prostředky pro plavbu (např. bóje, pobřežní znaky, majáky, výstražné značky)",
+          "en":  "Official aids-to-navigation (e.g. buoys, beacons, lights, notice marks)"
+      }
+    }
+  ]
+}
