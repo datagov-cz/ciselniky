@@ -14,6 +14,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Administrative units"@en, "Správní jednotky"@cs;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/au> ;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/zeměpisné-názvy>
@@ -21,6 +22,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Geographical names"@en, "Zeměpisné názvy"@cs;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/gn> ;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/adresy>
@@ -28,6 +30,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Addresses"@en, "Adresy"@cs;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/ad> ;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/budovy>
@@ -35,6 +38,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Buildings"@en, "Budovy"@cs;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/bu> ;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-udaje/katastrální-parcely>
@@ -42,6 +46,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Katastrální parcely"@cs, "Cadastral parcels"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/cp> ;
   skos:broadMatch <http://data.europa.eu/bna/c_ac64a52d> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/geoprostorové-údaje/referenční-pozemky>
@@ -70,6 +75,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Bioregiony"@cs, "Bio-geographical regions"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/br> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/chráněná-území>
@@ -77,6 +83,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Chráněná území"@cs, "Protected sites"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/ps> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/emise>
@@ -91,6 +98,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Energetické zdroje"@cs, "Energy Resources"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/er> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/geologie>
@@ -98,6 +106,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Geologie"@cs, "Geology"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/ge> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/hluk>
@@ -264,6 +273,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Vodopis"@cs, "Hydrography"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/hy> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nadmořská-výška>
@@ -271,6 +281,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Nadmořská výška"@cs, "Elevation"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/el> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/krajinný-pokryv>
@@ -278,6 +289,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Krajinný pokryv"@cs, "Land cover"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/lc> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/ortofotosnímky>
@@ -285,6 +297,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Ortofotosnímky"@cs, "Orthoimagery"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/oi> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/správní-oblasti-chráněná-pásma-regulovaná-území-a-jednotky-podávající-hlášení>
@@ -293,6 +306,7 @@
   skos:prefLabel "Správní oblasti / chráněná pásma / regulovaná území a jednotky podávající hlášení"@cs,
     "Area management / restriction / regulation zones & reporting units"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/am> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zařízení-pro-sledování-životního-prostředí>
@@ -300,6 +314,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Zařízení pro sledování životního prostředí"@cs, "Environmental monitoring Facilities"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/ef> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/stanoviště-a-biotopy>
@@ -307,6 +322,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Stanoviště a biotopy"@cs, "Habitats and biotopes"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/hb> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/využití-území>
@@ -314,6 +330,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Využití území"@cs, "Land Use"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/lu> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/nerostné-suroviny>
@@ -321,6 +338,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Nerostné suroviny"@cs, "Mineral Resources"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/mr> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/oblasti-ohrožené-přírodními-riziky>
@@ -328,6 +346,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Oblasti ohrožené přírodními riziky"@cs, "Natural risk zones"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/nz> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/zeměpisné-oceánografické-prvky>
@@ -335,6 +354,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Zeměpisné oceánografické prvky"@cs, "Oceanographic geographical features"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/of> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/výrobní-a-průmyslová-zařízení>
@@ -342,6 +362,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Výrobní a průmyslová zařízení"@cs, "Production and industrial facilities"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/pf> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/mořské-oblasti>
@@ -349,6 +370,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Mořské oblasti"@cs, "Sea regions"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/sr> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/půda>
@@ -356,6 +378,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Půda"@cs, "Soil"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/so> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/rozložení-druhů>
@@ -363,6 +386,7 @@
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Rozložení druhů"@cs, "Species distribution"@en;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí>;
+  skos:exactMatch <http://inspire.ec.europa.eu/theme/sd> ;
   skos:broadMatch <http://data.europa.eu/bna/c_164e0bf5> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/pozorování-země-a-životní-prostředí/vzduch>
@@ -483,6 +507,7 @@ breakdowns simultaneously by partner, product and flow"""@en;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hvds>;
   skos:prefLabel "Transport networks"@en, "Dopravní sítě"@cs;
   skos:broader <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita>;
+  skos:closeMatch <https://inspire.ec.europa.eu/theme/tn> ;
   skos:broadMatch <http://data.europa.eu/bna/c_b79e35eb> .
 
 <https://data.dia.gov.cz/zdroj/číselníky/hvds/položky/mobilita/vnitrozemské-vodní-cesty>
