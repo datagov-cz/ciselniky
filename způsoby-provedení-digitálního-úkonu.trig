@@ -1,0 +1,36 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu> {
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu> a skos:ConceptScheme;
+    skos:prefLabel "Způsoby provedení digitálního úkonu"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/1>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu>;
+    skos:prefLabel "Datová schránka"@cs;
+    skos:notation "1" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/2>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu>;
+    skos:prefLabel "Kontaktní místo veřejné správy"@cs;
+    skos:notation "2" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/3>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu>;
+    skos:prefLabel "Síť elektronických komunikací dokumentem podepsaným uznávaným elektronickým podpisem nebo uznávanou elektronickou pečetí"@cs;
+    skos:notation "3" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/4>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu>;
+    skos:prefLabel "Informační systém veřejné správy umožňující prokázání totožnosti uživatele služby s využitím elektronické identifikace"@cs;
+    skos:notation "4" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/5>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu>;
+    skos:prefLabel "Jiný způsob stanovený právním předpisem"@cs;
+    skos:notation "5" .
+}

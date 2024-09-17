@@ -1,0 +1,47 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Způsoby provedení digitálního úkonu"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/1",
+      "kód": "1",
+      "název": {
+          "cs":  "Datová schránka"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/2",
+      "kód": "2",
+      "název": {
+          "cs":  "Kontaktní místo veřejné správy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/3",
+      "kód": "3",
+      "název": {
+          "cs":  "Síť elektronických komunikací dokumentem podepsaným uznávaným elektronickým podpisem nebo uznávanou elektronickou pečetí"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/4",
+      "kód": "4",
+      "název": {
+          "cs":  "Informační systém veřejné správy umožňující prokázání totožnosti uživatele služby s využitím elektronické identifikace"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/5",
+      "kód": "5",
+      "název": {
+          "cs":  "Jiný způsob stanovený právním předpisem"
+      }
+    }
+  ]
+}

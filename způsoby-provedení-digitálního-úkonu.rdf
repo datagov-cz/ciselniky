@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Způsoby provedení digitálního úkonu</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu"/>
+	<skos:prefLabel xml:lang="cs">Datová schránka</skos:prefLabel>
+	<skos:notation>1</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu"/>
+	<skos:prefLabel xml:lang="cs">Kontaktní místo veřejné správy</skos:prefLabel>
+	<skos:notation>2</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/3">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu"/>
+	<skos:prefLabel xml:lang="cs">Síť elektronických komunikací dokumentem podepsaným uznávaným elektronickým podpisem nebo uznávanou elektronickou pečetí</skos:prefLabel>
+	<skos:notation>3</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu"/>
+	<skos:prefLabel xml:lang="cs">Informační systém veřejné správy umožňující prokázání totožnosti uživatele služby s využitím elektronické identifikace</skos:prefLabel>
+	<skos:notation>4</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu/položky/5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-provedení-digitálního-úkonu"/>
+	<skos:prefLabel xml:lang="cs">Jiný způsob stanovený právním předpisem</skos:prefLabel>
+	<skos:notation>5</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>
