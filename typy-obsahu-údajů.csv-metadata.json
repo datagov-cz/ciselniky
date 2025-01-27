@@ -1,0 +1,72 @@
+
+{
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/typy-obsahu-údajů.csv-metadata.json",
+	"@context": [
+		"http://www.w3.org/ns/csvw",
+		{
+			"@language": "cs"
+		}
+	],
+	"@type": "Table",
+	"url": "typy-obsahu-údajů.csv",
+	"tableSchema": {
+		"@type": "Schema",
+		"columns": [{
+			"@type": "Column",
+			"name": "ciselnik",
+			"titles": "číselník",
+			"dc:description": "IRI číselníku",
+			"aboutUrl": "{+ciselnik}",
+			"propertyUrl": "rdf:type",
+			"valueUrl": "skos:ConceptScheme",
+			"required": true,
+			"datatype": "anyURI"
+		}, {
+			"@type": "Column",
+			"name": "ciselnik_nazev_cs",
+			"titles": "číselník_název_cs",
+			"dc:description": "Název číselníku v češtině",
+			"aboutUrl": "{+ciselnik}",
+			"propertyUrl": "skos:prefLabel",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		}, {
+			"@type": "Column",
+			"name": "polozka",
+			"titles": "číselník_položka",
+			"dc:description": "IRI položky",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "rdf:type",
+			"valueUrl": "skos:Concept",
+			"required": true,
+			"datatype": "anyURI"
+		}, {
+			"@type": "Column",
+			"name": "polozka_kod",
+			"titles": "číselník_položka_kód",
+			"dc:description": "Kód položky",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:notation",
+			"required": true,
+			"datatype": "string"
+		},{
+			"@type": "Column",
+			"name": "polozka_nazev_cs",
+			"titles": "číselník_položka_název_cs",
+			"dc:description": "Název položky v češtině",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:prefLabel",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		},   {
+			"@type": "Column",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:inScheme",
+			"valueUrl": "{+ciselnik}",
+			"virtual": true
+		}],
+		"primaryKey": "polozka"
+	}
+}

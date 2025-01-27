@@ -1,0 +1,40 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Kategorie údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb."
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/základních-registrů",
+      "kód": "základních-registrů",
+      "název": {
+          "cs":  "Základních registrů"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/jiných-agend",
+      "kód": "jiných-agend",
+      "název": {
+          "cs":  "Jiných agend"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/vlastní",
+      "kód": "vlastní",
+      "název": {
+          "cs":  "Vlastní"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/provozní",
+      "kód": "provozní",
+      "název": {
+          "cs":  "Provozní"
+      }
+    }
+  ]
+}

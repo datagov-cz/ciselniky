@@ -1,0 +1,33 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Typy obsahu údajů v ISVS dle § 23, odst. 3, vyhlášky č. 360/2023 Sb."
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační",
+      "kód": "identifikační",
+      "název": {
+          "cs":  "Identifikační"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční",
+      "kód": "evidenční",
+      "název": {
+          "cs":  "Evidenční"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické",
+      "kód": "statistické",
+      "název": {
+          "cs":  "Statistické"
+      }
+    }
+  ]
+}

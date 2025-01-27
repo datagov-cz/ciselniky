@@ -1,0 +1,27 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů> {
+  <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů> a skos:ConceptScheme;
+    skos:prefLabel "Kategorie údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb."@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/základních-registrů>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů>;
+    skos:prefLabel "Základních registrů"@cs;
+    skos:notation "základních-registrů" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/jiných-agend> a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů>;
+    skos:prefLabel "Jiných agend"@cs;
+    skos:notation "jiných-agend" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/vlastní> a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů>;
+    skos:prefLabel "Vlastní"@cs;
+    skos:notation "vlastní" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů/položky/provozní> a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/kategorie-údajů>;
+    skos:prefLabel "Provozní"@cs;
+    skos:notation "provozní" .
+}

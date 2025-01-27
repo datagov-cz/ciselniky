@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Typy obsahu údajů v ISVS dle § 23, odst. 3, vyhlášky č. 360/2023 Sb.</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů"/>
+	<skos:prefLabel xml:lang="cs">Identifikační</skos:prefLabel>
+	<skos:notation>identifikační</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů"/>
+	<skos:prefLabel xml:lang="cs">Evidenční</skos:prefLabel>
+	<skos:notation>evidenční</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů"/>
+	<skos:prefLabel xml:lang="cs">Statistické</skos:prefLabel>
+	<skos:notation>statistické</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,21 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> a skos:ConceptScheme;
+  skos:prefLabel "Typy obsahu údajů v ISVS dle § 23, odst. 3, vyhlášky č. 360/2023 Sb."@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
+  skos:prefLabel "Identifikační"@cs;
+  skos:notation "identifikační" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
+  skos:prefLabel "Evidenční"@cs;
+  skos:notation "evidenční" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> a
+    skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
+  skos:prefLabel "Statistické"@cs;
+  skos:notation "statistické" .

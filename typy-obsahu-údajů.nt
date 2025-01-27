@@ -1,0 +1,14 @@
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> <http://www.w3.org/2004/02/skos/core#prefLabel> "Typy obsahu údajů v ISVS dle § 23, odst. 3, vyhlášky č. 360/2023 Sb."@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační> <http://www.w3.org/2004/02/skos/core#prefLabel> "Identifikační"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační> <http://www.w3.org/2004/02/skos/core#notation> "identifikační" .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evidenční"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> <http://www.w3.org/2004/02/skos/core#notation> "evidenční" .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistické"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> <http://www.w3.org/2004/02/skos/core#notation> "statistické" .

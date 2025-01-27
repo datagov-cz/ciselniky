@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Způsoby sdílení údajů v ISVS dle § 23, odst. 2, vyhlášky č. 360/2023 Sb.</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů"/>
+	<skos:prefLabel xml:lang="cs">Veřejně přístupné</skos:prefLabel>
+	<skos:notation>veřejně-přístupné</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů"/>
+	<skos:prefLabel xml:lang="cs">Poskytované na žádost</skos:prefLabel>
+	<skos:notation>poskytované-na-žádost</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů"/>
+	<skos:prefLabel xml:lang="cs">Zpřístupňované pro výkon agendy</skos:prefLabel>
+	<skos:notation>zpřístupňované-pro-výkon-agendy</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>
