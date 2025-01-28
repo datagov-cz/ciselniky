@@ -28,6 +28,13 @@
       "název": {
           "cs":  "Zpřístupňované pro výkon agendy"
       }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/neveřejné",
+      "kód": "neveřejné",
+      "název": {
+          "cs":  "Neveřejné"
+      }
     }
   ]
 }
