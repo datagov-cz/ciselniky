@@ -29,11 +29,11 @@
 	<skos:notation>zpřístupňované-pro-výkon-agendy</skos:notation>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/neveřejné">
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů"/>
-	<skos:prefLabel xml:lang="cs">Neveřejné</skos:prefLabel>
-	<skos:notation>neveřejné</skos:notation>
+	<skos:prefLabel xml:lang="cs">Nesdílené</skos:prefLabel>
+	<skos:notation>nesdílené</skos:notation>
 </rdf:Description>
 
 </rdf:RDF>

@@ -22,9 +22,9 @@
     skos:prefLabel "Zpřístupňované pro výkon agendy"@cs;
     skos:notation "zpřístupňované-pro-výkon-agendy" .
   
-  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/neveřejné>
+  <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené>
     a skos:Concept;
     skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů>;
-    skos:prefLabel "Neveřejné"@cs;
-    skos:notation "neveřejné" .
+    skos:prefLabel "Nesdílené"@cs;
+    skos:notation "nesdílené" .
 }

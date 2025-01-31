@@ -30,10 +30,10 @@
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/neveřejné",
-      "kód": "neveřejné",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené",
+      "kód": "nesdílené",
       "název": {
-          "cs":  "Neveřejné"
+          "cs":  "Nesdílené"
       }
     }
   ]
