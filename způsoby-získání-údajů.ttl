@@ -1,0 +1,32 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> a skos:ConceptScheme;
+  skos:prefLabel "Způsoby získání údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb."@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů>;
+  skos:prefLabel "Základních registrů"@cs;
+  skos:notation "základních-registrů";
+  skos:definition "Údaje čerpané pro výkon agendy ze základních registrů"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů>;
+  skos:prefLabel "Jiných agend"@cs;
+  skos:notation "jiných-agend";
+  skos:definition "Údaje získávané pro výkon agendy od jiných úřadů"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> a
+    skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů>;
+  skos:prefLabel "Vlastní"@cs;
+  skos:notation "vlastní";
+  skos:definition "Údaje vznikající při výkonu agendy, které mají evidenční charakter, tedy vztahují se k objektu nebo subjektu práva za účelem výkonu veřejné správy"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> a
+    skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů>;
+  skos:prefLabel "Provozní"@cs;
+  skos:notation "provozní";
+  skos:definition "Údaje vznikající při výkonu agendy, které nemají evidenční charakter a nevznikají za účelem výkonu veřejné správy"@cs .

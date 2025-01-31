@@ -1,0 +1,52 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Způsoby získání údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb."
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů",
+      "kód": "základních-registrů",
+      "definice": {
+          "cs":  "Údaje čerpané pro výkon agendy ze základních registrů"
+      },
+      "název": {
+          "cs":  "Základních registrů"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend",
+      "kód": "jiných-agend",
+      "definice": {
+          "cs":  "Údaje získávané pro výkon agendy od jiných úřadů"
+      },
+      "název": {
+          "cs":  "Jiných agend"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní",
+      "kód": "vlastní",
+      "definice": {
+          "cs":  "Údaje vznikající při výkonu agendy, které mají evidenční charakter, tedy vztahují se k objektu nebo subjektu práva za účelem výkonu veřejné správy"
+      },
+      "název": {
+          "cs":  "Vlastní"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní",
+      "kód": "provozní",
+      "definice": {
+          "cs":  "Údaje vznikající při výkonu agendy, které nemají evidenční charakter a nevznikají za účelem výkonu veřejné správy"
+      },
+      "název": {
+          "cs":  "Provozní"
+      }
+    }
+  ]
+}

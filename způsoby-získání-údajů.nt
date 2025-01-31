@@ -1,0 +1,22 @@
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> <http://www.w3.org/2004/02/skos/core#prefLabel> "Způsoby získání údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb."@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů> <http://www.w3.org/2004/02/skos/core#prefLabel> "Základních registrů"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů> <http://www.w3.org/2004/02/skos/core#notation> "základních-registrů" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/základních-registrů> <http://www.w3.org/2004/02/skos/core#definition> "Údaje čerpané pro výkon agendy ze základních registrů"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiných agend"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend> <http://www.w3.org/2004/02/skos/core#notation> "jiných-agend" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/jiných-agend> <http://www.w3.org/2004/02/skos/core#definition> "Údaje získávané pro výkon agendy od jiných úřadů"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlastní"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> <http://www.w3.org/2004/02/skos/core#notation> "vlastní" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> <http://www.w3.org/2004/02/skos/core#definition> "Údaje vznikající při výkonu agendy, které mají evidenční charakter, tedy vztahují se k objektu nebo subjektu práva za účelem výkonu veřejné správy"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů> .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provozní"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> <http://www.w3.org/2004/02/skos/core#notation> "provozní" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/provozní> <http://www.w3.org/2004/02/skos/core#definition> "Údaje vznikající při výkonu agendy, které nemají evidenční charakter a nevznikají za účelem výkonu veřejné správy"@cs .

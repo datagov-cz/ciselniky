@@ -1,6 +1,6 @@
 
 {
-	"@id": "https://data.mff.cuni.cz/soubory/číselníky/kategorie-údajů.csv-metadata.json",
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/způsoby-získání-údajů.csv-metadata.json",
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
@@ -8,7 +8,7 @@
 		}
 	],
 	"@type": "Table",
-	"url": "kategorie-údajů.csv",
+	"url": "způsoby-získání-údajů.csv",
 	"tableSchema": {
 		"@type": "Schema",
 		"columns": [{
@@ -60,7 +60,17 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "cs"
-		},   {
+		},{
+			"@type": "Column",
+			"name": "polozka_definice_cs",
+			"titles": "číselník_položka_definice_cs",
+			"dc:description": "Definice položky v češtině",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:definition",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		},{
 			"@type": "Column",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",
