@@ -60,7 +60,17 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "cs"
-		},   {
+		},{
+			"@type": "Column",
+			"name": "polozka_definice_cs",
+			"titles": "číselník_položka_definice_cs",
+			"dc:description": "Definice položky v češtině",
+			"aboutUrl": "{+polozka}",
+			"propertyUrl": "skos:definition",
+			"required": true,
+			"datatype": "string",
+			"lang": "cs"
+		},{
 			"@type": "Column",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",

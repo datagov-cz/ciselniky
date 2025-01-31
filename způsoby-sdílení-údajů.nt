@@ -4,15 +4,19 @@
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veřejně přístupné"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné> <http://www.w3.org/2004/02/skos/core#notation> "veřejně-přístupné" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné> <http://www.w3.org/2004/02/skos/core#definition> "Údaje publikované veřejně ve formě otevřených dat či jakkoliv jinak"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poskytované na žádost"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost> <http://www.w3.org/2004/02/skos/core#notation> "poskytované-na-žádost" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost> <http://www.w3.org/2004/02/skos/core#definition> "Údaje poskytované na žádost subjektu práva nebo na základě zákona o svobodném přístupu k informacím"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zpřístupňované pro výkon agendy"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy> <http://www.w3.org/2004/02/skos/core#notation> "zpřístupňované-pro-výkon-agendy" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy> <http://www.w3.org/2004/02/skos/core#definition> "Údaje sdílené jiným agendám, které mají oprávněný zájem je využívat pro výkon své působnosti"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů> .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nesdílené"@cs .
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené> <http://www.w3.org/2004/02/skos/core#notation> "nesdílené" .
+<https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené> <http://www.w3.org/2004/02/skos/core#definition> "Údaje, které nejsou sdílené žádným z předchozích způsobů"@cs .

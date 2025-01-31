@@ -11,6 +11,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/identifikační",
       "kód": "identifikační",
+      "definice": {
+          "cs":  "Údaje, které, které samostatně nebo ve skupině identifikují konkrétní objekt či subjekt práva"
+      },
       "název": {
           "cs":  "Identifikační"
       }
@@ -18,6 +21,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční",
       "kód": "evidenční",
+      "definice": {
+          "cs":  "Údaje, které neidentifikují objekt či subjekt práva, ale váží se k němu v rámci agendy a evidence, která se v ní vede"
+      },
       "název": {
           "cs":  "Evidenční"
       }
@@ -25,6 +31,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické",
       "kód": "statistické",
+      "definice": {
+          "cs":  "Údaje, které seskupují a formou anonymizace či pseudonymizace zamezují vazbě na objekt či subjekt práva"
+      },
       "název": {
           "cs":  "Statistické"
       }

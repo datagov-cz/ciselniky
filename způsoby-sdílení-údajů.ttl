@@ -7,22 +7,26 @@
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů>;
   skos:prefLabel "Veřejně přístupné"@cs;
-  skos:notation "veřejně-přístupné" .
+  skos:notation "veřejně-přístupné";
+  skos:definition "Údaje publikované veřejně ve formě otevřených dat či jakkoliv jinak"@cs .
 
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost>
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů>;
   skos:prefLabel "Poskytované na žádost"@cs;
-  skos:notation "poskytované-na-žádost" .
+  skos:notation "poskytované-na-žádost";
+  skos:definition "Údaje poskytované na žádost subjektu práva nebo na základě zákona o svobodném přístupu k informacím"@cs .
 
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy>
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů>;
   skos:prefLabel "Zpřístupňované pro výkon agendy"@cs;
-  skos:notation "zpřístupňované-pro-výkon-agendy" .
+  skos:notation "zpřístupňované-pro-výkon-agendy";
+  skos:definition "Údaje sdílené jiným agendám, které mají oprávněný zájem je využívat pro výkon své působnosti"@cs .
 
 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené>
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů>;
   skos:prefLabel "Nesdílené"@cs;
-  skos:notation "nesdílené" .
+  skos:notation "nesdílené";
+  skos:definition "Údaje, které nejsou sdílené žádným z předchozích způsobů"@cs .

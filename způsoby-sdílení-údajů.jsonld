@@ -11,6 +11,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/veřejně-přístupné",
       "kód": "veřejně-přístupné",
+      "definice": {
+          "cs":  "Údaje publikované veřejně ve formě otevřených dat či jakkoliv jinak"
+      },
       "název": {
           "cs":  "Veřejně přístupné"
       }
@@ -18,6 +21,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/poskytované-na-žádost",
       "kód": "poskytované-na-žádost",
+      "definice": {
+          "cs":  "Údaje poskytované na žádost subjektu práva nebo na základě zákona o svobodném přístupu k informacím"
+      },
       "název": {
           "cs":  "Poskytované na žádost"
       }
@@ -25,6 +31,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/zpřístupňované-pro-výkon-agendy",
       "kód": "zpřístupňované-pro-výkon-agendy",
+      "definice": {
+          "cs":  "Údaje sdílené jiným agendám, které mají oprávněný zájem je využívat pro výkon své působnosti"
+      },
       "název": {
           "cs":  "Zpřístupňované pro výkon agendy"
       }
@@ -32,6 +41,9 @@
       "typ": "Položka",
       "iri": "https://data.dia.gov.cz/zdroj/číselníky/způsoby-sdílení-údajů/položky/nesdílené",
       "kód": "nesdílené",
+      "definice": {
+          "cs":  "Údaje, které nejsou sdílené žádným z předchozích způsobů"
+      },
       "název": {
           "cs":  "Nesdílené"
       }

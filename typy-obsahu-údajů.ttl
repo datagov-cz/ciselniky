@@ -7,15 +7,18 @@
   a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
   skos:prefLabel "Identifikační"@cs;
-  skos:notation "identifikační" .
+  skos:notation "identifikační";
+  skos:definition "Údaje, které, které samostatně nebo ve skupině identifikují konkrétní objekt či subjekt práva"@cs .
 
 <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/evidenční> a skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
   skos:prefLabel "Evidenční"@cs;
-  skos:notation "evidenční" .
+  skos:notation "evidenční";
+  skos:definition "Údaje, které neidentifikují objekt či subjekt práva, ale váží se k němu v rámci agendy a evidence, která se v ní vede"@cs .
 
 <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů/položky/statistické> a
     skos:Concept;
   skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-obsahu-údajů>;
   skos:prefLabel "Statistické"@cs;
-  skos:notation "statistické" .
+  skos:notation "statistické";
+  skos:definition "Údaje, které seskupují a formou anonymizace či pseudonymizace zamezují vazbě na objekt či subjekt práva"@cs .
