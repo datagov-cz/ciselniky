@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Hashovací funkce použité pro eLegalizaci</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-256">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci"/>
+	<skos:prefLabel xml:lang="cs">SHA-256</skos:prefLabel>
+	<skos:notation>SHA-256</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-512">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci"/>
+	<skos:prefLabel xml:lang="cs">SHA-512</skos:prefLabel>
+	<skos:notation>SHA-512</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-256">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci"/>
+	<skos:prefLabel xml:lang="cs">SHA3-256</skos:prefLabel>
+	<skos:notation>SHA3-256</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-512">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci"/>
+	<skos:prefLabel xml:lang="cs">SHA3-512</skos:prefLabel>
+	<skos:notation>SHA3-512</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

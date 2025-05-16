@@ -1,0 +1,40 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Hashovací funkce použité pro eLegalizaci"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-256",
+      "kód": "SHA-256",
+      "název": {
+          "cs":  "SHA-256"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-512",
+      "kód": "SHA-512",
+      "název": {
+          "cs":  "SHA-512"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-256",
+      "kód": "SHA3-256",
+      "název": {
+          "cs":  "SHA3-256"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-512",
+      "kód": "SHA3-512",
+      "název": {
+          "cs":  "SHA3-512"
+      }
+    }
+  ]
+}

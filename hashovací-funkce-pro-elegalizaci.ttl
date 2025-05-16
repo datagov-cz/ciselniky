@@ -1,0 +1,28 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci> a skos:ConceptScheme;
+  skos:prefLabel "Hashovací funkce použité pro eLegalizaci"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-256>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci>;
+  skos:prefLabel "SHA-256"@cs;
+  skos:notation "SHA-256" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA-512>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci>;
+  skos:prefLabel "SHA-512"@cs;
+  skos:notation "SHA-512" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-256>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci>;
+  skos:prefLabel "SHA3-256"@cs;
+  skos:notation "SHA3-256" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci/položky/SHA3-512>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/hashovací-funkce-pro-elegalizaci>;
+  skos:prefLabel "SHA3-512"@cs;
+  skos:notation "SHA3-512" .
