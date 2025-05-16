@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://eidas.europa.eu/LoA">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Úrovně záruky eIDAS</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://eidas.europa.eu/LoA/high">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://eidas.europa.eu/LoA"/>
+	<skos:prefLabel xml:lang="cs">Vysoká úroveň záruky</skos:prefLabel>
+	<skos:notation>high</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://eidas.europa.eu/LoA/low">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://eidas.europa.eu/LoA"/>
+	<skos:prefLabel xml:lang="cs">Nízká úroveň záruky</skos:prefLabel>
+	<skos:notation>low</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://eidas.europa.eu/LoA/substantial">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://eidas.europa.eu/LoA"/>
+	<skos:prefLabel xml:lang="cs">Značná úroveň záruky</skos:prefLabel>
+	<skos:notation>substantial</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<http://eidas.europa.eu/LoA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Úrovně záruky eIDAS"@cs <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/high> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/high> <http://www.w3.org/2004/02/skos/core#inScheme> <http://eidas.europa.eu/LoA> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/high> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vysoká úroveň záruky"@cs <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/high> <http://www.w3.org/2004/02/skos/core#notation> "high" <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/low> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/low> <http://www.w3.org/2004/02/skos/core#inScheme> <http://eidas.europa.eu/LoA> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/low> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nízká úroveň záruky"@cs <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/low> <http://www.w3.org/2004/02/skos/core#notation> "low" <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/substantial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/substantial> <http://www.w3.org/2004/02/skos/core#inScheme> <http://eidas.europa.eu/LoA> <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/substantial> <http://www.w3.org/2004/02/skos/core#prefLabel> "Značná úroveň záruky"@cs <http://eidas.europa.eu/LoA> .
+<http://eidas.europa.eu/LoA/substantial> <http://www.w3.org/2004/02/skos/core#notation> "substantial" <http://eidas.europa.eu/LoA> .

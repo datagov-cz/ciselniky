@@ -1,0 +1,21 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://eidas.europa.eu/LoA> {
+  <http://eidas.europa.eu/LoA> a skos:ConceptScheme;
+    skos:prefLabel "Úrovně záruky eIDAS"@cs .
+  
+  <http://eidas.europa.eu/LoA/high> a skos:Concept;
+    skos:inScheme <http://eidas.europa.eu/LoA>;
+    skos:prefLabel "Vysoká úroveň záruky"@cs;
+    skos:notation "high" .
+  
+  <http://eidas.europa.eu/LoA/low> a skos:Concept;
+    skos:inScheme <http://eidas.europa.eu/LoA>;
+    skos:prefLabel "Nízká úroveň záruky"@cs;
+    skos:notation "low" .
+  
+  <http://eidas.europa.eu/LoA/substantial> a skos:Concept;
+    skos:inScheme <http://eidas.europa.eu/LoA>;
+    skos:prefLabel "Značná úroveň záruky"@cs;
+    skos:notation "substantial" .
+}

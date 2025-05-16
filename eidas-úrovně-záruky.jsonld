@@ -1,0 +1,33 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "http://eidas.europa.eu/LoA",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Úrovně záruky eIDAS"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "http://eidas.europa.eu/LoA/high",
+      "kód": "high",
+      "název": {
+          "cs":  "Vysoká úroveň záruky"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "http://eidas.europa.eu/LoA/low",
+      "kód": "low",
+      "název": {
+          "cs":  "Nízká úroveň záruky"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "http://eidas.europa.eu/LoA/substantial",
+      "kód": "substantial",
+      "název": {
+          "cs":  "Značná úroveň záruky"
+      }
+    }
+  ]
+}
