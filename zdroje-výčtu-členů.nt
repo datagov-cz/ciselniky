@@ -1,0 +1,18 @@
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zdroje výčtu členských obcí ve svazku obcí"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dle zákona"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona> <http://www.w3.org/2004/02/skos/core#notation> "dle-zákona" .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Webové stránky"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky> <http://www.w3.org/2004/02/skos/core#notation> "webové-stránky" .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sbírka listin"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin> <http://www.w3.org/2004/02/skos/core#notation> "sbírka-listin" .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiný zdroj"@cs .
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný> <http://www.w3.org/2004/02/skos/core#notation> "jiný" .
