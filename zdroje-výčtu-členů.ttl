@@ -1,0 +1,27 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů> a skos:ConceptScheme;
+  skos:prefLabel "Zdroje výčtu členských obcí ve svazku obcí"@cs .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona> a
+    skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů>;
+  skos:prefLabel "Dle zákona"@cs;
+  skos:notation "dle-zákona" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů>;
+  skos:prefLabel "Webové stránky"@cs;
+  skos:notation "webové-stránky" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin>
+  a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů>;
+  skos:prefLabel "Sbírka listin"@cs;
+  skos:notation "sbírka-listin" .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný> a skos:Concept;
+  skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů>;
+  skos:prefLabel "Jiný zdroj"@cs;
+  skos:notation "jiný" .

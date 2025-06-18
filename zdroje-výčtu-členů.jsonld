@@ -1,0 +1,40 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Zdroje výčtu členských obcí ve svazku obcí"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/dle-zákona",
+      "kód": "dle-zákona",
+      "název": {
+          "cs":  "Dle zákona"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/webové-stránky",
+      "kód": "webové-stránky",
+      "název": {
+          "cs":  "Webové stránky"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/sbírka-listin",
+      "kód": "sbírka-listin",
+      "název": {
+          "cs":  "Sbírka listin"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-výčtu-členů/položky/jiný",
+      "kód": "jiný",
+      "název": {
+          "cs":  "Jiný zdroj"
+      }
+    }
+  ]
+}
