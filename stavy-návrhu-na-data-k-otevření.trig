@@ -27,4 +27,16 @@
     skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
     skos:prefLabel "Cannot be published"@en, "Nelze publikovat"@cs;
     skos:notation "Nelze publikovat" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceOdmítl>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Data manager refused to publish"@en, "Správce dat odmítl publikovat"@cs;
+    skos:notation "Správce dat odmítl publikovat" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceNemáDataVPožadovanéPodoobě>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Data manager does not have the data in the required format"@en, "Správce nemá data v požadované podobě"@cs;
+    skos:notation "Správce nemá data v požadované podobě" .
 }

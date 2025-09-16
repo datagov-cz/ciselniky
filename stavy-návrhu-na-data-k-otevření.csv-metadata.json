@@ -80,7 +80,7 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "en"
-		},  {
+		},{
 			"@type": "Column",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:inScheme",

@@ -40,6 +40,22 @@
           "cs":  "Nelze publikovat",
           "en":  "Cannot be published"
       }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceOdmítl",
+      "kód": "Správce dat odmítl publikovat",
+      "název": {
+          "cs":  "Správce dat odmítl publikovat",
+          "en":  "Data manager refused to publish"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceNemáDataVPožadovanéPodoobě",
+      "kód": "Správce nemá data v požadované podobě",
+      "název": {
+          "cs":  "Správce nemá data v požadované podobě",
+          "en":  "Data manager does not have the data in the required format"
+      }
     }
   ]
 }

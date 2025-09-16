@@ -44,4 +44,20 @@
 	<skos:prefLabel xml:lang="cs">Nelze publikovat</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceOdmítl">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Data manager refused to publish</skos:prefLabel>
+	<skos:notation>Správce dat odmítl publikovat</skos:notation>
+	<skos:prefLabel xml:lang="cs">Správce dat odmítl publikovat</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření/položky/SprávceNemáDataVPožadovanéPodoobě">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/stavy-návrhu-na-data-k-otevření"/>
+	<skos:prefLabel xml:lang="en">Data manager does not have the data in the required format</skos:prefLabel>
+	<skos:notation>Správce nemá data v požadované podobě</skos:notation>
+	<skos:prefLabel xml:lang="cs">Správce nemá data v požadované podobě</skos:prefLabel>
+</rdf:Description>
+
 </rdf:RDF>
