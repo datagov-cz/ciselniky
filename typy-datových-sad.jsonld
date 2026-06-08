@@ -1,0 +1,53 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Typ datové sady",
+      "en":  "Dataset type"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/otevřená-data",
+      "kód": "otevřená-data",
+      "název": {
+          "cs":  "Otevřená data",
+          "en":  "Open data"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/dynamická-data",
+      "kód": "dynamická-data",
+      "název": {
+          "cs":  "Dynamická data",
+          "en":  "Dynamic data"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/data-z-veřejných-registrů",
+      "kód": "data-z-veřejných-registrů",
+      "název": {
+          "cs":  "Data z veřejných registrů",
+          "en":  "Data from public registries"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/datová-sada-s-vysokou-hodnotou-hvd",
+      "kód": "datová-sada-s-vysokou-hodnotou-hvd",
+      "název": {
+          "cs":  "Datová sada s vysokou hodnotou (HVD)",
+          "en":  "High-Value Dataset (HVD)"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/neveřejná-data",
+      "kód": "neveřejná-data",
+      "název": {
+          "cs":  "Neveřejná data",
+          "en":  "Non-public data"
+      }
+    }
+  ]
+}

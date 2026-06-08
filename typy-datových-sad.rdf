@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Typ datové sady</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/otevřená-data">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady"/>
+	<skos:prefLabel xml:lang="cs">Otevřená data</skos:prefLabel>
+	<skos:notation>otevřená-data</skos:notation>
+	<skos:prefLabel xml:lang="en">Open data</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady">
+	<skos:prefLabel xml:lang="en">Dataset type</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/dynamická-data">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady"/>
+	<skos:prefLabel xml:lang="cs">Dynamická data</skos:prefLabel>
+	<skos:notation>dynamická-data</skos:notation>
+	<skos:prefLabel xml:lang="en">Dynamic data</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/data-z-veřejných-registrů">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady"/>
+	<skos:prefLabel xml:lang="cs">Data z veřejných registrů</skos:prefLabel>
+	<skos:notation>data-z-veřejných-registrů</skos:notation>
+	<skos:prefLabel xml:lang="en">Data from public registries</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/datová-sada-s-vysokou-hodnotou-hvd">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady"/>
+	<skos:prefLabel xml:lang="cs">Datová sada s vysokou hodnotou (HVD)</skos:prefLabel>
+	<skos:notation>datová-sada-s-vysokou-hodnotou-hvd</skos:notation>
+	<skos:prefLabel xml:lang="en">High-Value Dataset (HVD)</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/neveřejná-data">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady"/>
+	<skos:prefLabel xml:lang="cs">Neveřejná data</skos:prefLabel>
+	<skos:notation>neveřejná-data</skos:notation>
+	<skos:prefLabel xml:lang="en">Non-public data</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

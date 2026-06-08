@@ -1,0 +1,36 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady> {
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady> a skos:ConceptScheme;
+    skos:prefLabel "Typ datové sady"@cs, "Dataset type"@en .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/otevřená-data> a
+      skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady>;
+    skos:prefLabel "Otevřená data"@cs, "Open data"@en;
+    skos:notation "otevřená-data" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/dynamická-data> a
+      skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady>;
+    skos:prefLabel "Dynamická data"@cs, "Dynamic data"@en;
+    skos:notation "dynamická-data" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/data-z-veřejných-registrů>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady>;
+    skos:prefLabel "Data z veřejných registrů"@cs, "Data from public registries"@en;
+    skos:notation "data-z-veřejných-registrů" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/datová-sada-s-vysokou-hodnotou-hvd>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady>;
+    skos:prefLabel "Datová sada s vysokou hodnotou (HVD)"@cs, "High-Value Dataset (HVD)"@en;
+    skos:notation "datová-sada-s-vysokou-hodnotou-hvd" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady/položky/neveřejná-data> a
+      skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typ-datové-sady>;
+    skos:prefLabel "Neveřejná data"@cs, "Non-public data"@en;
+    skos:notation "neveřejná-data" .
+}
