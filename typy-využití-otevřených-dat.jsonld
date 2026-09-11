@@ -1,0 +1,29 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Typy využití otevřených dat",
+      "en":  "Types of open data reuse"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Aplikace",
+      "kód": "Aplikace",
+      "název": {
+          "cs":  "Aplikace",
+          "en":  "Application"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Článek",
+      "kód": "Článek",
+      "název": {
+          "cs":  "Článek",
+          "en":  "Article"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Types of open data reuse</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Aplikace">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat"/>
+	<skos:prefLabel xml:lang="en">Application</skos:prefLabel>
+	<skos:notation>Aplikace</skos:notation>
+	<skos:prefLabel xml:lang="cs">Aplikace</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat">
+	<skos:prefLabel xml:lang="cs">Typy využití otevřených dat</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Článek">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat"/>
+	<skos:prefLabel xml:lang="en">Article</skos:prefLabel>
+	<skos:notation>Článek</skos:notation>
+	<skos:prefLabel xml:lang="cs">Článek</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

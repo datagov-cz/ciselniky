@@ -1,0 +1,45 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Zdroje podnětů k otevření dat",
+      "en":  "Sources of requests for opening data"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/HVDs",
+      "kód": "HVDs",
+      "název": {
+          "cs":  "HVDs",
+          "en":  "HVDs"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/veřejné-registry",
+      "kód": "veřejné-registry",
+      "název": {
+          "cs":  "Veřejné registry",
+          "en":  "Public registries"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/závazky-z-ICT-projektů",
+      "kód": "Závazky-z-ICT-projektů",
+      "název": {
+          "cs":  "Závazky z ICT projektů",
+          "en":  "Obligations from ICT projects"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/poptávka-veřejnosti",
+      "kód": "poptávka-veřejnosti",
+      "název": {
+          "cs":  "Poptávka veřejnosti",
+          "en":  "Public demand"
+      }
+    }
+  ]
+}

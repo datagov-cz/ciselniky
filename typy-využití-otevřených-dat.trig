@@ -1,0 +1,18 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat> {
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat> a skos:ConceptScheme;
+    skos:prefLabel "Types of open data reuse"@en, "Typy využití otevřených dat"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Aplikace>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat>;
+    skos:prefLabel "Application"@en, "Aplikace"@cs;
+    skos:notation "Aplikace" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat/položky/Článek>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/typy-využití-otevřených-dat>;
+    skos:prefLabel "Article"@en, "Článek"@cs;
+    skos:notation "Článek" .
+}
