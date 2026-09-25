@@ -1,0 +1,30 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření> {
+  <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření> a skos:ConceptScheme;
+    skos:prefLabel "Sources of suggestions for opening data"@en, "Zdroje návrhu na data k otevření"@cs .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/HVDs>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření>;
+    skos:prefLabel "HVDs"@en, "HVDs"@cs;
+    skos:notation "HVDs" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/veřejné-registry>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Public registries"@en, "Veřejné registry"@cs;
+    skos:notation "veřejné-registry" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/závazky-z-ICT-projektů>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Obligations from ICT projects"@en, "Závazky z ICT projektů"@cs;
+    skos:notation "Závazky-z-ICT-projektů" .
+  
+  <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/poptávka-veřejnosti>
+    a skos:Concept;
+    skos:inScheme <https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření>;
+    skos:prefLabel "Public demand"@en, "Poptávka veřejnosti"@cs;
+    skos:notation "poptávka-veřejnosti" .
+}

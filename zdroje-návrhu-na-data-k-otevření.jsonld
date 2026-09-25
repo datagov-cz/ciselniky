@@ -1,16 +1,16 @@
 
 {
   "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat",
+  "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření",
   "typ": "Číselník",
   "název": {
-      "cs":  "Zdroje podnětů k otevření dat",
-      "en":  "Sources of requests for opening data"
+      "cs":  "Zdroje návrhu na data k otevření",
+      "en":  "Sources of suggestions for opening data"
   },
   "položky": [
 {
       "typ": "Položka",
-      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/HVDs",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/HVDs",
       "kód": "HVDs",
       "název": {
           "cs":  "HVDs",
@@ -18,7 +18,7 @@
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/veřejné-registry",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/veřejné-registry",
       "kód": "veřejné-registry",
       "název": {
           "cs":  "Veřejné registry",
@@ -26,7 +26,7 @@
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/závazky-z-ICT-projektů",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/závazky-z-ICT-projektů",
       "kód": "Závazky-z-ICT-projektů",
       "název": {
           "cs":  "Závazky z ICT projektů",
@@ -34,7 +34,7 @@
       }
     },{
       "typ": "Položka",
-      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-podnětů-k-otevření-dat/položky/poptávka-veřejnosti",
+      "iri": "https://data.dia.gov.cz/zdroj/číselníky/zdroje-návrhu-na-data-k-otevření/položky/poptávka-veřejnosti",
       "kód": "poptávka-veřejnosti",
       "název": {
           "cs":  "Poptávka veřejnosti",

@@ -1,6 +1,6 @@
 
 {
-	"@id": "https://data.mff.cuni.cz/soubory/číselníky/zdroje-podnětů-k-otevření-dat.csv-metadata.json",
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/zdroje-návrhu-na-data-k-otevření.csv-metadata.json",
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
@@ -8,7 +8,7 @@
 		}
 	],
 	"@type": "Table",
-	"url": "zdroje-podnětů-k-otevření-dat.csv",
+	"url": "zdroje-návrhu-na-data-k-otevření.csv",
 	"tableSchema": {
 		"@type": "Schema",
 		"columns": [{
